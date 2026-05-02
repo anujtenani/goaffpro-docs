@@ -54,13 +54,21 @@ The party plan will be set for affiliates.
 
 <figure><img src="../../../.gitbook/assets/image (3568).png" alt=""><figcaption><p>The party plan will be set</p></figcaption></figure>
 
-Affiliates can create party links for hosts from the Party Links tab in their dashboard.&#x20;
+<details>
 
-{% content-ref url="../../../goaffpro/affiliate-portal/party-links.md" %}
-[party-links.md](../../../goaffpro/affiliate-portal/party-links.md)
-{% endcontent-ref %}
+<summary>Party Plans FAQ</summary>
+
+**How can affiliates create party links for hosts?**&#x20;
+
+Affiliates can create party links for hosts from the [Party Links tab](../../../goaffpro/affiliate-dashboard/advanced-tabs/party-links.md) in their dashboard.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-07-08 2002312.png" alt=""><figcaption><p>Party Links > Click on New party</p></figcaption></figure>
+
+**How do hosts receive their rewards?**
+
+The party hosts will receive their rewards automatically via email after their party period ends.
+
+</details>
 
 {% embed url="https://youtu.be/VtOD5Spc6ho" %}
 Setup Party Plans

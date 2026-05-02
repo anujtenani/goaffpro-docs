@@ -4,7 +4,7 @@
 
 To disable new affiliate registrations, go to the **General** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption><p>Settings > General</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (94) (1).png" alt=""><figcaption><p>Settings > General</p></figcaption></figure>
 
 Here, go to the Affiliate Registrations section.
 
@@ -16,7 +16,7 @@ Now, disable the "Allow registrations from affiliate page" option.
 
 After this, the registrations will be disabled on the signup page.
 
-<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (95) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=nlfPU0UsfZ4" %}
 Manage Affiliate Registrations

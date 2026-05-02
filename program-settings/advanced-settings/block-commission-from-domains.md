@@ -4,7 +4,7 @@
 
 To block commission for affiliates from clicks originating from particular domains or pages, go to the **Advanced** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3806).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 
 Here, go to the Blocked IP/Origins section.
 

@@ -4,15 +4,15 @@ description: GoAffPro Admin Panel > Setup
 
 # Setup
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-12-04 174351.png" alt=""><figcaption><p>Setup Panel</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-03-31 150515.png" alt=""><figcaption><p>Setup Panel</p></figcaption></figure>
 
 ### Look and Feel
 
-* **Store Profile** section can be used to customize the basic profile of the store, with options such as store logo, affiliate portal URL, font, and brand color of the affiliate portal.
-* **Landing Page** section can be used to customize the landing page of the affiliate portal, with options to edit the banner, card group, and footer of the landing page.&#x20;
-* **Signup Page** section can be used to customize the signup page of the affiliate portal, where you can choose from three style layouts with distinct features.
-* **Affiliate Dashboard** section can be used to customize the affiliate dashboard with options such as dashboard tabs or widgets.
-* **Toolbars** section can be used to add toolbars such as the affiliate toolbar or the shopping-with toolbar.&#x20;
+* The **Store Profile** section allows customization of the store's basic profile, including the logo, affiliate portal URL, font, and brand color.&#x20;
+* The **Landing Page** section lets you edit the banner, card group, and footer.&#x20;
+* The **Signup Page** section offers three layout styles for the signup page.&#x20;
+* The **Affiliate Dashboard** section enables the customization of dashboard tabs and widgets.&#x20;
+* The **Toolbars** section lets you add toolbars to the store like the shopping-with toolbar or the floating widget for customers.
 
 {% content-ref url="look-and-feel.md" %}
 [look-and-feel.md](look-and-feel.md)
@@ -20,13 +20,14 @@ description: GoAffPro Admin Panel > Setup
 
 ### **Commissions**
 
-* **Default Commission** option applies to all the products and affiliates. It can be set up with a percentage or a flat rate.
-* **Affiliate Commissions** option can be used to set up different commissions for a group of affiliates.
-* **Product Commissions** option can be used to set up different commissions for different products or affiliates. Here, you can select the product, the affiliate, and set the commission rate.
-* **Collection Commissions** option can be used to set commission rates for a collection or category of products.
-* **Commission rules** feature can be used to set up commission rates based on different rules for referral sales.
-* **Fixed Commissions** option can be used to set up fixed commissions for affiliates. It allows the affiliate to earn the commission regardless of who refers the sale. Here, you can select the product, affiliate, and set the commission rate.
-* **Commission Modifiers** feature can be used to modify/adjust the affiliate commission based on different rules or parameters.
+* **Referral Commissions**
+  * The **Default Commission** option applies a uniform percentage or flat rate to all products and affiliates.&#x20;
+  * The **Affiliate Commissions** option allows different rates for specific groups of affiliates.&#x20;
+  * The **Product Commissions** option enables custom rates for individual products or affiliates.&#x20;
+  * The **Collection Commissions** option sets rates for a category of products.&#x20;
+  * **Commission Rules** feature establishes rates based on referral sale criteria.&#x20;
+* **Royalty Commissions** option provides a guaranteed commission for affiliates, regardless of the referrer.&#x20;
+* **Commission Modifiers** feature adjusts affiliate commissions based on various rules or parameters.
 
 {% content-ref url="commissions.md" %}
 [commissions.md](commissions.md)
@@ -34,9 +35,7 @@ description: GoAffPro Admin Panel > Setup
 
 ### **Groups**
 
-* In the **Groups** tab, you can create commission groups for affiliates.
-* You can set up product commissions, collection commissions, or multi-level commissions within the group.
-* There is also the option to set up commission modifiers and boosters for the affiliates in the group.
+In the **Groups** tab, you can create commission groups for affiliates. You can set up product commissions, collection commissions, or multi-level commissions within the group. There is also the option to set up commission modifiers and boosters for the affiliates in the group.
 
 {% content-ref url="groups.md" %}
 [groups.md](groups.md)
@@ -44,11 +43,9 @@ description: GoAffPro Admin Panel > Setup
 
 ### **Coupons**
 
-* Here, you can **assign coupons** to affiliates, which they can promote. The table shows the affiliates and the coupons that have been assigned to them.
-* In the **Automatic Coupons** section, you can set up the coupons to be generated automatically for every affiliate that registers in the program.
-* You can change the **discount value** that the coupon provides, set up **usage limits** such as limiting the coupon usage to one use per customer, or set the number of times the coupon can be used in total by customers.
-* In the **Advanced** options, you can set up a minimum order value for coupons and can limit their usage to certain products or collections.
-* In the **Personal Coupons** option, you can generate personal coupons automatically for affiliates. These coupons will not generate any commission for the affiliates when they are used.
+* You can assign coupons to affiliates for promotion. The coupons table displays the assigned affiliates and their coupons.&#x20;
+* In the **Automatic Coupons** section, set up coupons that generate automatically for new affiliates. You can adjust the discount value, limit usage to one use per customer, or specify the total number of uses. In the Advanced options, add a minimum order value and restrict coupons to specific products or collections.&#x20;
+* For **Personal Coupons**, you can automatically create coupons for affiliates that do not generate commissions.
 
 {% content-ref url="coupons.md" %}
 [coupons.md](coupons.md)
@@ -56,20 +53,15 @@ description: GoAffPro Admin Panel > Setup
 
 ### Connections
 
-* In the **Connections** tab, you can create new Customer-Affiliate connections. You also have the option to view the connections and delete them.
-* It can be used to provide recurring commissions to affiliates.
+In the **Connections** tab, you can create new Customer-Affiliate connections. You also have the option to view the connections and delete them. It can be used to provide recurring commissions to affiliates.
 
-{% content-ref url="connections-customer-affiliate-connect.md" %}
-[connections-customer-affiliate-connect.md](connections-customer-affiliate-connect.md)
+{% content-ref url="connections.md" %}
+[connections.md](connections.md)
 {% endcontent-ref %}
 
 ### Targets
 
-* In the **Target Bonus** section, you can set one-time bonuses that will be given to affiliates when they hit the set targets.
-* In the **Commission Booster** section, you can give a commission boost to affiliates, when they cross a set tier.
-* In the **Signup Bonus** section, you can set up a bonus that will be given to an affiliate when they sign up for your affiliate program.
-* In the **Recurring Bonus** section, you can set up a recurring bonus that will be given to affiliates when they fulfill the set parameters.&#x20;
-* In the **Settings** section, you can set the value of the signup bonus and configure the target bonus.
+The **Targets** tab allows you to set goals for your affiliates. When an affiliate meets their target, they receive a bonus. Additionally, you can implement commission boosters to increase an affiliate's commission once they achieve the specified target.
 
 {% content-ref url="targets.md" %}
 [targets.md](targets.md)
@@ -77,7 +69,7 @@ description: GoAffPro Admin Panel > Setup
 
 ### Compensation Plans
 
-In the **Compensation Plans** tab, you can build custom compensation plans for affiliates.
+The **Compensation Plans** tab can be used to build custom compensation plans for affiliates. It allows you to create unilevel plans for your multi-level affiliate networks.
 
 {% content-ref url="compensation-plans.md" %}
 [compensation-plans.md](compensation-plans.md)
@@ -85,7 +77,7 @@ In the **Compensation Plans** tab, you can build custom compensation plans for a
 
 ### Automations
 
-In the **Automations** tab, you can create automations to automate tasks of your program.
+The **Automations** tab allows you to create automations to automate tasks in your program. It enables you to simplify repetitive tasks in your program, thereby saving valuable time.
 
 {% content-ref url="automations.md" %}
 [automations.md](automations.md)
@@ -93,17 +85,15 @@ In the **Automations** tab, you can create automations to automate tasks of your
 
 ### Membership Plans
 
-* In the **Membership Plans** tab, you can charge membership fees from your affiliates, by creating payment plans for them.
-* It can be used to set up one-time or recurring payment plans.
+In the **Membership Plans** tab, you can charge membership fees from your affiliates by creating payment plans for them. It can be used to set up one-time or recurring payment plans.
 
 {% content-ref url="membership-plans.md" %}
 [membership-plans.md](membership-plans.md)
 {% endcontent-ref %}
 
-### **Form referrals:**
+### **Form referrals**
 
-* In the **Form referrals** tab, you can set up forms and record leads brought in through affiliate referrals.&#x20;
-* It can be used to capture form data and view the captured leads.&#x20;
+In the **Form referrals** tab, you can set up forms and record leads brought in through affiliate referrals. It can be used to capture form data and view the captured leads.&#x20;
 
 {% content-ref url="form-referrals.md" %}
 [form-referrals.md](form-referrals.md)
@@ -111,8 +101,7 @@ In the **Automations** tab, you can create automations to automate tasks of your
 
 ### Activities
 
-* In the **Activities** tab, you can create task sheets for your affiliates to complete.
-* These tasks can be completed and logged by affiliates, for which you can reward them.
+In the **Activities** tab, you can create task sheets for your affiliates to complete. These tasks can be completed and logged by affiliates, for which you can reward them.
 
 {% content-ref url="activities.md" %}
 [activities.md](activities.md)

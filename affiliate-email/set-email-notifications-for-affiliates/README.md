@@ -1,4 +1,4 @@
-# Set Email Notifications
+# Setup Email Notifications
 
 **GoAffPro** provides you with the option to set email notifications for the merchant and affiliates.&#x20;
 
@@ -12,7 +12,7 @@ To set up email notifications, go to the **Notifications** section in the **Sett
 
 #### Merchants Notifications
 
-Here, go to the Your Notifications section to set up notifications for the merchant.
+Here, go to the **Your Notifications** section to set up notifications for the merchant.
 
 ![Your Notifications](<../../.gitbook/assets/image (3041).png>)
 
@@ -22,10 +22,20 @@ Here, go to the Your Notifications section to set up notifications for the merch
 
 #### Affiliate Notifications
 
-Here, go to the Affiliate's Notifications section to set up notifications for affiliates.
+Here, go to the **Affiliate's Notifications** section to set up notifications for affiliates.
 
 ![Affiliate Notifications](<../../.gitbook/assets/image (2638).png>)
 
 {% content-ref url="email-notifications-for-affiliates.md" %}
 [email-notifications-for-affiliates.md](email-notifications-for-affiliates.md)
+{% endcontent-ref %}
+
+Customize Email Notification Templates
+
+You can also customize the email notification templates by clicking on **Customize Templates**.
+
+<figure><img src="../../.gitbook/assets/image (138).png" alt=""><figcaption><p>Customize Email Notification Templates</p></figcaption></figure>
+
+{% content-ref url="customize-email-notification-templates/" %}
+[customize-email-notification-templates](customize-email-notification-templates/)
 {% endcontent-ref %}

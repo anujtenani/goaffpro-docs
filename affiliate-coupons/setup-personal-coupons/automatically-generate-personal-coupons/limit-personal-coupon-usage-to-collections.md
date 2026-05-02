@@ -1,12 +1,14 @@
+---
+hidden: true
+---
+
 # Limit Personal Coupon Usage to Collections
-
-
 
 **GoAffPro** provides you with the option to limit personal coupon usage to collections.
 
 To limit personal coupon usage to collections, go to the **Coupons** tab in the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (131).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (131) (1).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
 
 Here, go to the Personal Coupons section.
 

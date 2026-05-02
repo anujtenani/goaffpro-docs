@@ -4,9 +4,7 @@ description: GoAffPro Admin Panel > Setup > Look and Feel
 
 # Look and Feel
 
-The **Look and Feel** tab can be used to customize the affiliate portal, landing page, signup page, and affiliate dashboard.
-
-> GoAffPro provides you with a variety of customization options to help you in customizing the look of the affiliate portal.&#x20;
+The **Look and Feel** tab can be used to customize the affiliate portal, landing page, signup page, and affiliate dashboard. GoAffPro provides a variety of customization options to help you customize the look of the affiliate portal.
 
 #### The Look and Feel tab has 5 sections:
 
@@ -16,15 +14,11 @@ The **Look and Feel** tab can be used to customize the affiliate portal, landing
 4. Affiliate Dashboard
 5. Toolbars
 
+<figure><img src="../../../.gitbook/assets/image (3663).png" alt=""><figcaption><p>Look and Feel</p></figcaption></figure>
+
 ### Store Profile
 
-The **Store Profile** section can be used to set up basic options such as store profile, store logo, store primary color, brand font, or affiliate portal language.
-
-<figure><img src="../../../.gitbook/assets/image (3312).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-10-02 234125.png" alt=""><figcaption><p>Store Profile</p></figcaption></figure>
-
-The Store Profile section can be used to customize the affiliate portal's profile, the options available in this section are:
+The **Store Profile** section can be used to set up basic options such as store profile, store logo, store primary color, brand font, or affiliate portal language. The Store Profile section can be used to customize the affiliate portal's profile, the options available in this section are:
 
 1. Affiliate Portal
 2. Store Profile
@@ -35,20 +29,19 @@ The Store Profile section can be used to customize the affiliate portal's profil
 7. Legal
 8. Contact Page
 9. Other Pages
+10. Prevent Indexing
+
+<figure><img src="../../../.gitbook/assets/image (3312).png" alt=""><figcaption><p>Store Profile</p></figcaption></figure>
 
 **For more information on how to customize the store profile:**
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../program-management/manage-affiliates/affiliate-profile-settings/" %}
+[affiliate-profile-settings](../../../program-management/manage-affiliates/affiliate-profile-settings/)
 {% endcontent-ref %}
 
 ### Landing Page
 
-The **Landing Page** section can be used to customize the affiliate portal's landing page. This section allows you to edit the navigation options of the page, the banner on the landing page, and edit the footer.
-
-![Landing page](<../../../.gitbook/assets/Annotation 2020-07-27 144722.png>)
-
-There are five sections, that can be used to customize the Landing Page:
+The **Landing Page** section can be used to customize the affiliate portal's landing page. This section allows you to edit the navigation options of the page, the banner on the landing page, and the footer. There are five sections, that can be used to customize the Landing Page:
 
 1. Top Navigation
 2. Top Banner
@@ -58,23 +51,17 @@ There are five sections, that can be used to customize the Landing Page:
 
 There is also an option to add Custom HTML sections to the landing page.
 
+![Landing page](<../../../.gitbook/assets/Annotation 2020-07-27 144722.png>)
+
 **For information on how to customize the Landing Page:**
 
 {% content-ref url="../../../affiliate-portal-customization/landing-page.md" %}
 [landing-page.md](../../../affiliate-portal-customization/landing-page.md)
 {% endcontent-ref %}
 
-{% embed url="https://youtu.be/Se_0WdbtVeE" %}
-Landing Page
-{% endembed %}
-
 ### Signup Page
 
-The **Signup Page** section can be used to customize the signup page of the affiliate portal. Here you have the option to select between three signup page styles, that have very distinct styles.&#x20;
-
-You also have the option to add additional signup fields to the signup page or create new ones.
-
-![Signup page](<../../../.gitbook/assets/image (1803).png>)
+The **Signup Page** section can be used to customize the signup page of the affiliate portal. Here you have the option to select between three signup page styles, that have very distinct styles. You also have the option to add additional signup fields to the signup page or create new ones.&#x20;
 
 There are 3 signup page styles that you can choose from:
 
@@ -82,27 +69,17 @@ There are 3 signup page styles that you can choose from:
 2. Slim
 3. Modern
 
+![Signup page](<../../../.gitbook/assets/image (1803).png>)
+
 **For information on how to customize the Signup Page:**
 
 {% content-ref url="../../../affiliate-portal-customization/signup-page/" %}
 [signup-page](../../../affiliate-portal-customization/signup-page/)
 {% endcontent-ref %}
 
-{% embed url="https://youtu.be/fBfjw4gJKeE" %}
-Signup Page
-{% endembed %}
-
 ### Affiliate Dashboard
 
-The **Affiliate Dashboard** section can be used to customize the affiliate dashboard. This is the dashboard that is displayed to affiliates when they log into their account.
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-02-14 004507 (1).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-02-14 004701.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/image (806).png" alt=""><figcaption><p>Affiliate dashboard</p></figcaption></figure>
-
-The Affiliate Dashboard section has options such as:
+The **Affiliate Dashboard** section can be used to customize the affiliate dashboard. This dashboard is displayed to affiliates when they log into their account. The Affiliate Dashboard section has options such as:
 
 1. Dashboard Tabs
 2. Widgets and Analytics
@@ -114,32 +91,36 @@ The Affiliate Dashboard section has options such as:
 8. Custom JavaScript code
 9. Affiliate Portal Tracking
 
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-02-14 004507 (1).png" alt=""><figcaption><p>Affiliate Dashboard</p></figcaption></figure>
+
 **For information on how to customize the Affiliate Dashboard Page:**
 
 {% content-ref url="../../../affiliate-portal-customization/affiliate-dashboard/" %}
 [affiliate-dashboard](../../../affiliate-portal-customization/affiliate-dashboard/)
 {% endcontent-ref %}
 
-{% embed url="https://youtu.be/9XlPhph_JHI" %}
-Affiliate Dashboard
-{% endembed %}
-
 ### Toolbars
 
 The **Toolbars** section can be used to set up and customize toolbars. The options available in this section are:&#x20;
 
-1. Affiliate Toolbar
-2. Shopping-with Toolbar
-3. Shopping-with Floating Widget
+1. Shopping-with Toolbar
+2. Shopping-with Floating Widget
+3. Shopping with Popup
 4. Share A Cart
 5. Shopping Cart Referred By
 6. Checkout blocker
 
-<figure><img src="../../../.gitbook/assets/image (3305).png" alt=""><figcaption><p>Toolbars</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Toolbars</p></figcaption></figure>
+
+**For information on how to setup and customize the toolbars:**
+
+{% content-ref url="../../../affiliate-portal-customization/toolbars/" %}
+[toolbars](../../../affiliate-portal-customization/toolbars/)
+{% endcontent-ref %}
 
 ***
 
-**Checkout the video below for an overview of the affiliate commissions options in GoAffPro:**
+**Checkout our video below for an overview of the affiliate portal customization in GoAffPro:**
 
 {% embed url="https://youtu.be/MrAUrZ7PbLE" %}
 Affiliate Portal Customization

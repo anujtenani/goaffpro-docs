@@ -17,7 +17,7 @@ Now, select the Shopify shortener option.
 After this, the referral links of new affiliates will automatically get shortened using the Shopify shortener.&#x20;
 
 {% hint style="info" %}
-For shortening the referral links of existing affiliates, you can follow this [guide](../../program-management/manage-affiliates/shorten-an-affiliates-referral-link/shorten-link-using-shopify-shortner.md).&#x20;
+For shortening the referral links of existing affiliates, you can follow this [guide](../../program-management/manage-affiliates/shorten-an-affiliate-referral-link/shorten-link-using-shopify-shortner.md).&#x20;
 {% endhint %}
 
 ![](<../../.gitbook/assets/image (2289).png>)

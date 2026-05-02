@@ -1,3 +1,7 @@
+---
+description: For Shopify Platform Users Only
+---
+
 # Generate Individual Discount Codes
 
 **GoAffPro** provides you with the option to generate discount codes individually in the Shopify discounts section (instead of inside the GOAFFPRO app code).
@@ -8,7 +12,7 @@ The Generate individual discount code option generates affiliate coupons individ
 
 To generate individual discount codes, go to the **Advanced** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (3627).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3806).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 
 Here, go to the Give individual codes section.
 

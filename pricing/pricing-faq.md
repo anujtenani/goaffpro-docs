@@ -29,6 +29,7 @@ Additionally, you will have more branding options available to you, as well as d
 
 **Coupons**
 
+* Dynamic Coupons
 * Detect Coupon Leaks&#x20;
 * Personal Coupons (automatic generation)
 
@@ -36,10 +37,14 @@ Additionally, you will have more branding options available to you, as well as d
 
 * S2S Callback (Postback) for affiliates
 
-**Creatives**
+**Digital Assets**
 
-* Creative media upload (size limit removed)&#x20;
-* Creative media upload (upload videos and documents)
+* Media upload (size limit removed)&#x20;
+* Media upload (upload videos and documents)
+
+**Recruit**
+
+* Invite influencers&#x20;
 
 **Post Checkout Popup**
 
@@ -53,6 +58,10 @@ Additionally, you will have more branding options available to you, as well as d
 **Multi level Marketing**
 
 * Multi level affiliate network
+
+**Analytics**
+
+* Annual reports
 
 **Email Settings**
 
@@ -72,7 +81,7 @@ Additionally, you will have more branding options available to you, as well as d
 * Form Based Referrals
 * Customer Affiliate Connect (recurring commissions)&#x20;
 * Affiliate Groups&#x20;
-* Party Plans&#x20;
+* Party Plans (upto 100 events)
 * Multiple Signup Pages&#x20;
 * Affiliate Store&#x20;
 * Affiliate Public Store&#x20;
@@ -80,14 +89,13 @@ Additionally, you will have more branding options available to you, as well as d
 * Influencer Seeding&#x20;
 * Membership Fees&#x20;
 * W9 Form&#x20;
-* Invoices&#x20;
-* Legal Documents&#x20;
-* Scripts&#x20;
-* Event Callbacks
+* Invoices
 
 **Third Party Integrations**
 
 * Account Sync&#x20;
+* Order Tags&#x20;
+* Customer Tags
 * Mailchimp Sync&#x20;
 * Omnisend Sync&#x20;
 * Klaviyo Sync&#x20;
@@ -105,9 +113,7 @@ Additionally, you will have more branding options available to you, as well as d
 * Blocked IP/Origins&#x20;
 * Affiliate Conflict Resolution&#x20;
 * Generate Shortened Links (Bitly/Shopify/Cuttly)&#x20;
-* Multiple Referral Codes&#x20;
-* Order Tags&#x20;
-* Customer Tags&#x20;
+* Multiple Referral Codes &#x20;
 * Affiliate Portal Alias
 
 </details>
@@ -132,14 +138,16 @@ The business plan offers a comprehensive package of features that includes all t
 
 * Everything in the Premium plan +
 * Payment request option
+* Affiliate tasks and activities
 * Custom compensation plans&#x20;
 * Automations&#x20;
-* Affiliate tasks and activities
+* Bulk Tools
 * Fraud management tools&#x20;
 * Vanity subdomain links&#x20;
 * Level compression for MLM&#x20;
 * Dynamic compression for MLM
-* Dedicated account manager&#x20;
+* Dedicated account manager
+* Legal Documents (custom fields)
 
 </details>
 

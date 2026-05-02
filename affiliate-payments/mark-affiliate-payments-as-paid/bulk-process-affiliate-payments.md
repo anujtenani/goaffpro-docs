@@ -1,5 +1,6 @@
 ---
 description: Old Payout Module
+noIndex: true
 ---
 
 # Bulk Process Affiliate Payments

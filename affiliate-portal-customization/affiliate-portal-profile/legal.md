@@ -12,7 +12,7 @@ The legal option lets you customize the terms, conditions, and privacy policy of
 
 To set up the legal documents, go to the **Store profile** section in the **Look and Feel** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Look and Feel > Store Profile</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>Look and Feel > Store Profile</p></figcaption></figure>
 
 Here, go to the Legal section.
 

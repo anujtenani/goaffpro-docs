@@ -8,7 +8,7 @@ With the multi-level affiliate network feature, affiliates can recruit downlines
 
 To enable multi-level marketing, go to the **Multi Level** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption><p>Multi Level</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (68) (1).png" alt=""><figcaption><p>Multi Level</p></figcaption></figure>
 
 Here, enable the **toggle** in the Multi Level Marketing section.
 

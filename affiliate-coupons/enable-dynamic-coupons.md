@@ -8,11 +8,11 @@ description: For Shopify Platform Users Only
 
 To enable dynamic coupons, go to the **Coupons** tab in the GoAffPro admin panel.
 
-<figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (103) (1).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
 
 Here, go to the Dynamic Coupons section.
 
-<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption><p>Dynamic Coupons</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (105) (1).png" alt=""><figcaption><p>Dynamic Coupons</p></figcaption></figure>
 
 Now, enable the toggle.
 
@@ -20,7 +20,7 @@ Now, enable the toggle.
 
 After this, coupons will automatically be generated for affiliates. They will automatically get refreshed after a certain period.
 
-<figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (104) (1).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 

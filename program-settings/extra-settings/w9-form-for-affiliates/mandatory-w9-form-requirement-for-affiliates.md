@@ -4,11 +4,11 @@
 
 To make the W9 form mandatory for your affiliates, go to **Settings > Extras > W9 Form** and enable the **toggle**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (48).png" alt=""><figcaption><p>Settings > Extras > W9 Form</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (48) (1).png" alt=""><figcaption><p>Settings > Extras > W9 Form</p></figcaption></figure>
 
 Now, go to the **Look and Feel > Affiliate Dashboard > Dashboard Tabs** section.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption><p>Look and Feel > Affiliate Dashboard > Dashboard Tabs</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (49) (1).png" alt=""><figcaption><p>Look and Feel > Affiliate Dashboard > Dashboard Tabs</p></figcaption></figure>
 
 Here, click on **Edit Form**.
 
@@ -48,7 +48,7 @@ Finally, click on **Save**.&#x20;
 
 Affiliates must fill out the W9 form to access their dashboard.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (47) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/SPvKb6OImaY" %}
 Mandatory W9 Form Requirement for Affiliates

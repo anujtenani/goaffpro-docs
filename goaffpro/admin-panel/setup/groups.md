@@ -4,21 +4,23 @@ description: GoAffPro Admin Panel > Setup > Groups
 
 # Groups
 
-**Groups** tab can be used to create commission groups for affiliates. It makes it easier to manage different types of affiliates with different commission structures.
+The **Groups** tab allows the creation of commission groups for affiliates, simplifying the management of various affiliate types with different commission structures.
 
-#### To enable the Groups tab in the admin panel: <a href="#to-enable-the-membership-plans-tab-in-the-admin-panel" id="to-enable-the-membership-plans-tab-in-the-admin-panel"></a>
+### Enable the Groups tab in the admin panel: <a href="#to-enable-the-membership-plans-tab-in-the-admin-panel" id="to-enable-the-membership-plans-tab-in-the-admin-panel"></a>
 
 In the **Settings** tab of the GoAffPro admin panel, go to the **Extras** section.
 
 ![Settings > Extras](<../../../.gitbook/assets/image (1023).png>)
 
-Here, in the Affiliate Groups section, you will have to **enable** the feature by clicking on the toggle.
+Here, in the **Affiliate Groups** section, you can **enable** the toggle.
 
 ![Affiliate Groups](<../../../.gitbook/assets/image (430).png>)
 
 After enabling, the **Groups** tab will appear in the admin panel.
 
-![Groups](<../../../.gitbook/assets/Screenshot 2020-11-12 040743.png>)
+<figure><img src="../../../.gitbook/assets/image (256).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
+
+### Create Group
 
 In the **Groups** tab, you can create commission groups for affiliates. It helps you manage affiliates by grouping them and allows bulk editing of their commissions.
 
@@ -32,23 +34,11 @@ In the **New group** section, you can create a new affiliate group by entering t
 [create-commission-groups-for-affiliates](../../../affiliate-commissions/create-commission-groups-for-affiliates/)
 {% endcontent-ref %}
 
-After this, you can set up the product and multi-level commission for the affiliate group.&#x20;
+After this, you can set up the product and multi-level commission for the affiliate group. You also have the option to set up commission modifiers and commission boosters for the affiliate group.
 
-You also have the option to set up commission modifiers and commission boosters for the affiliate group.
+<figure><img src="../../../.gitbook/assets/image (352).png" alt=""><figcaption><p>Group Configuration</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/image (355).png" alt=""><figcaption><p>Edit Group</p></figcaption></figure>
-
-{% content-ref url="../../../affiliate-commissions/create-commission-groups-for-affiliates/set-product-commission-for-group.md" %}
-[set-product-commission-for-group.md](../../../affiliate-commissions/create-commission-groups-for-affiliates/set-product-commission-for-group.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../../affiliate-commissions/create-commission-groups-for-affiliates/set-multi-level-commission-for-group.md" %}
-[set-multi-level-commission-for-group.md](../../../affiliate-commissions/create-commission-groups-for-affiliates/set-multi-level-commission-for-group.md)
-{% endcontent-ref %}
+### Edit Group Members
 
 To add affiliates to a group, click on **Edit Members** in the Groups tab.
 
@@ -58,9 +48,13 @@ Here, you can add or remove affiliates from the group.
 
 ![Edit members](<../../../.gitbook/assets/image (2749).png>)
 
-{% content-ref url="../../../affiliate-commissions/create-commission-groups-for-affiliates/edit-members-in-commission-groups.md" %}
-[edit-members-in-commission-groups.md](../../../affiliate-commissions/create-commission-groups-for-affiliates/edit-members-in-commission-groups.md)
+{% content-ref url="../../../affiliate-commissions/create-commission-groups-for-affiliates/edit-members-in-commission-group.md" %}
+[edit-members-in-commission-group.md](../../../affiliate-commissions/create-commission-groups-for-affiliates/edit-members-in-commission-group.md)
 {% endcontent-ref %}
+
+***
+
+**Checkout our video below for an overview of the affiliate groups feature in GoAffPro:**
 
 {% embed url="https://youtu.be/PckBUp41NfU" %}
 Affiliate Groups

@@ -4,17 +4,15 @@ description: GoAffPro Admin Panel > Settings > Payments
 
 # Payments
 
-The **Payments** section can be used to set up payment settings for the program such as the supported payment methods for affiliates, payment terms, the default payment method, commission hold time, minimum payout amount, and withholding tax.&#x20;
+The **Payments** section can be used to set up payment settings for the program, such as the supported payment methods for affiliates, payment terms, the default payment method, commission hold time, minimum payout amount, and withholding tax.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3295).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/image (3296).png" alt=""><figcaption><p>Payments</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (177).png" alt=""><figcaption><p>Settings > Payments</p></figcaption></figure>
 
 ### Supported Payments Methods
 
-In the **Supported Payment Methods** option, you can select the supported methods of payments for affiliates.
+In the **Supported Payment Methods** option, you can select the supported methods of payment for affiliates.
 
-The **methods of payment** you select will be shown as options to your affiliates, They can then select the payment method of their choice and fill in their payment details.&#x20;
+The **methods of payment** you select will be shown as options to your affiliates. They can then select the payment method of their choice and fill in their payment details.&#x20;
 
 ![Supported Payment Method](<../../../.gitbook/assets/image (1717).png>)
 
@@ -58,7 +56,7 @@ The **Commission hold time** option can be used to set the number of days to hol
 
 ### Payment Terms
 
-In the **Payment Terms** option, you can select the terms for payments to affiliates, you can set it to 7, 15, or 30 day terms or write your own. These terms are then displayed to affiliates in their account dashboard.
+In the **Payment Terms** option, you can select the terms for payments to affiliates, you can set it to 7, 15, or 30 day terms, or write your own. These terms are then displayed to affiliates in their account dashboard.
 
 ![Payment Terms](<../../../.gitbook/assets/Annotation 2019-09-03 232215.png>)
 
@@ -68,12 +66,22 @@ In the **Payment Terms** option, you can select the terms for payments to affili
 
 ### Minimum Payout
 
-The **Minimum Payout** option, can be used to set up the minimum payout amount. It allows payouts only when an affiliate has crossed the minimum payout limit that has been set.
+The **Minimum Payout** option can be used to set up the minimum payout amount. It allows payouts only when an affiliate has crossed the minimum payout limit that has been set.
 
 ![Minimum Payout](<../../../.gitbook/assets/Annotation 2019-09-06 015547.png>)
 
 {% content-ref url="../../../affiliate-payments/settings/set-minimum-payout-for-affiliates.md" %}
 [set-minimum-payout-for-affiliates.md](../../../affiliate-payments/settings/set-minimum-payout-for-affiliates.md)
+{% endcontent-ref %}
+
+### Payout Scheduler
+
+With the **Payout Scheduler** option, you can automate payouts to your affiliates. You can automate PayPal payouts and store discount coupons for commission payments to affiliates.
+
+<figure><img src="../../../.gitbook/assets/image (57).png" alt=""><figcaption><p>Payout Scheduler</p></figcaption></figure>
+
+{% content-ref url="../../../affiliate-payments/setup-paypal-payouts/setup-payout-scheduler.md" %}
+[setup-payout-scheduler.md](../../../affiliate-payments/setup-paypal-payouts/setup-payout-scheduler.md)
 {% endcontent-ref %}
 
 ### **Withholding Tax/Retention Tax/TDS**
@@ -85,6 +93,8 @@ The **Withholding Tax/Retention Tax/TDS** option can be used to set the tax perc
 {% content-ref url="../../../affiliate-payments/settings/setup-tax-deduction-for-affiliate-payouts/" %}
 [setup-tax-deduction-for-affiliate-payouts](../../../affiliate-payments/settings/setup-tax-deduction-for-affiliate-payouts/)
 {% endcontent-ref %}
+
+***
 
 **Checkout the video below for an overview of the payment settings in GoAffPro:**
 

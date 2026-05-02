@@ -2,11 +2,7 @@
 
 In the **Extras** section, you can enable features such as targets and bonuses, customer-affiliate connections, affiliate groups, invoices, and more.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-08-05 12162344.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/image (3590).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-08-05 1217414.png" alt=""><figcaption><p>Extras</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (178).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
 
 ### Targets and Bonuses
 
@@ -36,12 +32,12 @@ After you enable this feature, a new tab called Form referrals will appear in yo
 
 **Customer Affiliate Connect** option allows you to connect your customers to an affiliate, this will attribute all future purchases made by them to the connected affiliate.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3591).png" alt=""><figcaption><p>Customer-Affiliate Connect</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Customer-Affiliate Connect</p></figcaption></figure>
 
 After you enable this feature, a new tab called **Connections** will appear in your GoAffPro admin panel.
 
-{% content-ref url="../setup/connections-customer-affiliate-connect.md" %}
-[connections-customer-affiliate-connect.md](../setup/connections-customer-affiliate-connect.md)
+{% content-ref url="../setup/connections.md" %}
+[connections.md](../setup/connections.md)
 {% endcontent-ref %}
 
 ### Affiliate Groups
@@ -80,7 +76,7 @@ The **Compensation plans** option allows you to build complex compensation plans
 
 ### Automations
 
-The **Automations** option allows you to automate tedious tasks of your program. It can be set to perform actions automatically when certain conditions are fulfilled.
+The **Automations** option allows you to automate tedious tasks in your program. It can be set to perform actions automatically when certain conditions are fulfilled.
 
 <figure><img src="../../../.gitbook/assets/image (2247).png" alt=""><figcaption><p>Automations</p></figcaption></figure>
 
@@ -88,15 +84,29 @@ The **Automations** option allows you to automate tedious tasks of your program.
 [automations.md](../setup/automations.md)
 {% endcontent-ref %}
 
+### Bulk Tools
+
+The **Bulk Tools** feature provides you with options for bulk operations to manage affiliates in your program. You can bulk import or update sales volume, commissions, affiliates, coupons, etc.
+
+<figure><img src="../../../.gitbook/assets/image (182).png" alt=""><figcaption><p>Bulk Tools</p></figcaption></figure>
+
+{% content-ref url="../manage/bulk-tools.md" %}
+[bulk-tools.md](../manage/bulk-tools.md)
+{% endcontent-ref %}
+
 ### Social Media Campaigns
 
-The Social Media Campaign allows affiliates to track the performance of their social media campaigns and posts. It lets you track the social and sale statistics for Instagram posts.&#x20;
+The **Social Media Campaign** allows affiliates to track the performance of their social media campaigns and posts. It lets you track the social and sales statistics for Instagram posts.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (3592).png" alt=""><figcaption><p>Social Media Campaigns</p></figcaption></figure>
 
+{% content-ref url="../../../program-settings/extra-settings/setup-social-media-campaign-tracking.md" %}
+[setup-social-media-campaign-tracking.md](../../../program-settings/extra-settings/setup-social-media-campaign-tracking.md)
+{% endcontent-ref %}
+
 ### Party plans
 
-**Party plans** option allows affiliates to host party links. It allows affiliates to create a host with a party link, who will then share this link with customers. Any order made using the party link gives the host a reward and the affiliate their commission.
+The **Party plans** option allows affiliates to host party links. It allows affiliates to create a host with a party link, who will then share this link with customers. Any order made using the party link gives the host a reward and the affiliate their commission.
 
 ![](<../../../.gitbook/assets/image (1495).png>)
 
@@ -124,18 +134,6 @@ The **Affiliate Store** option allows you to add a mini store in the affiliate d
 
 {% content-ref url="../../../program-settings/extra-settings/setup-affiliate-public-store/" %}
 [setup-affiliate-public-store](../../../program-settings/extra-settings/setup-affiliate-public-store/)
-{% endcontent-ref %}
-
-### Affiliate Page Builder
-
-**Affiliate Page Builder** option allows you and your affiliates to build landing pages hosted on your store. Affiliates can build landing pages for the products that they are promoting and can share the link to that page with their followers.
-
-![Affiliate Page Builder](<../../../.gitbook/assets/image (3009).png>)
-
-After you enable this feature, a new tab called **Affiliate Pages** will appear in your GoAffPro admin panel.
-
-{% content-ref url="../manage/affiliate-pages.md" %}
-[affiliate-pages.md](../manage/affiliate-pages.md)
 {% endcontent-ref %}
 
 ### Refer-A-Friend
@@ -192,6 +190,16 @@ The **Invoices** feature can be used to automatically create invoices for commis
 [invoices-for-affiliate-payments](../../../affiliate-payments/invoices-for-affiliate-payments/)
 {% endcontent-ref %}
 
+### Earnings Report
+
+The **Earnings Report** feature enables affiliates to download a payout report in PDF format directly from their dashboard.
+
+<figure><img src="../../../.gitbook/assets/image (3823).png" alt=""><figcaption><p>Earnings Report</p></figcaption></figure>
+
+{% content-ref url="../../../program-settings/extra-settings/earnings-report-for-affiliates.md" %}
+[earnings-report-for-affiliates.md](../../../program-settings/extra-settings/earnings-report-for-affiliates.md)
+{% endcontent-ref %}
+
 ### Legal Documents
 
 The **Legal Documents** feature allows you to create and send legal documents to your affiliates for their digital signature.
@@ -208,22 +216,26 @@ You can create **manager accounts** for your affiliate program. Managers can be 
 
 ![Manager accounts](<../../../.gitbook/assets/Annotation 2020-02-18 045713.png>)
 
-{% content-ref url="../../../program-settings/create-a-manager-account/" %}
-[create-a-manager-account](../../../program-settings/create-a-manager-account/)
+{% content-ref url="../../../program-settings/create-affiliate-program-manager/" %}
+[create-affiliate-program-manager](../../../program-settings/create-affiliate-program-manager/)
 {% endcontent-ref %}
 
-### Store metadata
+### Account owner
 
-The **Store metadata** feature can be used to add custom keys and values, which is useful for custom programming.&#x20;
+The **Account owner** section allows you to transfer the ownership of the program to another account by changing the email address.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (360).png" alt=""><figcaption><p>Store metadata</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (103).png" alt=""><figcaption><p>Account owner</p></figcaption></figure>
 
-{% content-ref url="../../../program-settings/extra-settings/add-store-metadata.md" %}
-[add-store-metadata.md](../../../program-settings/extra-settings/add-store-metadata.md)
+{% content-ref url="../../../program-settings/extra-settings/transfer-account-ownership.md" %}
+[transfer-account-ownership.md](../../../program-settings/extra-settings/transfer-account-ownership.md)
 {% endcontent-ref %}
 
-### Webhooks
+### **Two Factor authentication**
 
-**Webhooks** allow you to set up and develop custom programming with the GoAffPro app.
+The **Two-Factor authentication** option can be used to set up a TOTP-based two-factor authentication for the app.
 
-<figure><img src="../../../.gitbook/assets/image (3497).png" alt=""><figcaption><p>Webhooks</p></figcaption></figure>
+![Two Factor Authentication](<../../../.gitbook/assets/image (2665).png>)
+
+{% content-ref url="../../../program-settings/extra-settings/setup-two-factor-authentication/" %}
+[setup-two-factor-authentication](../../../program-settings/extra-settings/setup-two-factor-authentication/)
+{% endcontent-ref %}

@@ -4,7 +4,7 @@
 
 To set the cookie duration for an affiliate, go to the **All Affiliates** section in the **Affiliates** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption><p>Affiliates > All Affiliates</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38) (1).png" alt=""><figcaption><p>Affiliates > All Affiliates</p></figcaption></figure>
 
 Here, click on the affiliate name.
 

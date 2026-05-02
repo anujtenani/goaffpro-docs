@@ -1,5 +1,5 @@
 ---
-description: For Shopify Platforms Users
+description: For Shopify Platform Users Only
 ---
 
 # Setup Single Sign-On Integration

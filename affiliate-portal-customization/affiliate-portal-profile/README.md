@@ -14,10 +14,11 @@ description: Customize the affiliate portal store profile
 * [Legal](legal.md)
 * [Contact Page](set-contact-page-url.md)
 * [Other Pages](customize-other-pages.md)
+* [Prevent Indexing](prevent-indexing-of-affiliate-portal.md)
 
 Go to the **Look and Feel** > **Store Profile** section in the admin panel of the GoAffPro app.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Look and Feel > Store Profile</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>Look and Feel > Store Profile</p></figcaption></figure>
 
 {% embed url="https://youtu.be/MrAUrZ7PbLE" %}
 Affiliate Portal Customization

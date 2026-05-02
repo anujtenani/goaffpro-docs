@@ -8,7 +8,7 @@ The Email Marketing feature allows you to create email marketing campaigns for y
 
 To set up email marketing campaigns, go to the **Marketing** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption><p>Marketing</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (69) (1).png" alt=""><figcaption><p>Marketing</p></figcaption></figure>
 
 Here, click on **New campaign**.
 
@@ -60,7 +60,7 @@ The email campaign will be saved.&#x20;
 You can also view the campaign statistics, such as email opening and click tracking.&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (70) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=XvRRBqw3ePw" %}
 Setup Email Marketing Campaigns

@@ -4,7 +4,7 @@
 
 To hide the shopping-with floating widget on mobile, go to the **Toolbars** section in the **Look and Feel** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (57) (1).png" alt=""><figcaption></figcaption></figure>
 
 ![Look and Feel > Toolbars](<../../../.gitbook/assets/image (2441).png>)
 

@@ -8,11 +8,11 @@ The conversion preference order option lets you set the priority order for vario
 
 To set the conversion preference order, go to the **Advanced** section of the **Settings** tab in the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (3608).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3806).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 
 Here, go to the **Conversion Preference Order** section.
 
-<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption><p>Conversion Preference Order</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30) (1).png" alt=""><figcaption><p>Conversion Preference Order</p></figcaption></figure>
 
 Now, you can arrange the preference order of conversion tests.
 

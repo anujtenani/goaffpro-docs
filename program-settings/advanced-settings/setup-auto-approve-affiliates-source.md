@@ -4,7 +4,7 @@
 
 To set up sources to auto approve affiliates from, go to the **Advanced** section of the **Settings** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (3627).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3806).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 
 Here, go to the Auto approve affiliates from section.
 

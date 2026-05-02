@@ -8,7 +8,7 @@ The W9 form option allows you to easily collect the W9 form from your affiliates
 
 To enable the W9 form for affiliates, go to the **Extras** section in the Settings tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45) (1).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
 
 Here, go to the W9 Form section.
 
@@ -24,7 +24,7 @@ The signed W9 forms will be sent to the merchant's email address. (set at the Se
 
 You can also configure the email address where the W9 forms are sent and set the requester information by clicking on **Configure**.
 
-<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (46) (1).png" alt=""><figcaption></figcaption></figure>
 
 The W9 Form section will appear in the Settings tab of the affiliate dashboards. Affiliates can fill it out from there.&#x20;
 

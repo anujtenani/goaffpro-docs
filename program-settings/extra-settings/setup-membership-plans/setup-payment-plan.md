@@ -4,7 +4,7 @@
 
 To set up a one-time payment plan for affiliates, go to the **Membership Plans** tab in the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (116).png" alt=""><figcaption><p>Membership Plans</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (116) (1).png" alt=""><figcaption><p>Membership Plans</p></figcaption></figure>
 
 Here, click on **New payment plan**.&#x20;
 

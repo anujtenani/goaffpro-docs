@@ -1,5 +1,5 @@
 ---
-description: For Shopify Platform Users Only
+description: Influencer Seeding
 ---
 
 # Send Products to Affiliates

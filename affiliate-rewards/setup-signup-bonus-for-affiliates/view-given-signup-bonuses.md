@@ -1,12 +1,12 @@
-# View Given Signup Bonuses
+# View Signup Bonuses
 
-**GoAffPro** provides you with the option to view the signup bonuses that have been given out to affiliates.
+**GoAffPro** provides you with the option to view the signup bonuses credited to affiliates.
 
-To view the signup bonuses that have been given out to affiliates, go to the **Signup Bonus** section in the **Targets** tab of the GoAffPro admin panel.
+To view the signup bonuses credited to affiliates, go to the **Signup Bonus** section in the **Targets** tab of the GoAffPro admin panel.
 
-![Targets > Signup Bonus](<../../.gitbook/assets/image (778).png>)
+<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption><p>Targets > Signup Bonus</p></figcaption></figure>
 
-Here, you will be able to view the date the signup bonus was given, the affiliate to whom the signup bonus was given, the bonus amount that was given to the affiliate, and actions such as the option to delete the signup bonus.
+Here, you can view the date, the affiliate name, and the bonus credited to the affiliate.
 
 ![](<../../.gitbook/assets/Screenshot 2021-01-18 201512.png>)
 

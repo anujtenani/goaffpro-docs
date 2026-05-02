@@ -14,13 +14,9 @@ This will open up the affiliate's profile.
 
 ![Affiliate Profile](<../../.gitbook/assets/image (801).png>)
 
-Now, go to the **Network** tab.
+Now, go to the **Network** section.
 
 ![Go to Network section](<../../.gitbook/assets/Annotation 2020-03-17 121648.png>)
-
-This will open up the affiliate's MLM network section. &#x20;
-
-![](<../../.gitbook/assets/image (487).png>)
 
 Here, click on **Change** in the MLM Commission section.&#x20;
 
@@ -43,3 +39,7 @@ Additionally, you also have the option to switch back to the default level commi
 {% endhint %}
 
 ![](<../../.gitbook/assets/image (3067).png>)
+
+{% embed url="https://youtu.be/LRpp1IddwYo" %}
+Set MLM Commission for Affiliate
+{% endembed %}

@@ -4,7 +4,7 @@
 
 To set a commission modifier with the first time customer rule, go to the **Commission Modifiers** section in the **Commissions** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (202).png" alt=""><figcaption><p>Commissions > Commission modifiers</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (202) (1).png" alt=""><figcaption><p>Commissions > Commission modifiers</p></figcaption></figure>
 
 Here, click on **Add new modifier**.
 

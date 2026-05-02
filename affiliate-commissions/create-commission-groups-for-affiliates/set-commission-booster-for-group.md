@@ -4,7 +4,7 @@
 
 To set a commission booster for the commission group, go to the **Groups** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (169) (1).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
 
 Here, click on **Edit Group**.
 
@@ -54,6 +54,6 @@ The newly set commission booster will get saved for the group.
 
 ![](<../../.gitbook/assets/image (2571).png>)
 
-{% embed url="https://youtu.be/N6gZ8XLMxe0" %}
+{% embed url="https://youtu.be/HmcGCR_a-ws" %}
 Set Commission Booster for Group
 {% endembed %}

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Setup Affiliate Toolbar
 
 **GoAffPro** provides you with the option to set up the affiliate toolbar.&#x20;
@@ -8,7 +12,7 @@ The affiliate toolbar option displays a toolbar for logged-in affiliates on your
 
 To set up the affiliate toolbar, go to the **Toolbars** section in the **Look and Feel** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (64) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (3425).png" alt=""><figcaption><p>Look and Feel > Toolbars</p></figcaption></figure>
 
@@ -22,7 +26,7 @@ You also have the option to customize the Affiliate Toolbar by clicking on **Cus
 
 The affiliate toolbar will be enabled.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (65).png" alt=""><figcaption><p>Affiliate toolbar enabled</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (65) (1).png" alt=""><figcaption><p>Affiliate toolbar enabled</p></figcaption></figure>
 
 Affiliates can click on the toolbar button in the Marketing Tools > Product Links section, to activate the toolbar.
 

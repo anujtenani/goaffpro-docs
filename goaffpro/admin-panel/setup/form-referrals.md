@@ -4,33 +4,37 @@ description: GoAffPro Admin Panel > Setup > Form referrals
 
 # Form referrals
 
-**Form referrals** tab can be used to set up forms and record leads brought in through affiliate referrals.
+The **Form Referrals** tab allows you to set up or connect forms in your store to capture leads from affiliate referrals, which will be attributed to the respective affiliates.
 
-#### To enable the Form referrals tab in the admin panel: <a href="#to-enable-the-membership-plans-tab-in-the-admin-panel" id="to-enable-the-membership-plans-tab-in-the-admin-panel"></a>
+### Enable the Form referrals tab in the admin panel: <a href="#to-enable-the-membership-plans-tab-in-the-admin-panel" id="to-enable-the-membership-plans-tab-in-the-admin-panel"></a>
 
 In the **Settings** tab of the GoAffPro admin panel, go to the **Extras** section.
 
-![Settings > Extras](<../../../.gitbook/assets/image (1824).png>)
+<figure><img src="../../../.gitbook/assets/image (254).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
 
-Here, in the Form based referrals section, you will have to **enable** the feature by clicking on the toggle.
+Here, in the Form based referrals section, you can enable the **toggle**.
 
 ![Form based referrals](<../../../.gitbook/assets/image (374).png>)
 
 After enabling, the **Form referrals** tab will appear in the admin panel.
 
-![From referrals](<../../../.gitbook/assets/Screenshot 2021-07-06 104229.png>)
+<figure><img src="../../../.gitbook/assets/image (3674).png" alt=""><figcaption><p>From referrals</p></figcaption></figure>
 
-In the **Form referrals** tab, you can set up forms, capture the form data and attribute the leads to affiliates.
+In the **Form referrals** tab, you can set up or connect forms, capture the form data and attribute the leads to affiliates.
 
-![Form Referrals](<../../../.gitbook/assets/image (2681).png>)
+<figure><img src="../../../.gitbook/assets/image (3675).png" alt=""><figcaption><p>Form Referrals</p></figcaption></figure>
 
-In the **New form** section, you can set up a new form by entering the form's name and selecting the type of form.&#x20;
+To connect a form, click on **Setup form**. In the **New form** section, set the form's name and select the type of connection.&#x20;
 
 ![New form](<../../../.gitbook/assets/image (1189).png>)
 
-#### To connect an existing form
+### Connect an existing form
 
-For existing forms, you can set up the form selector and form fields.
+For existing forms, you can set up the form selector and form fields.&#x20;
+
+{% hint style="info" %}
+You can share the link to the form on your website with our team at admin@goaffpro.com. They will connect the form for you.
+{% endhint %}
 
 ![Set the form selector and form fields](<../../../.gitbook/assets/image (1408).png>)
 
@@ -38,9 +42,9 @@ For existing forms, you can set up the form selector and form fields.
 [setup-referral-forms](../../../program-settings/extra-settings/setup-referral-forms/)
 {% endcontent-ref %}
 
-#### To create and embed a new form in the website
+### Create & embed a new form
 
-For creating a new form and embedding it in your website, you can set up the form configuration and build the form.
+To create a new form and embed it in your website, you can set up the form configuration and build the form.
 
 ![Form configuration and builder](<../../../.gitbook/assets/image (595).png>)
 

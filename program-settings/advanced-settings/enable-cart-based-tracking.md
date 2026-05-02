@@ -10,7 +10,7 @@ For example, if a customer opens an affiliate's referral link in Instagram's int
 
 To enable cart-based tracking, go to the **Advanced** section of the **Settings** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3806).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 
 Here, go to the Cart based tracking section.
 

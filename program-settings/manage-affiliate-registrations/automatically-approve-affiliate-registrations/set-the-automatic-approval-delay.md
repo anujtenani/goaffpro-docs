@@ -4,7 +4,7 @@
 
 To set the automatic approval delay, go to the **General** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (97).png" alt=""><figcaption><p>Settings > General</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (97) (1).png" alt=""><figcaption><p>Settings > General</p></figcaption></figure>
 
 Here, go to the Affiliate Registrations section.
 

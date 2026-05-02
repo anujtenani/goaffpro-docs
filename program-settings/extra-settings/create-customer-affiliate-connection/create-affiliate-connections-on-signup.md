@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Create Affiliate Connections on Signup
 
 **GoAffPro** provides you with the option to create affiliate connections on signup.&#x20;

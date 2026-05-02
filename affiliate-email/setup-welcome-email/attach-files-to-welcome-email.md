@@ -44,11 +44,11 @@ Paste the file link in the URL field.
 
 After this, set the text to display and title.
 
-![Set the text to display and title](<../../.gitbook/assets/Screenshot 2021-06-29 105208.png>)
-
+{% hint style="info" %}
 You can also select to open the link in the current or a new browser window.
+{% endhint %}
 
-![Open the link in the current or new window](<../../.gitbook/assets/Screenshot 2021-06-29 105421.png>)
+![Set the text to display and title](<../../.gitbook/assets/Screenshot 2021-06-29 105208.png>)
 
 Finally, click on **Save**.
 

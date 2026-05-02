@@ -1,3 +1,7 @@
+---
+description: Membership Fees
+---
+
 # Setup Membership Plans
 
 **GoAffPro** provides you with the option to set up membership plans for affiliates.&#x20;
@@ -8,7 +12,7 @@ The membership plans feature allows you to charge a fee from affiliates in your 
 
 To set up membership plans for affiliates, go to the **Extras** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (113).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (113) (1).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
 
 Now, click on **Setup**.
 
@@ -44,7 +48,7 @@ After this, click on **New payment plan**.
 
 Finally, you will be able to set up a payment plan for affiliates.
 
-<figure><img src="../../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (114) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=e3emm_9iqCc" %}
 Setup Membership Plans

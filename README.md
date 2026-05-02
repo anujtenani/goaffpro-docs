@@ -10,7 +10,7 @@ description: >-
 
 **Affiliate marketing** is a marketing strategy that utilizes affiliates to promote your products or services on social media or blogs. When customers use the affiliate link or code to purchase a product on your store, the affiliate earns a small commission. It helps increase the sales of your products and reach a wider audience.
 
-![Affiliate Marketing](<.gitbook/assets/sgdsdga (4).png>)
+<figure><img src=".gitbook/assets/Screenshot 2025-06-23 190450.png" alt=""><figcaption><p>Affiliate Marketing</p></figcaption></figure>
 
 ### Who are Affiliates & what's in it for them? <a href="#who-are-affiliates-and-whats-in-it-for-them" id="who-are-affiliates-and-whats-in-it-for-them"></a>
 

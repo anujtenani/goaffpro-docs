@@ -1,6 +1,6 @@
 # Record Nil Sales
 
-**GoAffPro** provides you with the option to record affiliate sales even if the commission from the sale is zero.
+**GoAffPro** provides you with the option to record affiliate sales even if the commission on them is zero.
 
 To record affiliate sales with zero commissions, go to the **General** section in the **Settings** tab of the GoAffPro admin panel.
 

@@ -6,11 +6,11 @@
 
 To create coupon templates, go to the **Coupons** tab in the GoAffPro admin panel.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
 
 Here, go to the Automatic Coupons section.
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption><p>Automatic Coupons</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption><p>Automatic Coupons</p></figcaption></figure>
 
 Now, click on **Create coupon templates**.
 

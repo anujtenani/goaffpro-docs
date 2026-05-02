@@ -6,7 +6,7 @@
 
 To set product commissions for affiliates, go to the **Referral commissions** section in the **Settings** tab of the GoAffPro admin panel.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (204).png" alt=""><figcaption><p>Commissions > Referral commissions</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (204) (1).png" alt=""><figcaption><p>Commissions > Referral commissions</p></figcaption></figure>
 
 Here, go to the Product Commissions section
 
@@ -24,6 +24,6 @@ After this, select the product and the affiliate. Finally, set the commission ra
 To set a commission rate for a particular product, select the product from the store. After this leave the affiliate field empty (to apply it to all the affiliates). Finally, set the commission rate and click on **Save**.
 {% endhint %}
 
-{% embed url="https://youtu.be/DcFLgu4p2BY" %}
+{% embed url="https://youtu.be/vyYHaSAiUfg" %}
 Set Product Commission for Affiliates
 {% endembed %}

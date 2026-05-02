@@ -4,7 +4,7 @@
 
 To disable the affiliate program, go to the **Advanced** section of the **Settings** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 
 Here, go to the Program Status section.
 
@@ -14,13 +14,21 @@ Now, click on **TURN OFF**.
 
 ![Click on TURN OFF](<../../.gitbook/assets/Annotation 2020-08-31 210817.png>)
 
-After this, the affiliate program will be completely disabled and will not track visits or referral sales.
+After this, the affiliate program will be completely disabled and will not track any visits or referral sales.
 
 {% hint style="info" %}
 To enable the affiliate program, click on **TURN ON**.
 {% endhint %}
 
-![](<../../.gitbook/assets/Annotation 2020-08-31 211018.png>)
+![Program disabled](<../../.gitbook/assets/Annotation 2020-08-31 211018.png>)
+
+You also have the option to delete your affiliate program by clicking on **Permanently Delete Program Account**.&#x20;
+
+{% hint style="info" %}
+To delete your affiliate program, you will have to delete all the affiliates in your program.&#x20;
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/em0Lo8aEJVQ" %}
 Disable Affiliate Program

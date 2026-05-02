@@ -28,6 +28,10 @@ Now, click on **Add section**.
 
 Next, select the Affiliate Activity Sheet option.
 
+{% hint style="info" %}
+You can follow this [guide](./) to create an affiliate activity sheet.&#x20;
+{% endhint %}
+
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-12-11 161920.png" alt=""><figcaption><p>Select the Affiliate Activity Sheet option</p></figcaption></figure>
 
 After this, select the activity sheet.&#x20;

@@ -4,7 +4,7 @@
 
 To set commission modifiers for the commission group, go to the **Groups** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (168).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (168) (1).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
 
 Here, click on **Edit Group**.
 

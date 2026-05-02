@@ -12,6 +12,10 @@ To set up the shopping-with floating widget, go to the **Toolbars** section in t
 
 Here, enable the toggle in the Shopping-with Floating Widget section.
 
+{% hint style="info" %}
+If you are on Shopify, you can follow this [guide](../add-widget-to-store.md) to enable the floating widget.&#x20;
+{% endhint %}
+
 ![Enable the toggle](<../../../.gitbook/assets/Annotation 2020-05-04 215418.png>)
 
 Finally, the Shopping-with Floating Widget will appear in your store.

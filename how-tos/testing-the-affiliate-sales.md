@@ -4,13 +4,13 @@ description: Test your GoAffPro installation and sales tracking
 
 # Test Affiliate Sales
 
-![Test Affiliate Sales](<../.gitbook/assets/Untitled (1).png>)
+<figure><img src="../.gitbook/assets/Screenshot 2025-06-23 184641.png" alt=""><figcaption></figcaption></figure>
 
 To test affiliate tracking, you can follow these steps through the entire customer visit lifecycle. This involves clicking on the affiliate link, visiting the website, adding items to the cart, and completing the purchase.
 
 ### Create a new affiliate account
 
-You can create the affiliate account from within the GoAffPro app, or use the signup page of your affiliate portal.
+You can create the affiliate account from within the GoAffPro app or use the signup page of your affiliate portal.
 
 #### Create a new affiliate from the Affiliates tab
 
@@ -38,28 +38,26 @@ The referral link of the affiliate will be displayed in the affiliate dashboard.
 
 ### Visit your store using the affiliate link
 
-Open the **referral link** on your browser. The affiliate visit will now be tracked by GoAffPr&#x6F;**.**
+Open the **referral link** in your browser. Your visit will now be tracked by GoAffPro.&#x20;
 
-To confirm that your visit is getting tracked, open the **Analytics** tab in your admin panel. In the visits table, you will see a unique visit recorded.
+To confirm that your visit is being tracked, go to the Analytics tab in your admin panel. In the visits table, you should see a unique visit recorded.
 
-### Browse around your store
+#### Browse your store & make a purchase
 
-When you open your store using the affiliate's referral link, your visit will start getting tracked. You can navigate around the store, view different products, and add them to your cart.&#x20;
+When you open your store using the affiliate's referral link, your visit will start getting tracked. You can browse the store, view different products, and add them to your cart.
 
-### Make a purchase and confirm the sale
-
-Finally, add a product to your cart and purchase it. This sale would get recorded by GoAffPro and will be attributed to the affiliate, who will earn a commission on it.&#x20;
+Finally, add a product to your cart and complete the purchase. This sale will be recorded by GoAffPro and attributed to the affiliate, who will earn a commission on the sale.
 
 **To confirm that a referral sale was successfully made:**
 
 * You will receive an email informing you that a new affiliate sale has been made.
-* The affiliate will receive an email informing them, that a sale has been made using their referral.
-* You will be able to view the referral sale recorded in the Sales > All Sales section.&#x20;
+* The affiliate will receive an email informing them that a sale has been made using their referral.
+* You can view the referral sale recorded in the Sales > All Sales section.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-19 134631.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-19 134631.png" alt=""><figcaption><p>Referral sale will be recorded in the Sales > All Sales table</p></figcaption></figure>
 
 **If all of the above steps work out successfully, then your app has been installed successfully and is working properly.**
 
 {% hint style="info" %}
-If you are facing any issues, please get in touch with us at [support@goaffpro.com](mailto:support@goaffpro.com). Our team of engineers will help you test the app adequately&#x20;
+If you are facing any issues, please get in touch with us at [support@goaffpro.com](mailto:support@goaffpro.com). Our team of engineers will help you test the app.
 {% endhint %}

@@ -1,10 +1,14 @@
+---
+hidden: true
+---
+
 # Set Usage Limit for Personal Coupons
 
 **GoAffPro** provides you with the option to set the usage limit for the personal coupons of affiliates.&#x20;
 
 To set the usage limit for personal coupons, go to **Coupons** tab in the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (131).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (131) (1).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
 
 Here, go to the Personal Coupons section.
 

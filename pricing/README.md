@@ -20,7 +20,7 @@ In our free plan, you get:
 
 Additionally, it offers you options such as product and affiliate commissions, commission rules, automatic coupons, creative media for affiliates, paying affiliates using PayPal Payouts (from within the app), and more.&#x20;
 
-### Premium Plan (<mark style="color:blue;">$29/month</mark>)
+### Premium Plan (<mark style="color:blue;">$49/month</mark>)
 
 <mark style="background-color:green;">The Premium plan is ideal for small to medium-sized businesses that require advanced features such as multi-level commission structures and custom branding.</mark>
 

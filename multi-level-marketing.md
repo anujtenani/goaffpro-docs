@@ -6,9 +6,9 @@ description: How does the multi level affiliate network work in the GoAffPro app
 
 **Multi-level marketing** also known as network marketing is a type of marketing strategy where existing affiliates of your program can recruit newer affiliates under them, and earn network commissions on the sales referred by their downline affiliates.&#x20;
 
-In addition to the commission earned by the existing affiliate on referring sales directly, they also earn a percentage of the commission of their recruited affiliate's (downline) sale.&#x20;
+In addition to the commission earned by the existing affiliate on referring sales directly, they also earn a percentage of the commission of their recruited affiliate's (downline) sale.
 
-![Multi Level Marketing](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LdPzLtyP46oY7cyXnkw%2F-LmyyMr75GkhOmQnwG6L%2F-Lmz-1NiDG5Bp9RVjN_i%2F17-512.png?alt=media\&token=2d2e0771-9b86-4964-915e-4c44daeeb0f6)
+<figure><img src=".gitbook/assets/Screenshot 2025-06-23 185415.png" alt=""><figcaption></figcaption></figure>
 
 ### How does GoAffPro help you with setting up a multi-level affiliate network?
 
@@ -20,13 +20,13 @@ This not only ensures that your top-performing affiliates get rewarded for their
 
 To set up the multi-level affiliate network for your affiliate program, go to the **Multi Level** tab in the GoAffPro admin panel.&#x20;
 
-<figure><img src=".gitbook/assets/image (220).png" alt=""><figcaption><p>Multi level</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (220) (1).png" alt=""><figcaption><p>Multi level</p></figcaption></figure>
 
 #### Multi-Level Marketing
 
 In the **Multi Level Marketing** section, you can enable the toggle. This will allow your affiliates to recruit newer affiliates (downline) under them.
 
-<figure><img src=".gitbook/assets/image (221).png" alt=""><figcaption><p>Multi Level Marketing</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (221) (1).png" alt=""><figcaption><p>Multi Level Marketing</p></figcaption></figure>
 
 {% hint style="info" %}
 You can also click on Geneology (Full Network), to view the network of affiliates (parent affiliates and their downlines).
@@ -54,11 +54,11 @@ That is: Partner 3 refers the sale and earns the referral commission. Partner 2 
 
 The **Playground** section can be used to test and learn, how your MLM network setup will work.&#x20;
 
-<figure><img src=".gitbook/assets/image (218).png" alt=""><figcaption><p>Playground</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (218) (1).png" alt=""><figcaption><p>Playground</p></figcaption></figure>
 
 Here, you can set up parameters like the number of partners in the network chain, select the partner who referred the sale, commission calculation method, order value, and referral commission for the sale.&#x20;
 
-<figure><img src=".gitbook/assets/image (217).png" alt=""><figcaption><p>Playground</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (217) (1).png" alt=""><figcaption><p>Playground</p></figcaption></figure>
 
 ### Setup multi level affiliate network settings <a href="#settings" id="settings"></a>
 
@@ -69,7 +69,7 @@ In the **Settings** section, you have options to configure your multi level affi
 * **MLM availability for affiliates:** You can set the MLM network availability for the affiliates in your program. If disabled, you can toggle it ON for affiliates manually, allowing them to recruit affiliates under them.
 * **Recruitment bonus:** It allows affiliates to earn a bonus for recruiting newer affiliates under them.&#x20;
 
-<figure><img src=".gitbook/assets/image (219).png" alt=""><figcaption><p>Settings</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (219) (1).png" alt=""><figcaption><p>Settings</p></figcaption></figure>
 
 {% hint style="info" %}
 **The multi-level marketing feature in GoAffPro can be used to set up a unilevel, binary, or forced matrix network hierarchy for your program.**

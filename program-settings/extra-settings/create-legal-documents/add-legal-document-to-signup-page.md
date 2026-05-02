@@ -8,49 +8,29 @@
 
 Go to the **Extras** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (41) (1).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
 
 Here, go to the Legal Documents section.
 
-<figure><img src="../../../.gitbook/assets/image (1992).png" alt=""><figcaption><p>Legal Documents</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption><p>Legal Documents</p></figcaption></figure>
 
 Now, click on **New Document**.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-03-07 010927.png" alt=""><figcaption><p>Click on New Document</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-02-02 172509 (1).png" alt=""><figcaption><p>Click on New Document</p></figcaption></figure>
 
 This will open up the New Document section.
 
-<figure><img src="../../../.gitbook/assets/image (1440).png" alt=""><figcaption><p>New Document</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption><p>New Document</p></figcaption></figure>
 
 Here, set the title and content of the document.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-03-07 011025.png" alt=""><figcaption><p>Set the title and content of the document</p></figcaption></figure>
-
-Next, click on **Add customer field**.&#x20;
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-03-07 011136.png" alt=""><figcaption><p>Click on Add custom field</p></figcaption></figure>
-
-Now, set the custom field with the following values:
-
-**Field ID:** signature
-
-**Label:** Signature
-
-**Field Type:** Signature
-
-Also, enable the required toggle.&#x20;
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-03-07 011206.png" alt=""><figcaption><p>Set the custom field values</p></figcaption></figure>
-
-After this, add the field ID to the content box of the document: **\{{{signature\}}}**
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-03-07 011252.png" alt=""><figcaption><p>Add the field ID to the content box</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-02-02 172505 (1).png" alt=""><figcaption><p>Set the title &#x26; content</p></figcaption></figure>
 
 Finally, click on **Submit**.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-03-07 011340.png" alt=""><figcaption><p>Click on Submit</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-02-02 18331842.png" alt=""><figcaption><p>Click on Submit</p></figcaption></figure>
 
-The legal document will get saved.&#x20;
+The legal document will be saved.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (612).png" alt=""><figcaption><p>The legal document will get saved</p></figcaption></figure>
 
@@ -62,7 +42,7 @@ Create Legal Document
 
 Now, go to the **Signup page** section in the **Look and Feel** tab of the GoAffPro admin panel
 
-<figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption><p>Look and Feel > Signup page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (44) (1).png" alt=""><figcaption><p>Look and Feel > Signup page</p></figcaption></figure>
 
 Here, click on **Select & Customize**.
 
@@ -84,7 +64,7 @@ Now, set the field title.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-03-07 011614.png" alt=""><figcaption><p>Set the field title</p></figcaption></figure>
 
-Next, select Legal document option as the input type.
+Next, select the Legal document option as the input type.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-03-07 011651.png" alt=""><figcaption><p>Select Legal document</p></figcaption></figure>
 
@@ -104,7 +84,7 @@ The legal document field will appear on the signup page of the affiliate portal.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-03-07 012141.png" alt=""><figcaption><p>Legal document field</p></figcaption></figure>
 
-Affiliates can click on the field, view the agreement text and sign it.&#x20;
+Affiliates can click on the field, view the agreement, and sign it.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (1345).png" alt=""><figcaption></figcaption></figure>
 

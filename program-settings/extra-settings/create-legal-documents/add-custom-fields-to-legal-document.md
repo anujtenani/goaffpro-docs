@@ -4,7 +4,7 @@
 
 To add custom fields to the legal document, go to the **Extras** section in the **Settings** tab of the GoAffPro admin panel.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (41) (1).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
 
 Here, go to the Legal Documents section.
 
@@ -44,7 +44,7 @@ Next, select the field type.&#x20;
 You can set the field type as text input, phone number, text area, or signature.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-11-09 192603.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2022-11-09 192603.png" alt=""><figcaption><p>Select the field type</p></figcaption></figure>
 
 There are also options to set the field as required and adjust the field width.
 

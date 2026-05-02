@@ -4,11 +4,11 @@
 
 The Membership Plans option can be enabled from Settings > Extras > Membership fees section.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (111).png" alt=""><figcaption><p>Membership fees</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (111) (1).png" alt=""><figcaption><p>Membership fees</p></figcaption></figure>
 
 After you enable it, the Membership Plans tab will appear in the admin panel of GoAffPro.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (112).png" alt=""><figcaption><p>Membership Plans</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (112) (1).png" alt=""><figcaption><p>Membership Plans</p></figcaption></figure>
 
 ## How do I set up the payment gateway for membership plans?
 
@@ -32,7 +32,7 @@ You can take a look at how affiliate membership activation works from the follow
 
 Yes, you also have the option to set **Stripe** as the payment gateway for membership plan payments.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (110) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Will the existing affiliate be charged for the membership plan?
 

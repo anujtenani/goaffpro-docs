@@ -37,3 +37,7 @@ After this, enable the "**Exclude Sale items**" option.
 Finally, click on **Submit**.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-05-13 172957.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://youtu.be/S48RpLD_yyY" %}
+Exclude Sale Items for Coupons
+{% endembed %}

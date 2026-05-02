@@ -6,7 +6,7 @@
 
 To set collection commissions for affiliates, go to the **Referral commissions** section in the **Commissions** tab of the GoAffPro admin panel.&#x20;
 
-<figure><img src="../.gitbook/assets/image (209).png" alt=""><figcaption><p>Commissions > Referral commissions</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (209) (1).png" alt=""><figcaption><p>Commissions > Referral commissions</p></figcaption></figure>
 
 Here, go to the **Collection Commissions** option.&#x20;
 
@@ -24,6 +24,6 @@ Next, select the collection or category and set the commission rate. After this,
 You also have the option to **select an affiliate** to whom you can assign the collection commission. For any sale of the product that is in the collection, the referral commission will go to the affiliate assigned to the collection.&#x20;
 {% endhint %}
 
-{% embed url="https://youtu.be/DuFX_tvNKq4" %}
+{% embed url="https://youtu.be/6RCGWQYY_IE" %}
 Set Collection Commission for Affiliates
 {% endembed %}

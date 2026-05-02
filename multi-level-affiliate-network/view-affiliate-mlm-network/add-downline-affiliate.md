@@ -1,10 +1,10 @@
 # Add Downline Affiliate
 
-**GoAffPro** provides you with the option to add downlines for an affiliate.&#x20;
+**GoAffPro** provides you with the option to add downlines to an affiliate's network.
 
 To add downlines for an affiliate, go to the **All Affiliates** section in the **Affiliates** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption><p>Affiliates > All Affiliates</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (99) (1).png" alt=""><figcaption><p>Affiliates > All Affiliates</p></figcaption></figure>
 
 Here, click on the affiliate name.
 
@@ -41,3 +41,7 @@ After this, click on **Submit**.
 Finally, the downlines will get added for the affiliate.&#x20;
 
 ![](<../../.gitbook/assets/image (2920).png>)
+
+{% embed url="https://youtu.be/RhBOcmFu5Cc" %}
+Add Downline Affiliate
+{% endembed %}

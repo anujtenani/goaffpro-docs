@@ -4,7 +4,7 @@
 
 To set commission rules for the commission group, go to the **Groups** tab in the GoAffPro admin panel.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (160).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (160) (1).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
 
 Here, click on **Edit Group**.
 
@@ -46,6 +46,6 @@ The newly set commission rule will get saved for the group.
 
 ![](<../../.gitbook/assets/image (743).png>)
 
-{% embed url="https://www.youtube.com/watch?v=S_P08dSN3B0" %}
+{% embed url="https://youtu.be/jgfa4_HVuNc" %}
 Set Commission Rules for Group
 {% endembed %}

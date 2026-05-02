@@ -4,21 +4,21 @@ description: Frequently Asked Questions
 
 # FAQ
 
-## Is the GoAffPro app free?
+### Is the GoAffPro app free?
 
-**GoAffPro does not charge you any money on the free plan**. The app is completely free to use.
+**GoAffPro does not charge you any money for the free plan**. The app is completely free to use.
 
-You also have the option to upgrade your membership to the premium plan ($29/mo). With the premium plan, you get additional features such as a multi-level affiliate network, email marketing, third-party integrations, target bonuses, and various customization options for the affiliate portal.
+You also have the option to upgrade your membership to the premium plan ($49/mo). With the premium plan, you get additional features such as a multi-level affiliate network, email marketing, third-party integrations, target bonuses, and various customization options for the affiliate portal.
 
 {% content-ref url="pricing/premium-plan.md" %}
 [premium-plan.md](pricing/premium-plan.md)
 {% endcontent-ref %}
 
-## Is there any limit to the number of affiliates who can join my program?
+### Is there any limit to the number of affiliates who can join my program?
 
 There are no limits to the number of affiliates that can join your program. GoAffPro offers unlimited affiliates in all its pricing plans (even on the free plan).
 
-## Can I set up a custom domain name for the affiliate portal?
+### Can I set up a custom domain name for the affiliate portal?
 
 You can set the affiliate portal under your store's subdomain. Check out our guide on how to set up a custom domain:
 
@@ -26,11 +26,11 @@ You can set the affiliate portal under your store's subdomain. Check out our gui
 [custom-domain-setup.md](how-tos/custom-domain-setup.md)
 {% endcontent-ref %}
 
-## Why is my custom affiliate portal not loading up?&#x20;
+### Why is my custom affiliate portal not loading up?&#x20;
 
 After you set the affiliate portal URL from the Look and Feel > Store Profile > Affiliate Portal section, select the "Subdomain of your shop" option and set the custom portal name.&#x20;
 
-You must also create a new CNAME record in your domain provider's dashboard, using the Name, Value, and TTL that gets generated after you enter your custom portal name.&#x20;
+You must also create a new CNAME record in your domain provider's dashboard, using the Name, Value, and TTL that get generated after you enter your custom portal name.&#x20;
 
 |   Name  |         Value         |  TTL |
 | :-----: | :-------------------: | :--: |
@@ -38,7 +38,7 @@ You must also create a new CNAME record in your domain provider's dashboard, usi
 
 You can also follow our guide on how to set up the CNAME record for different domain registrars: [CNAME guide](https://app.goaffpro.com/extras/cname_guide/yourstore)
 
-## How do I enroll affiliates/influencers in my program?
+### How do I enroll affiliates/influencers in my program?
 
 To recruit affiliates for your program, you need to promote your affiliate program on your store's social media channels (Facebook page, Instagram, Twitter, etc.) and add the link to the affiliate portal on your store's homepage (using a menu or footer link). Here
 
@@ -50,13 +50,13 @@ By spreading the word about your affiliate program and highlighting the benefits
 [quick-setup.md](quick-setup.md)
 {% endcontent-ref %}
 
-## How do I set up the cookie duration?
+### How do I set up the cookie duration?
 
 You can set the cookie duration by going to Settings > General > Cookie Duration section. There, you can set the expiration date for the affiliate tracking cookie.
 
-<figure><img src=".gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (215) (1).png" alt=""><figcaption></figcaption></figure>
 
-## How do I change the affiliate portal language?
+### How do I change the affiliate portal language?
 
 To change the affiliate portal language, go to Look and Feel > Store Profile.&#x20;
 
@@ -97,27 +97,27 @@ To change the affiliate portal language, go to Look and Feel > Store Profile.&#x
 
 You also have the option to automatically set the language of the affiliate portal based on the affiliate's location.&#x20;
 
-You can also edit specific translations, to make it easier for your affiliates to understand the affiliate portal. If your language is not listed, you can contact us at admin@goaffpro.com
+You can also edit specific translations to make it easier for your affiliates to understand the affiliate portal. If your language is not listed, you can contact us at admin@goaffpro.com
 
-<figure><img src=".gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (216) (1).png" alt=""><figcaption></figcaption></figure>
 
-## How are commissions calculated?&#x20;
+### How are commissions calculated?&#x20;
 
 By default, the commission is calculated on the order total. However, you can set the program to exclude shipping, taxes, and coupon discounts from the commission calculation. That way, the commission would only be calculated on the product price in the order.&#x20;
 
 #### Why do we offer this option?
 
 * It is an industry-standard practice of calculating commission.&#x20;
-* It creates a more transparent affiliate program, your affiliates earn what they see (i.e. on your shop they see a $100 article and if you are offering a 10% commission on its sale, they are sure they'll get $10 for its referral).&#x20;
-* Shipping/Taxes/Coupon discounts vary for different countries/states/locations. Therefore incorporating this would incur a great accounting overhead.&#x20;
+* It creates a more transparent affiliate program, your affiliates earn what they see (i.e., on your shop, they see a $100 article, and if you are offering a 10% commission on its sale, they are sure they'll get $10 for its referral).&#x20;
+* Shipping/Taxes/Coupon discounts vary for different countries/states/locations. Therefore, incorporating this would incur a great accounting overhead.&#x20;
 
-## Can I customize the commission rates for specific affiliates?
+### Can I customize the commission rates for specific affiliates?
 
 You can use the **affiliate commissions** option from the Commissions > Referral Commissions section to set up different commissions for specific affiliates in your program.&#x20;
 
-<figure><img src=".gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (214) (1).png" alt=""><figcaption></figcaption></figure>
 
-## How do I pay my affiliates?
+### How do I pay my affiliates?
 
 #### You have two options to pay your affiliates:
 
@@ -128,7 +128,7 @@ You can use the **affiliate commissions** option from the Commissions > Referral
 [paying-affiliates.md](how-tos/paying-affiliates.md)
 {% endcontent-ref %}
 
-## Why I am seeing less commission getting calculated for my affiliates?
+### Why am I seeing less commission being calculated for my affiliates?
 
 If the commission of affiliates is getting calculated less than the commission rate you have set, it can be due to the commission calculation settings that have been set in Settings > General > Sales.
 
@@ -140,28 +140,28 @@ If the commission of affiliates is getting calculated less than the commission r
 
 You can also check the commission calculation adjustments in the order summary by going to Sales > All Sales > Click on an order number to open its order summary.
 
-## How does referral link tracking work?
+### How does referral link tracking work?
 
 **Our app supports both referral link and coupon code tracking:**
 
-* If the customer visits the store using an affiliate's referral link and makes a purchase. Our app will record that sale, and attribute it to the affiliate. The affiliate will be awarded a commission on that sale.
+* If the customer visits the store using an affiliate's referral link and makes a purchase. Our app will record that sale and attribute it to the affiliate. The affiliate will be awarded a commission on that sale.
 * If the customer uses the affiliate's coupon code to purchase in your store. Our app will record that sale and attribute it to the affiliate. The affiliate will be awarded a commission on such sales.
 
 Note: if the customer uses both the affiliate's referral link and coupon code to make the purchase, the affiliate will still only get awarded a single commission on that sale.
 
-## Why are referral sales not getting tracked on my store?
+### Why are referral sales not getting tracked on my store?
 
 The issue of referral sales not getting tracked can arise if you are using a third-party checkout or a custom payment gateway in your store.&#x20;
 
 We recommend that you connect with us at admin@goaffpro.com to get assistance regarding this.
 
-## My test sales are not giving the intended results
+### Are test sales are not giving the intended results?
 
-It is recommended that you make the test sale in the private/incognito tab of your browser. That way, previously saved cookies will not affect the test. It also gives you the perspective of how a customer would be making a purchase when they visit your store for the first time using the affiliate's referral link.
+It is recommended that you make the test sale in the private/incognito tab of your browser. That way, previously saved cookies will not affect the test. It also gives you the perspective of how a customer would be making a purchase when they visit your store for the first time, using the affiliate's referral link.
 
 If you still aren't getting the intended results as per your setup, you can connect with us at admin@goaffpro.com
 
-## How do I add the link to my affiliate portal in the store?
+### How do I add the link to my affiliate portal in the store?
 
 #### You have two options:
 
@@ -174,45 +174,63 @@ Check out our guide on how to add the link to your affiliate portal in the store
 [quick-setup.md](quick-setup.md)
 {% endcontent-ref %}
 
-## What is the difference between referral and personal coupon codes?
+### How to stop unwanted affiliate signups?&#x20;
+
+1. You can include [additional signup fields](affiliate-portal-customization/signup-page/additional-signup-fields-for-signup-page/) on the signup page to gather more information from your affiliates. This will help you verify their profiles and information.
+2. Next, [disable the automatic approval](program-settings/manage-affiliate-registrations/disable-automatic-approval-of-affiliates/) of affiliates in your program. This will allow you to manually approve or reject affiliate signups.
+
+By doing this, you can verify the information submitted by applicants in your program and approve or reject them from the Affiliates > Pending Approval section.
+
+### What is the difference between referral and personal coupon codes?
 
 **Here is the difference between referral coupons and personal coupons:**
 
-<table><thead><tr><th>Referral Coupons</th><th>Personal Coupons</th><th data-hidden></th></tr></thead><tbody><tr><td>They are meant for the usage of customers.</td><td>They are meant for the usage of affiliates.</td><td></td></tr><tr><td>When referral coupons are used by customers to make a purchase, the affiliate earns a commission on the sale.</td><td>When personal coupons are used by affiliates to make a purchase, they will not earn a commission on that sale.</td><td></td></tr><tr><td>Referral coupons are shared in affiliate promotions.</td><td>Personal coupons are used by affiliates to make purchases themselves.</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Referral Coupons</th><th>Personal Coupons</th><th data-hidden></th></tr></thead><tbody><tr><td>They are meant for the use of customers.</td><td>They are meant for the use of affiliates.</td><td></td></tr><tr><td>When referral coupons are used by customers to make a purchase, the affiliate earns a commission on the sale.</td><td>When personal coupons are used by affiliates to make a purchase, they will not earn a commission on that sale.</td><td></td></tr><tr><td>Referral coupons are shared in affiliate promotions.</td><td>Personal coupons are used by affiliates to make purchases themselves.</td><td></td></tr></tbody></table>
 
-## Is GoAffPro GDPR complaint?
+### Is GoAffPro GDPR compliant?
 
 GoAffPro app/company is GDPR compliant, with data centers in Europe (Falkenstein and Nuremberg, Germany) and the USA (Virginia).
 
 Our GDPR compliance and DPO email is registered as admin@goaffpro.com
 
-## Does GoAffPro track sale refunds or cancellations?
+### Does GoAffPro track sales refunds or cancellations?
 
 GoAffPro does track refunds and order cancellations.&#x20;
 
 When a referral sale gets refunded or canceled, our app will automatically mark the sale as rejected and will deduct the commission for that sale from the affiliate's account balance. It is done automatically by the GoAffPro app.
 
-## Does GoAffPro offer any additional tools for affiliates to promote the products?
+### Does GoAffPro offer any additional tools for affiliates to promote the products?
 
 Affiliates can use the product link generator tool located in the marketing tools tab of their dashboard to create trackable product links for their customers.
 
-{% content-ref url="goaffpro/affiliate-portal/marketing-tools.md" %}
-[marketing-tools.md](goaffpro/affiliate-portal/marketing-tools.md)
+{% content-ref url="goaffpro/affiliate-dashboard/marketing-tools.md" %}
+[marketing-tools.md](goaffpro/affiliate-dashboard/marketing-tools.md)
 {% endcontent-ref %}
 
-## Can I sync multiple store programs?
+### Can I sync multiple store programs?
 
 We do offer a [multi-site connection](https://help.goaffpro.com/article/multi-site-connection) option for merchants. We can connect the stores in such a way that the link/coupon code of one store would work on all the other stores too.\
 \
-Affiliate accounts are automatically replicated across all the connected stores. They can access the stats of all the stores from within their dashboard by switching stores. Their referral link and coupon code will work in all the stores (even with customers hopping across stores)\
+Affiliate accounts are automatically replicated across all the connected stores. They can access the stats of all the stores from within their dashboard by switching stores. Their referral link and coupon code will work in all the stores (even with customers hopping across stores).\
 \
 We will also provide you (merchant) with a master dashboard to manage all the store programs from the same panel. You can contact us at admin@goaffpro.com for more information.&#x20;
 
-## I want to migrate my affiliate program to another store
+### How to set up GoAffPro with Shopify Markets?
+
+If you have a single myshopify URL, but use Shopify Markets for geolocated stores, e.g., [example.it](http://example.it), [example.fr](http://example.fr), [example.co.uk](http://example.co.uk), etc. Affiliate links and coupons will function across all domains.
+
+To allow affiliates to share the domain links for each country's store, you can follow this [guide](https://docs.goaffpro.com/affiliate-portal-customization/affiliate-dashboard/setup-quick-links-for-affiliates) to add them as quick links to their dashboard.
+
+Note:
+
+* If you are automatically redirecting customers based on their geolocation, please ensure that the referral parameter is preserved during the redirection. For example, if a customer visits: https://example.com/?ref=abc, the redirected URL must retain the ?ref=abc parameter, like: https://example.co.uk/?ref=abc.
+* If the stores use different currencies, currency conversion will happen automatically into the original store's base currency.
+
+### I want to migrate my affiliate program to another store
 
 If you plan on migrating your affiliate program to another store, contact our team at admin@goaffpro.com. They will assist you in migrating your affiliate program with all of its data to the new store program.
 
-## How do I upgrade to the premium plan?
+### How do I upgrade to the premium plan?
 
 To upgrade your GoAffPro subscription, you can go to the Upgrade tab in the GoAffPro admin panel and click on **Start Free Trial**. You will start with a 15-day free trial and be charged only when the trial period ends.
 
@@ -221,5 +239,5 @@ To upgrade your GoAffPro subscription, you can go to the Upgrade tab in the GoAf
 {% endcontent-ref %}
 
 {% hint style="info" %}
-In case you are having issues while upgrading or if you want to downgrade your plan from premium to free, you can contact our team at admin@goaffpro.com
+In case you are having issues while upgrading, or if you want to downgrade your plan from premium to free, you can contact our team at admin@goaffpro.com
 {% endhint %}

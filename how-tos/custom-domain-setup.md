@@ -7,7 +7,7 @@ description: Setup a custom name for your affiliate portal
 **GoAffPro** provides you with the option to set up a custom domain for your affiliate portal. Having a custom domain for your affiliate program offers a range of benefits.&#x20;
 
 * It adds a professional touch to your program, making it look more credible and trustworthy to potential affiliates.&#x20;
-* This can help you attract high-quality affiliates who are more likely to promote your products or services effectively.
+* This can help you attract high-quality affiliates, who are more likely to promote your products or services effectively.
 
 > Setting a custom domain name for your affiliate portal can improve your SEO (search engine optimization) efforts. It can increase your program's visibility in search engine results and lead to more affiliates enrolling in your program.
 
@@ -54,7 +54,7 @@ Add a new **CNAME record** for your domain.
 <table><thead><tr><th>Name or Host</th><th>Value or Points To</th><th data-hidden></th></tr></thead><tbody><tr><td>affiliates</td><td>partners.goaffpro.com</td><td></td></tr></tbody></table>
 
 {% hint style="info" %}
-Domain registrars have different ways of setting up CNAME records. You can find instructions to add a CNAME record at the domain registrar's website.
+Domain registrars have different ways of setting up CNAME records. You can find instructions to add a CNAME record on the domain registrar's website.
 
 You can also follow our guide on how to set up the CNAME record for different domain registrars: [https://app.goaffpro.com/extras/cname\_guide/yourstore](https://app.goaffpro.com/extras/cname_guide/yourstore)
 {% endhint %}

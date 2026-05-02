@@ -4,7 +4,7 @@
 
 To set the multi level commission for the commission group, go to the **Groups** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (163).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (163) (1).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
 
 Here, click on **Edit Group**.
 
@@ -34,6 +34,6 @@ Finally, the newly set MLM default commission will get saved for the group.
 
 ![](<../../.gitbook/assets/image (2657).png>)
 
-{% embed url="https://youtu.be/1zUzY7cvS_k" %}
+{% embed url="https://youtu.be/4gWbdguSVT8" %}
 Set Multi Level Commission for Group
 {% endembed %}

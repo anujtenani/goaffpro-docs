@@ -2,58 +2,57 @@
 
 #### Generate the storefront access token for setting up the affiliate public store:
 
-To generate the storefront access token, go to the **Settings** section in the Shopify admin panel.
+To generate the storefront access token, install the [Headless channel](https://apps.shopify.com/headless) from the Shopify app store.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-12-25 2202439.png" alt=""><figcaption><p>Shopify admin panel > Settings</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-01-06 151125.png" alt=""><figcaption><p>Install the Headless channel from the Shopify app store</p></figcaption></figure>
 
-Here, open the Apps and sales channels section.
+This will open up the Storefronts section.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-12-25 182404 (1).png" alt=""><figcaption><p>Open the Apps and sales channels section</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption><p>Storefronts</p></figcaption></figure>
 
-Now, click on **Develop apps**.
+Here, click on **Create storefront**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-12-25 182404.png" alt=""><figcaption><p>Click on Develop apps</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-01-06 151404.png" alt=""><figcaption><p>Click on Create Storefront</p></figcaption></figure>
 
-This will open up the App development section.
+To access the Storefront API, click on **Manage**.
 
-<figure><img src="../../../.gitbook/assets/image (270).png" alt=""><figcaption><p>App development</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-01-06 151420.png" alt=""><figcaption><p>Storefront API > Click on Manage</p></figcaption></figure>
 
-Here, click on **Create an app**.
+This will open up the Storefront API section.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-12-25 18125839.png" alt=""><figcaption><p>Click on Create an app</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption><p>Storefront API</p></figcaption></figure>
 
-Next, set the app name.
+Next, click on **Edit** to update the Storefront API permissions.
 
-![Set the app name](<../../../.gitbook/assets/Screenshot 2022-02-15 044027.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-01-06 151449.png" alt=""><figcaption><p>Storefront API permissions > Click on Edit</p></figcaption></figure>
 
-After this, click on **Create app**.
+After this, enable the "unauthenticated\_read\_product\_inventory" permission.&#x20;
 
-![Click on Create app](<../../../.gitbook/assets/Screenshot 2022-02-15 044303.png>)
+{% hint style="info" %}
+The following Storefront API permissions need to be enabled:&#x20;
 
-This will open up the app configuration section.
+* unauthenticated\_read\_product\_listings
+* unauthenticated\_read\_product\_inventory
+* unauthenticated\_read\_product\_tags
+* unauthenticated\_read\_customers
+* unauthenticated\_write\_customers
+* unauthenticated\_read\_content
+* unauthenticated\_read\_checkouts
+* unauthenticated\_write\_checkouts
 
-![App configuration section](<../../../.gitbook/assets/image (488).png>)
+Please note that most of these permissions are enabled by default.
+{% endhint %}
 
-Here, click on **Configure Storefront API scopes**.
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-01-06 151504.png" alt=""><figcaption><p>Enable the "unauthenticated_read_product_inventory" permission</p></figcaption></figure>
 
-![Click on Configure Storefront API Scopes](<../../../.gitbook/assets/Screenshot 2022-02-15 044548.png>)
+Finally, click on **Save**.
 
-Now, enable the API access scopes.
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-01-06 151516.png" alt=""><figcaption><p>Click on Save</p></figcaption></figure>
 
-![Enable API access scopes](<../../../.gitbook/assets/Screenshot 2022-02-15 050534.png>)
+You can copy the generated storefront API access token and use it to set up the affiliate public store.&#x20;
 
-Next, click on **Save**.&#x20;
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-01-06 15152942.png" alt=""><figcaption></figcaption></figure>
 
-![Click on Save](<../../../.gitbook/assets/Screenshot 2022-02-15 050849.png>)
-
-After this, click on **Install app**.&#x20;
-
-![Click on Install app](<../../../.gitbook/assets/Screenshot 2022-02-15 051233.png>)
-
-Finally, you will be able to copy the generated storefront API access token.
-
-![Copy the Storefront API access token](<../../../.gitbook/assets/Screenshot 2022-02-15 052013.png>)
-
-{% embed url="https://youtu.be/yubtUCGtjFE" %}
+{% embed url="https://youtu.be/7vOPVxdIjd0" %}
 Generate Storefront Access Token
 {% endembed %}

@@ -1,12 +1,12 @@
-# Create Commission Groups for Affiliates
+# Setup Affiliate Commission Groups
 
-**GoAffPro** provides you with the option to create commission groups for affiliates.
+**GoAffPro** provides you with the option to setup commission groups for affiliates.
 
 > The affiliate groups feature provides you the ability to create groups of affiliates, allowing you to set up independent commission structures for each group. You can customize your commission rates for specific groups, making it easier to manage them.
 
-To create commission groups for affiliates, go to the **Groups** tab in the GoAffPro admin panel.
+To setup commission groups for affiliates, go to the **Groups** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (156).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (156) (1).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
 
 Here, click on **New Group**.
 
@@ -32,6 +32,6 @@ Finally, the newly created group will appear in the Groups tab.
 
 ![](<../../.gitbook/assets/Screenshot 2020-11-13 041336.png>)
 
-{% embed url="https://www.youtube.com/watch?v=hWqherQXg6c" %}
-Create Commission Groups for Affiliates
+{% embed url="https://www.youtube.com/watch?v=8EN7s7cCUvs&feature=youtu.be" %}
+Setup Commission Groups for Affiliates
 {% endembed %}

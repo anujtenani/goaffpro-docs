@@ -4,7 +4,7 @@
 
 To set a royalty commission for an affiliate, go to the **All Affiliates** section in the **Affiliates** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption><p>Affiliates > All Affiliates</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (93) (1).png" alt=""><figcaption><p>Affiliates > All Affiliates</p></figcaption></figure>
 
 Here, click on the **affiliate name** to view their profile.
 
@@ -48,7 +48,7 @@ After this, click on **OK**.
 
 Finally, the newly set royalty commission will be set for the affiliate.
 
-<figure><img src="../../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (98) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/EixuhwLzPMI" %}
 Set Fixed Commission for Affiliate

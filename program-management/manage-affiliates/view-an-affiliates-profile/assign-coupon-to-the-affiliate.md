@@ -12,7 +12,7 @@ Here, click on the **affiliate name**.
 
 This will open up the affiliate's profile.
 
-<figure><img src="../../../.gitbook/assets/image (260).png" alt=""><figcaption><p>Affiliate's profile page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (260) (1).png" alt=""><figcaption><p>Affiliate's profile page</p></figcaption></figure>
 
 Now, click on **Assign Coupon** in the Referral Coupon section.
 
@@ -20,7 +20,7 @@ Now, click on **Assign Coupon** in the Referral Coupon section.
 
 This will open up the Create Coupon window.
 
-<figure><img src="../../../.gitbook/assets/image (261).png" alt=""><figcaption><p>Create Coupon</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (261) (1).png" alt=""><figcaption><p>Create Coupon</p></figcaption></figure>
 
 Here, select the "Create coupon code in store" option.
 

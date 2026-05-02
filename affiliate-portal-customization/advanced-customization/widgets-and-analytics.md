@@ -4,7 +4,7 @@
 
 To add widgets to the affiliate dashboard, go to the **Affiliate Dashboard** section in the **Look and Feel** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption><p>Look and Feel > Affiliate Dashboard</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (58) (1).png" alt=""><figcaption><p>Look and Feel > Affiliate Dashboard</p></figcaption></figure>
 
 Here, go to the Widgets and Analytics section.&#x20;
 

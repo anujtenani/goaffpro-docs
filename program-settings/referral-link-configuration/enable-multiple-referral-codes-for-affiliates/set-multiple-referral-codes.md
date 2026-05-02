@@ -4,19 +4,15 @@
 
 Go to the affiliate's profile settings.
 
-![Affiliates > All Affiliates > Click on the Affiliate's name > Settings ](<../../../.gitbook/assets/image (2241).png>)
+<figure><img src="../../../.gitbook/assets/image (3819).png" alt=""><figcaption><p>Affiliates > All Affiliates > Click on the Affiliate's name > Settings </p></figcaption></figure>
 
-Here, click on **Edit** in the Referral Code section.
+In the Referral Code section, the referral codes for the affiliate (one referral code per line).
 
-![Click on Edit](<../../../.gitbook/assets/Annotation 2020-06-30 231758.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-10-29 191020.png" alt=""><figcaption><p>Enter the referral codes</p></figcaption></figure>
 
-Now, enter the referral codes for the affiliate (one referral code per line).
+Now, click on **Submit**.
 
-![Enter the referral codes for the affiliate](<../../../.gitbook/assets/Annotation 2020-06-30 232323.png>)
-
-After this, click on **Update**.
-
-![Click on Update](<../../../.gitbook/assets/Annotation 2020-06-30 232644.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-10-29 191110.png" alt=""><figcaption><p>Click on Submit</p></figcaption></figure>
 
 {% embed url="https://youtu.be/Rwit2cT1h6Y" %}
 Setup Multiple Referral Codes (Merchant)
@@ -26,19 +22,19 @@ Setup Multiple Referral Codes (Merchant)
 
 Go to the **Settings** section in the affiliate dashboard.
 
-![Affiliate Dashboard > Settings](<../../../.gitbook/assets/image (2979).png>)
+<figure><img src="../../../.gitbook/assets/image (3820).png" alt=""><figcaption><p>Affiliate Dashboard > Settings</p></figcaption></figure>
 
 Here, click on **Change** in the Referral Code section.
 
-![Click on Change](<../../../.gitbook/assets/Annotation 2020-06-30 230425.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-10-29 191307.png" alt=""><figcaption><p>Click on Change</p></figcaption></figure>
 
-Now, enter the referral codes (one referral code per line).
+After this, enter the referral codes (one referral code per line).
 
-![Enter the referral codes](<../../../.gitbook/assets/Annotation 2020-06-30 230727.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-10-29 1916203.png" alt=""><figcaption><p>Enter the referral codes</p></figcaption></figure>
 
-After this, click on **Save Changes**.
+Finally, click on **Save Changes**.
 
-![Click on Save Changes](<../../../.gitbook/assets/Annotation 2020-06-30 231120.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-10-29 1945538.png" alt=""><figcaption><p>Click on Save Changes</p></figcaption></figure>
 
 {% embed url="https://youtu.be/_OQFPjMfwBM" %}
 Setup Multiple Referral Codes (Affiliate)

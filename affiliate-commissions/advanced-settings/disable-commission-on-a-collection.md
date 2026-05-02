@@ -4,10 +4,9 @@
 
 > To prevent affiliates from earning commissions on a collection, you can set a zero percent collection commission on it. This will allow you to exclude certain collections from your program.
 
-To disable commission on a collection, go to the **Referral Commissions** section in the **Commissions** tab of the GoAffPro admin panel.\
+To disable commission on a collection, go to the **Referral Commissions** section in the **Commissions** tab of the GoAffPro admin panel.<br>
 
-
-<figure><img src="../../.gitbook/assets/image (209).png" alt=""><figcaption><p>Commissions > Referral commissions</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (209) (1).png" alt=""><figcaption><p>Commissions > Referral commissions</p></figcaption></figure>
 
 Here, go to the Collection Commissions section.
 
@@ -37,6 +36,6 @@ The newly created collection commission will appear in the Collection Commission
 
 ![](<../../.gitbook/assets/image (2812).png>)
 
-{% embed url="https://youtu.be/QzX5Lz3YhlA" %}
+{% embed url="https://youtu.be/lUfO0K0WwXk" %}
 Disable Commission on a Collection
 {% endembed %}

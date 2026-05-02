@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Set Tracking Script Cache Duration
 
 **GoAffPro** provides you with the option to set the tracking script cache duration.
@@ -8,7 +12,7 @@ The tracking script cache option enables you to extend the cache duration for th
 
 To set the tracking script cache duration, go to the **Advanced** section of the **Settings** tab in the GoAffPro admin panel.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 
 Here, go to the Tracking script Cache section.
 

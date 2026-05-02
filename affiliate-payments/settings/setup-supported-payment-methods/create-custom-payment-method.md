@@ -4,7 +4,7 @@
 
 To set up a custom payment method for affiliates, go to the **Payments** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption><p>Settings > Payments </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (72) (1).png" alt=""><figcaption><p>Settings > Payments </p></figcaption></figure>
 
 Here, go to the Supported Payment Methods section.
 

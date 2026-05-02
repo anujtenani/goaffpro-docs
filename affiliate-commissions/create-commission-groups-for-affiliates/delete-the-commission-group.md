@@ -4,7 +4,7 @@
 
 To delete the commission group, go to the **Groups** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (185).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (185) (1).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
 
 Here, click on **Edit Group**.
 
@@ -16,7 +16,7 @@ This will open up the Edit group section
 
 Now, click on **Delete Group**.&#x20;
 
-![Click on Delete Group](<../../.gitbook/assets/Screenshot 2020-12-29 003129.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2025-03-03 143536f.png" alt=""><figcaption><p>Click on Delete Group</p></figcaption></figure>
 
 Finally, the commission group will get deleted.
 

@@ -12,7 +12,7 @@ Here, click on **Give reward**.
 
 This will open up the Give Reward window.
 
-<figure><img src="../../../.gitbook/assets/image (277).png" alt=""><figcaption><p>Give Reward</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (277) (1).png" alt=""><figcaption><p>Give Reward</p></figcaption></figure>
 
 Now, select the reward type, set the amount and add a message.
 

@@ -44,4 +44,4 @@ Finally, click on **Submit**.
 
 The newly created payment plan will appear in the Membership Plans tab.
 
-<figure><img src="../../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (106) (1).png" alt=""><figcaption></figcaption></figure>

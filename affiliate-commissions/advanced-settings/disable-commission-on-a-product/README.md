@@ -6,7 +6,7 @@
 
 To disable commission on a product, go to the **Referral Commissions** section in the **Commissions** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (204).png" alt=""><figcaption><p>Commissions > Referral commissions</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (204) (1).png" alt=""><figcaption><p>Commissions > Referral commissions</p></figcaption></figure>
 
 Here, go to the Product Commissions section.
 
@@ -26,7 +26,7 @@ Here, select the product for which you want to disable the commission.
 You also have the option to select multiple products by enabling Bulk Mode.&#x20;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-11-06 12112953.png" alt=""><figcaption><p>Here</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-11-06 12112953.png" alt=""><figcaption><p>Select the product</p></figcaption></figure>
 
 Now, leave the affiliate field empty to apply it to all the affiliates.
 
@@ -44,6 +44,7 @@ The newly created product commission will appear in the Product Commissions sect
 
 <figure><img src="../../../.gitbook/assets/image (321).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://www.youtube.com/watch?v=nWWaq0qcLqE" %}
+{% embed url="https://youtu.be/wKV_n0rKvSE" %}
 Disable Commission on a Product
 {% endembed %}
+

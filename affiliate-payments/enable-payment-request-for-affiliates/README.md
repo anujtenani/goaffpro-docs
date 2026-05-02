@@ -8,7 +8,7 @@ The Payment Request feature allows your affiliates to make payment requests for 
 
 To enable payment requests for affiliates, you can go to the **Payments** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption><p>Settings > Payments </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (72) (1).png" alt=""><figcaption><p>Settings > Payments </p></figcaption></figure>
 
 Here, go to the Payment Request section.
 

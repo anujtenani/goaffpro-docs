@@ -20,6 +20,16 @@ Once they have filled out the form, a PDF gets generated and sent to you (and to
 Merchants do not have to withhold tax/payments from the affiliates. They only have to ensure that for eligible affiliates, they collect the W-9 form for 1099-MISC form filing.
 {% endhint %}
 
+#### 1099-NEC Form
+
+To generate the 1099-NEC form for affiliates, go to the Settings > Extras > W9 Form section, and generate it from there. You can generate the form for eligible affiliates who received more than $600 in payouts during the previous year.
+
+{% content-ref url="../../program-settings/extra-settings/w9-form-for-affiliates/generate-1099-nec-form-for-affiliates.md" %}
+[generate-1099-nec-form-for-affiliates.md](../../program-settings/extra-settings/w9-form-for-affiliates/generate-1099-nec-form-for-affiliates.md)
+{% endcontent-ref %}
+
+The 1099-NEC form will be generated as a downloadable PDF for you and your affiliates.
+
 ### Summary
 
 #### **Requirements for W-9 and 1099-misc?**
@@ -42,5 +52,5 @@ Merchants do not have to withhold tax/payments from the affiliates. They only ha
 Affiliates only need to fill out Form W-9 in the Settings tab of their account dashboard. No separate action is required for their affiliate income.
 
 {% hint style="warning" %}
-Disclaimer: This is not intended to be a definitive guide. Please consult your accountant or legal team for more information on this subject.
+**Disclaimer: This is not intended to be a definitive guide. Please consult your accountant or legal team for more information on this subject.**
 {% endhint %}

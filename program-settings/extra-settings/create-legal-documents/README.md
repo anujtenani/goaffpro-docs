@@ -8,31 +8,31 @@ The legal documents feature lets you easily draft legal documents and send them 
 
 To create legal documents, go to the **Extras** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (41) (1).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
 
 Go to the Legal Documents section.
 
-![Legal Documents](<../../../.gitbook/assets/image (3233).png>)
+<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption><p>Legal Documents</p></figcaption></figure>
 
 Here, click on **New Document**.
 
-![Click on New Document](<../../../.gitbook/assets/Annotation 2020-03-10 231407.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-02-02 172509.png" alt=""><figcaption><p>Click on New Document</p></figcaption></figure>
 
 This will open up the New Document window.
 
-![New Document ](<../../../.gitbook/assets/image (2768).png>)
+<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption><p>New Document</p></figcaption></figure>
 
-Now, fill in the title and create the content for the document.
+Now, set the title and add the content for the document.
 
-![Fill in the title and create the content ](<../../../.gitbook/assets/Annotation 2020-03-10 231718.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-02-02 172505.png" alt=""><figcaption><p>Set the title &#x26; add the content</p></figcaption></figure>
 
-After this, click on **Save**.
+Finally, click on **Submit**.
 
-![Click on Save](<../../../.gitbook/assets/Annotation 2020-03-10 232109 (1).png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-02-02 172501.png" alt=""><figcaption><p>Click on Submit</p></figcaption></figure>
 
 The newly created legal document will appear in the Legal Documents section.
 
-![](<../../../.gitbook/assets/image (1669).png>)
+<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=3dJnQ0ZLd3M&feature=youtu.be" %}
 Create Legal Documents

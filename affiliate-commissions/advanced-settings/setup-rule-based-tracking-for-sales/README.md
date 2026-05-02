@@ -1,6 +1,6 @@
 # Setup Rule Based Tracking for Sales
 
-**GoAffPro** provides you with the option to set up rule-based tracking for sales.
+**GoAffPro** provides you with the option to set up rule-based tracking for sales.&#x20;
 
 To set up rule-based tracking for sales, go to the **Royalties (Fixed commissions)** section in the **Commissions** tab of the GoAffPro admin panel.&#x20;
 
@@ -59,6 +59,6 @@ Finally, click on **Submit,** to save the rule-based tracking condition for sale
 
 ![](<../../../.gitbook/assets/image (2887).png>)
 
-{% embed url="https://youtu.be/WMmnWO0I27M" %}
+{% embed url="https://youtu.be/rNRsJh9pOrw" %}
 Setup Rule Based Tracking for Sales
 {% endembed %}

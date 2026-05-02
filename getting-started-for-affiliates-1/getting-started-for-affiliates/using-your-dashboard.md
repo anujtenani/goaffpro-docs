@@ -4,42 +4,36 @@ description: Learn how to use the affiliate dashboard
 
 # Using Your Dashboard
 
-In affiliate marketing, the affiliate's job is to promote a merchant's product. An affiliate can promote a product on social media platforms, blogs, etc.&#x20;
+In affiliate marketing, affiliates promote a merchant's products or services. They can advertise these products on social media platforms, blogs, and more.
 
-#### Getting started with your referral link
+### Get started with your referral link & coupon code
 
-After creating an affiliate account in a merchant's program, you will be provided with a referral link. This referral link will be used in promotions. You can share this referral link with your friends or followers.
+After creating an affiliate account with a merchant's program, you will receive a referral link. This link will be used for promotions and can be shared with your friends or followers.
 
-![](<../../.gitbook/assets/Annotation 2019-12-04 012124.png>)
-
-The referral link is present in the Home tab of the affiliate dashboard.
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-21 100734.png" alt=""><figcaption><p>The referral link is displayed in the Home tab of the affiliate dashboard</p></figcaption></figure>
 
 #### What happens when you share the referral link?
 
-When a customer purchases a product from the merchant's store using your referral link, you earn a commission on the sale.&#x20;
+When a customer visits the store using your referral link and makes a purchase, that sale will be attributed to you, and you will earn a commission.
 
 #### How do coupon codes work?
 
-If a coupon code has been assigned to you by the merchant, you can also promote the coupon code. When a customer purchases a product from the merchant's store using your coupon code, you earn commissions on it.
+If you have been given a coupon code, you can share it in your promotions. When a customer uses your coupon code to make a purchase in the store, the sale will be credited to you, and you will earn a commission from it.
 
-![](<../../.gitbook/assets/Annotation 2019-12-04 013315.png>)
-
-The coupon code (if assigned by the merchant ) is present in the home tab of the affiliate dashboard.
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-21 100734 (2).png" alt=""><figcaption><p>The coupon code is displayed in the home tab of the affiliate dashboard</p></figcaption></figure>
 
 #### How much commission will I earn?
 
-The commission you earn will be decided by the merchant. You can view the current commission structure in the Home tab of the affiliate dashboard.&#x20;
+The commission you earn is determined by the merchant. You can check the commission rate in the Home tab of your affiliate dashboard.
 
-![](<../../.gitbook/assets/Annotation 2019-12-04 013815.png>)
+**For example**: If the commission rate is set as 10% and a customer purchases a product of $100 using your referral link, you will earn a $10 commission. &#x20;
 
-**For example**: If the commission is set to 10%, then if a customer purchases a product of $100 using your referral link, you will earn $10 on that sale. &#x20;
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-21 100734 (3).png" alt=""><figcaption><p>Commission rate</p></figcaption></figure>
 
-#### How do I know that if a customer has purchased a product using my referral link or coupon code?
+#### How do I know if a customer has purchased a product using my referral link or coupon code?
 
-When a customer makes a purchase using your referral link or coupon code, the referral will show up in the summary section in the Home tab of the affiliate dashboard.&#x20;
+When a customer makes a purchase using your referral link or coupon code, this referral will be recorded in the summary table located on the Home tab of your affiliate dashboard.
 
-The summary section shows you the number of referrals, the number of orders that have been placed using your referral, the conversion rate (from visits to purchases), the sale value, and your earnings.&#x20;
+The summary section provides information on the number of referrals, the number of orders placed through your referrals, the conversion percentage (which shows the ratio of visits to purchases), the total sale value, and your earnings.
 
-![](<../../.gitbook/assets/Annotation 2019-12-04 014710.png>)
-
-You can also view the summary of your referrals for different time periods by using the drop-down bar.
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-21 1007342.png" alt=""><figcaption><p>Summary</p></figcaption></figure>

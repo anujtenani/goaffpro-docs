@@ -4,15 +4,15 @@
 
 To customize the invoice template for affiliate payments, go to the **Extras** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41) (1).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
 
 Here, go to the Invoices section.
 
-![Invoices](<../../.gitbook/assets/image (440).png>)
+<figure><img src="../../.gitbook/assets/image (213).png" alt=""><figcaption><p>Invoices</p></figcaption></figure>
 
-Now, click on **Edit Invoice Template**.
+Now, click on the **template**.
 
-![Click on Edit Invoice Template](<../../.gitbook/assets/Screenshot 2021-04-13 055939.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2025-03-10 1533083.png" alt=""><figcaption><p>Click on the template</p></figcaption></figure>
 
 This will open up the Edit Invoice Template section.
 
@@ -40,7 +40,7 @@ After you have customized the template, click on **Preview**.
 
 ![Click on Preview](<../../.gitbook/assets/Annotation 2020-05-25 232145.png>)
 
-The preview section will show you how the newly edited invoice will look like.
+The preview section will show you what the newly edited invoice will look like.
 
 ![Preview](<../../.gitbook/assets/image (555).png>)
 

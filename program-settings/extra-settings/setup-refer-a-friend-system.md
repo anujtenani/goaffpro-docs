@@ -78,6 +78,20 @@ The refer-a-friend widget will appear on the store page.
 
 <figure><img src="../../.gitbook/assets/image (2504).png" alt=""><figcaption></figcaption></figure>
 
+<details>
+
+<summary>Refer-A-Friend FAQ</summary>
+
+**How does the refer-a-friend system work?**
+
+The refer-a-friend system, once set up, will be integrated into a page of your store. Customers can sign up on this page. After joining, they will receive a unique referral link to share with their friends. When a friend makes a purchase using that link, the referring customer will earn a reward.
+
+**How does the customer get their reward?**
+
+The customers will automatically receive their reward coupon via email.
+
+</details>
+
 {% embed url="https://youtu.be/Hww1AI9AWyg" %}
 Setup Refer-A-Friend System
 {% endembed %}

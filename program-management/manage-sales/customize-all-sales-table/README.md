@@ -8,7 +8,7 @@ You can customize the All Sales table to display additional sale information suc
 
 To customize the All Sales table, go to the **All Sales** section in the **Sales** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (91).png" alt=""><figcaption><p>Sales > All Sales</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (91) (1).png" alt=""><figcaption><p>Sales > All Sales</p></figcaption></figure>
 
 Here, click on **Settings**.
 

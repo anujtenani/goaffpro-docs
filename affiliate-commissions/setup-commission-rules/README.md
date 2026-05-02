@@ -52,6 +52,6 @@ Finally, the commission rule will be set for affiliates.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (2726).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://youtu.be/ZJL4O3HO37M" %}
+{% embed url="https://youtu.be/9o3-NBnUsRc" %}
 Setup Commission Rules
 {% endembed %}

@@ -2,10 +2,12 @@
 
 **You can customize the commission settings in your program further by referring to the following guides:**
 
+* [Commission for Recurring Payments](commission-for-recurring-payments/)
 * [Disable Commission on a Product](disable-commission-on-a-product/)
 * [Disable Commission on a Collection](disable-commission-on-a-collection.md)
 * [Setup Rule Based Royalties](setup-rule-based-royalties/)
 * [Setup Rule Based Tracking for Sales](setup-rule-based-tracking-for-sales/)
+* [Commission on Subscription Renewals](commission-on-subscription-renewals.md)
 
 Go to the **Commissions** tab in the GoAffPro admin panel.&#x20;
 

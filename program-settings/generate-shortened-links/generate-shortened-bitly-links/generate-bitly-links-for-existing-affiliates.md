@@ -4,7 +4,7 @@
 
 To generate Bitly links for existing affiliates, go to the **All Affiliates** section in the **Affiliates** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption><p>Affiliates > All Affiliates </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (33) (1).png" alt=""><figcaption><p>Affiliates > All Affiliates </p></figcaption></figure>
 
 Here, click on the **affiliate name** to view their profile.
 

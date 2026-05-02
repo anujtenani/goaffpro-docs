@@ -4,7 +4,7 @@
 
 To set up the store currency, go to the **Store Profile** section in the **Look and Feel** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Look and Feel > Store Profile</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>Look and Feel > Store Profile</p></figcaption></figure>
 
 Here, go to the Store Profile section.
 

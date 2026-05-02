@@ -8,24 +8,24 @@ Once set up, affiliates will earn commissions on all future purchases of the ref
 
 To give commission to affiliates on recurring payments, go to the **Extras** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (3491).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
 
 Here, go to the Customer-Affiliate Connect section.
 
-![Customer-Affiliate Connect](<../../../.gitbook/assets/image (2909).png>)
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Customer-Affiliate Connect</p></figcaption></figure>
 
 Now, enable the toggle.&#x20;
 
-![Enable the toggle](<../../../.gitbook/assets/Annotation 2020-05-19 162015.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-03-25 214041.png" alt=""><figcaption><p>Enable the toggle</p></figcaption></figure>
 
-After this, check the "Automatically Connect affiliate to the customers they refer" box.
+After this, enable the "Link customer to referring affiliate on first order" option.
 
-![Check the "Automatically Connect affiliate to customers they refer" box](<../../../.gitbook/assets/Annotation 2020-05-19 162127.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-03-25 214046.png" alt=""><figcaption><p>Enable the "Link customer to referring affiliate on first order" option</p></figcaption></figure>
 
 Finally, affiliates will earn the commission on any future payments made by the customer.
 
-![](<../../../.gitbook/assets/image (1211).png>)
+<figure><img src="../../../.gitbook/assets/image (3860).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://www.youtube.com/watch?v=KpCrZ2DtROw" %}
+{% embed url="https://youtu.be/En3rBxys60w" %}
 Commission for Recurring Payments
 {% endembed %}

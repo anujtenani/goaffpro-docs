@@ -22,6 +22,6 @@ The order summary will have a fixed commission badge, which means that this sale
 
 ![](<../../.gitbook/assets/Screenshot 2021-01-06 043954 (1).png>)
 
-{% embed url="https://www.youtube.com/watch?v=m6ynu4hRZwU" %}
-View Fixed Commission for Sale
+{% embed url="https://youtu.be/swDIJzNSkmg" %}
+View Royalty Commission for Sale
 {% endembed %}

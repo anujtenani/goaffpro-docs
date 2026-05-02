@@ -4,7 +4,7 @@
 
 To delete an affiliate account, go to the **All Affiliates** section in the **Affiliates** Tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (89).png" alt=""><figcaption><p>Affiliates > All Affiliates</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (89) (1).png" alt=""><figcaption><p>Affiliates > All Affiliates</p></figcaption></figure>
 
 Here, click on the **affiliate's name**.&#x20;
 

@@ -4,7 +4,7 @@
 
 To set up the recruitment bonus without multi level marketing, go to the **Multi Level** tab in the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption><p>Multi Level</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (68) (1).png" alt=""><figcaption><p>Multi Level</p></figcaption></figure>
 
 Here, enable the toggle in the Multi Level Marketing section.
 

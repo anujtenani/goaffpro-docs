@@ -6,29 +6,31 @@ description: GoAffPro Admin Page > Manage > Influencer Seeding
 
 The **Influencer Seeding** tab can be used to send products to affiliates by creating orders directly within the app. It also lets you track the status of these orders.
 
-#### To enable the Form referrals tab in the admin panel: <a href="#to-enable-the-membership-plans-tab-in-the-admin-panel" id="to-enable-the-membership-plans-tab-in-the-admin-panel"></a>
+### Enable the Form referrals tab in the admin panel: <a href="#to-enable-the-membership-plans-tab-in-the-admin-panel" id="to-enable-the-membership-plans-tab-in-the-admin-panel"></a>
 
-In the Settings tab of the GoAffPro admin panel, go to the **Extras** section.
+In the **Settings** tab of the GoAffPro admin panel, go to the **Extras** section.
 
-![Settings > Extras](<../../../.gitbook/assets/image (1503).png>)
+<figure><img src="../../../.gitbook/assets/image (217).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
 
-Here, in the Influencer Seeding section, you will have to **enable** the toggle.
+Here, in the Influencer Seeding section, you can enable the **toggle**.
 
 ![Influencer Seeding](<../../../.gitbook/assets/image (1994).png>)
 
 After enabling, the **Influencer Seeding** tab will appear in the admin panel.
 
-![Influencer Seeding](<../../../.gitbook/assets/image (631).png>)
+<figure><img src="../../../.gitbook/assets/image (3700).png" alt=""><figcaption><p>Influencer Seeding</p></figcaption></figure>
 
 In the **Influencer Seeding** tab, you can create orders for your affiliates.&#x20;
 
-![Influencer Seeding](<../../../.gitbook/assets/image (969).png>)
+<figure><img src="../../../.gitbook/assets/image (3701).png" alt=""><figcaption><p>Influencer Seeding</p></figcaption></figure>
 
-To create an order for the affiliate, click on **Create New Order**.
+### Create new order
 
-In the Create new order window, you can choose the affiliate and select the products. You also have the option to add a order note and order tags. You will be also able to view the order summary.&#x20;
+To create an order for the affiliate, click on **Create New Order**.&#x20;
 
-![Create new order](<../../../.gitbook/assets/image (2357).png>)
+In the Create new order window, you can choose the affiliate and select the products. You also have the option to add an order note and order tags. You will be also able to view the order summary.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (3702).png" alt=""><figcaption><p>Create new order</p></figcaption></figure>
 
 {% content-ref url="../../../program-settings/extra-settings/send-products-to-affiliates.md" %}
 [send-products-to-affiliates.md](../../../program-settings/extra-settings/send-products-to-affiliates.md)

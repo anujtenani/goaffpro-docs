@@ -4,7 +4,7 @@
 
 Go to the **Advanced** section in the **Settings** tab of the GoAffPro admin panel.
 
-![Settings > Advanced](<../../.gitbook/assets/image (2511).png>)
+<figure><img src="../../.gitbook/assets/image (3806).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 
 Here, go to the Third Party Tracking section.
 

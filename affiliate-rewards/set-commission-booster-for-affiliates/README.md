@@ -76,6 +76,6 @@ Note: The boosted commission rate will only apply to the sales that take place a
 
 ![](<../../.gitbook/assets/image (2264).png>)
 
-{% embed url="https://www.youtube.com/watch?v=sfWKoa6G8Gc" %}
+{% embed url="https://youtu.be/jzDO7rD-6M8" %}
 Set Commission Booster for Affiliates
 {% endembed %}

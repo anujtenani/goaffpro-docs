@@ -8,39 +8,43 @@ To add balance to an affiliate's wallet, go to the **All Affiliates** section in
 
 Here, click on the **affiliate name** to view their profile.
 
-![Click on affiliate's name](<../../../.gitbook/assets/Annotation 2020-03-03 013129.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-06-09 155416f.png" alt=""><figcaption><p>Click on the affiliate's name</p></figcaption></figure>
 
 This will open up the affiliate's profile.
 
-![Affiliate Profile](<../../../.gitbook/assets/Annotation 2020-03-03 013817 (1).png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-06-09 155331.png" alt=""><figcaption><p>Affiliate Profile</p></figcaption></figure>
 
 Now, go to the **Transactions** tab.
 
-![Transactions tab](<../../../.gitbook/assets/Annotation 2020-03-03 013817.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-06-09 155331 (1).png" alt=""><figcaption><p>Transactions tab</p></figcaption></figure>
 
-This will open up the affiliate's transactions section.&#x20;
+Here, click on **Add balance to wallet**.
 
-![Affiliate's transactions section](<../../../.gitbook/assets/Annotation 2020-03-03 014503 (1).png>)
-
-Now, click on **Add balance to wallet**.
-
-![Click on Add balance to wallet](<../../../.gitbook/assets/Annotation 2020-03-03 014503.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-06-09 160214.png" alt=""><figcaption><p>Click on Add balance to wallet</p></figcaption></figure>
 
 This will open up the Add balance to wallet window.
 
-![Add balance to wallet](<../../../.gitbook/assets/Annotation 2020-03-03 014805 (1).png>)
+<figure><img src="../../../.gitbook/assets/image (135).png" alt=""><figcaption><p>Add balance to wallet</p></figcaption></figure>
 
-Now, fill in the amount value.
+Now, set the amount.
 
-![Fill in the amount value](<../../../.gitbook/assets/Annotation 2020-03-03 014805.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-06-09 160336.png" alt=""><figcaption><p>Set the amount</p></figcaption></figure>
 
-After this, click on **Add balance**.
+After this, you can add a note.
 
-![Click on Add balance](<../../../.gitbook/assets/Annotation 2020-03-03 015136.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-06-09 160417.png" alt=""><figcaption><p>Add a note</p></figcaption></figure>
 
-Finally, the newly added balance will appear as a transaction.&#x20;
+You can also provide the affiliate with a store credit (coupon) for this amount and specify the transaction date.
 
-![](<../../../.gitbook/assets/Annotation 2020-03-03 015438.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-06-09 160503.png" alt=""><figcaption><p>Issue the amount as store credit &#x26; set the transaction date</p></figcaption></figure>
+
+Finally, click on **Add balance**.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-06-09 160439.png" alt=""><figcaption><p>Click on Add Balance</p></figcaption></figure>
+
+The balance will be added to the affiliate account.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/4m5kUZoJEFE" %}
 Add Balance to an Affiliate's Wallet

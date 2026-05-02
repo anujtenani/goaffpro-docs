@@ -8,7 +8,7 @@ To log an activity, affiliates can go to the **Activities** page in their dashbo
 The activity page name depends on the [name that you set](https://docs.goaffpro.com/how-tos/create-activities-for-affiliates/add-activity-page-to-affiliate-dashboard) for the activity page.&#x20;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (280).png" alt=""><figcaption><p>Activities</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (280) (1).png" alt=""><figcaption><p>Activities</p></figcaption></figure>
 
 Here, the affiliate can click on the activity.
 

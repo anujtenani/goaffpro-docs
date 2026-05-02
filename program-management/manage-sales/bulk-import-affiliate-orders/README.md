@@ -4,7 +4,7 @@
 
 To bulk import affiliate orders into your program, go to the **All Sales** section in the **Sales** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (85).png" alt=""><figcaption><p>Sales > All Sales</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (85) (1).png" alt=""><figcaption><p>Sales > All Sales</p></figcaption></figure>
 
 Here, click on **bulk import**.
 

@@ -8,11 +8,11 @@ description: For Shopify Platform Users Only
 
 To set the affiliate coupons to combine with other store discounts, go to the **Coupons** tab in the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (141).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (141) (1).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
 
 Here, go to the Automatic Coupons section.
 
-<figure><img src="../../../.gitbook/assets/image (144).png" alt=""><figcaption><p>Automatic Coupons</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (144) (1).png" alt=""><figcaption><p>Automatic Coupons</p></figcaption></figure>
 
 Now, click on **Change**.
 
@@ -20,7 +20,7 @@ Now, click on **Change**.
 
 This will open up the Setup Automatic Coupons section,
 
-<figure><img src="../../../.gitbook/assets/image (145).png" alt=""><figcaption><p>Setup Automatic Coupons</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (145) (1).png" alt=""><figcaption><p>Setup Automatic Coupons</p></figcaption></figure>
 
 Next, click on **Advanced**.
 

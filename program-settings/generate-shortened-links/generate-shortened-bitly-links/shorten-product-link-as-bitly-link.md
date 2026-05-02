@@ -4,7 +4,7 @@
 
 To shorten the product links as a Bitly link, go to the **All Affiliates** section in the **Affiliates** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption><p>Affiliates > All Affiliates</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (34) (1).png" alt=""><figcaption><p>Affiliates > All Affiliates</p></figcaption></figure>
 
 Here, click on the **affiliate name** to view their profile.
 

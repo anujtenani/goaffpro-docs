@@ -4,7 +4,7 @@
 
 To set the default commission group, go to the **Groups** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (158) (1).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
 
 Here, click on **Set default group**.
 
@@ -22,6 +22,6 @@ After this, a default badge will get added to the group that has been selected a
 
 ![](<../../.gitbook/assets/image (577).png>)
 
-{% embed url="https://youtu.be/XYaaufKwV3c" %}
+{% embed url="https://youtu.be/3-7r7VISM2Q" %}
 Set Default Commission Group
 {% endembed %}

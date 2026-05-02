@@ -28,3 +28,7 @@ You must change the **src** property of **iframe** with a link to your affiliate
 * After writing the code, click on **Save** to save the page.
 
 ![Write Code and Save](<../../../.gitbook/assets/Annotation 2019-12-17 022318.png>)
+
+{% embed url="https://youtu.be/h80s2T7C-bk" %}
+Embed Affiliate Portal In Your Store
+{% endembed %}

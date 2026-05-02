@@ -4,7 +4,7 @@
 
 To change the style of personal coupons, go to the **Coupons** tab in the GoAffPro admin panel.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (139) (1).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
 
 Here, go to the Personal Coupons section.
 

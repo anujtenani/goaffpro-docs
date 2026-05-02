@@ -50,6 +50,6 @@ The rule based royalty will get saved for the affiliate.
 
 ![](<../../../.gitbook/assets/image (409).png>)
 
-{% embed url="https://youtu.be/x9yR__kGyJg" %}
+{% embed url="https://youtu.be/-W_wOKsepck" %}
 Setup Rule Based Royalties
 {% endembed %}

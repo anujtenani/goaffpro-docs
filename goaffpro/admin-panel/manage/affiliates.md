@@ -4,89 +4,95 @@ description: GoAffPro Admin Page > Manage > Affiliates
 
 # Affiliates
 
-**Affiliates** tab shows you the affiliates that have registered in your affiliate program. Here, you can view the details of affiliates in your program.&#x20;
+The **Affiliates** tab shows you the affiliates registered in your affiliate program. Here, you can view the details of these affiliates, their statistics, commissions, and other affiliate account settings.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (225).png" alt=""><figcaption><p>Affiliates tab</p></figcaption></figure>
 
 ### Pending Approval
 
-The **Pending Approval** section shows you the affiliates that have registered and are waiting for your approval.
+The **Pending Approval** section displays the affiliates that have registered for your program and are waiting for approval.
 
-![Affiliates Tab](<../../../.gitbook/assets/image (1183).png>)
+<figure><img src="../../../.gitbook/assets/image (226).png" alt=""><figcaption><p>Affiliates > Pending Approval</p></figcaption></figure>
 
 ### All Affiliates
 
-In the **All Affiliates** section, you can view the orders brought in by affiliates, the revenue generated, commissions earned by them, and pending payments.
+In the **All Affiliates** section, you can view all the affiliates that have registered in your program. Additionally, the all affiliates table displays the number of sales, revenue generated, commissions earned, and pending payments.
 
-You can also search for affiliates to view the above statistics, see which affiliates are active, create new affiliates (by clicking on **Create New Affiliate**), and download affiliate data.
+You can also search for affiliates by their name, email, coupon code, or referral code, to open their profile page. There is also an option to create new affiliate accounts, by clicking on **Create New Affiliate.**&#x20;
 
-![All Affiliates](<../../../.gitbook/assets/image (708).png>)
+<figure><img src="../../../.gitbook/assets/image (227).png" alt=""><figcaption><p>Affiliates > All Affiliates</p></figcaption></figure>
 
-#### You can check out the information of an affiliate by clicking on their name in the All Affiliate table
+### Affiliate Profile Page
 
-![Affiliate's name](<../../../.gitbook/assets/image (3055).png>)
+When you click on the affiliate's name, their profile page will open up. Here, you can view affiliate details. In the **Details** tab, you can view personal details, statistics, and relevant actions for any affiliate.&#x20;
 
-### Affiliate Page
+* In the **Details** column, you can view the information of the affiliate such as their email address,  referral link, referral coupon, personal coupon, and personal message.&#x20;
+* In the **Statistics** section, you can view statistics like the order made using the affiliate's referral, the revenue generated from these sales, and the total commission earned on them.&#x20;
+* In the **Actions** section, you can choose to approve, block, or revoke the approval of the affiliate.  You can also generate a product link for them, access their dashboard, shorten their referral link, and send them an email.&#x20;
 
-In the **Details** tab, you can view personal details, statistics, and relevant actions for any affiliate.&#x20;
+<figure><img src="../../../.gitbook/assets/image (228).png" alt=""><figcaption><p>Affiliate profile page</p></figcaption></figure>
 
-* In the **Details** section, you can view information such as the email address of the affiliate, the referral link of the affiliate, and the referral coupon that has been generated for them.
-* In the **Statistics** section, you can view statistics such as the order made using the affiliate's referral, the revenue that has been generated from the sales made using the affiliate's referral, and the total commissions that the affiliate has earned for his referrals.
-* In the **Actions** section, you can choose to block or revoke the approval of the affiliate, to stop them from working in the affiliate program. Additionally, you can generate a product link for them, access their dashboard, shorten their referral link and send them an email.&#x20;
+#### Commissions
 
-![Details section](<../../../.gitbook/assets/image (2139).png>)
+In the **Commission** section, you can set the commission rates for the particular affiliate. Here, you can set the default commission or special commissions on products or collections for the affiliate.&#x20;
 
-In the **Commission** section, you can set up the commission rates for the particular affiliate. Here you can set the default commission that has been set for the affiliate and set up special commissions for the affiliate.&#x20;
+<figure><img src="../../../.gitbook/assets/image (229).png" alt=""><figcaption><p>Commissions section</p></figcaption></figure>
 
-![Commissions section](<../../../.gitbook/assets/image (1721).png>)
+To change the Standard commission, click on **Change**. Next, set the rate and click on **OK**.
 
-To change the Standard commission, click on **Change** and choose the commission percentage you want to set. Click on **OK** to save the changes you made.
+<figure><img src="../../../.gitbook/assets/image (230).png" alt=""><figcaption><p>Standard Commission</p></figcaption></figure>
 
-![Standard Commission](<../../../.gitbook/assets/image (2550).png>)
+You can also set up special commissions for the affiliate by clicking on **Create Special Commission.** Here, you can set product, collection, or royalty commissions for them.
 
-You can set up special commissions for an affiliate, by clicking on **Create Special Commission**, you can choose to set up a special commission that will be exclusive to the particular affiliate. You can choose between setting up a product commission, a collection commission, or a fixed commission. After choosing,  you can then set the commission rate.
+<figure><img src="../../../.gitbook/assets/image (231).png" alt=""><figcaption><p>Special Commissions</p></figcaption></figure>
 
-![Applying Commission](<../../../.gitbook/assets/image (2634).png>)
+#### Network
 
-In the **Network** section, you can set up a multi-level marketing network for the affiliate. Here, you can set the parent or downlines for the affiliate, view their network, level commissions, etc.
+In the **Network** section, you can check the multi-level network of the affiliate. Here, you can set the parent or downlines for the affiliate, view their network, set level commissions, etc.
 
-![Network section](<../../../.gitbook/assets/image (2819).png>)
+<figure><img src="../../../.gitbook/assets/image (232).png" alt=""><figcaption><p>Network section</p></figcaption></figure>
 
-In the **Sales** section, you can view the date of sale, the order number, order amount, commission earned by the affiliate, the status of the sale, and relevant actions. This table will show you the sale information of the particular affiliate. Here, you also have the option to add a sale for an affiliate.
+#### Sales
 
-<figure><img src="../../../.gitbook/assets/image (828).png" alt=""><figcaption><p>Sales section</p></figcaption></figure>
+In the **Sales** section, you can view the sales referred by the affiliates. The table will display the date of sale, order number, order amount, commission, and status of the sale. Here, you also have the option to manually add a sale for the affiliate.&#x20;
 
-In the **Payments** section, you can view the affiliate's payment information. Here, you can view the payment method being used to pay the affiliate, total payouts that are payments that have already been made to the affiliate for their referrals, and pending payments which are the payments, yet to be made to the affiliate for their referrals.&#x20;
+<figure><img src="../../../.gitbook/assets/image (233).png" alt=""><figcaption><p>Sales section</p></figcaption></figure>
 
-![Payments section](<../../../.gitbook/assets/Screenshot 2019-08-04 at 4.01.30 AM.png>)
+#### Payments
 
-In the **Payment history** section, you can view all the payments that have been made to the affiliate, this includes the date of the payment, the amount paid to the affiliate, payment details such as the mode of payment used, and relevant actions.
+The **Payments** section displays the payment information of the affiliate, such as their payment method/details, total payouts made, and pending payments.
 
-![Payment History](<../../../.gitbook/assets/image (2775).png>)
+<figure><img src="../../../.gitbook/assets/image (234).png" alt=""><figcaption><p>Payments section</p></figcaption></figure>
 
-In the **Transactions** section, you can view all the transactions that have been made to the affiliate. Here, you can view the date of the transaction, the type of transaction, the transaction amount, and the affiliate's final account balance after that transaction. There is also an option to add a balance to the affiliate's account.
+#### Transactions
 
-![Transactions section](<../../../.gitbook/assets/image (2432).png>)
+In the **Transactions** section, you can view a log of all the transactions made to the affiliate. Here, you can view the transaction date, type, amount, and account balance after that transaction. There is also an option to add a balance to the affiliate's account.
 
-In the **Settings** section, you can change the mode of payment for the affiliate, you can also customize the affiliate's referral code. In addition to this, you can also change the password and the email address of an affiliate's account.&#x20;
+<figure><img src="../../../.gitbook/assets/image (235).png" alt=""><figcaption><p>Transactions section</p></figcaption></figure>
 
-![Settings section](<../../../.gitbook/assets/image (2140).png>)
+#### Settings
 
-In the **Profile section,** you can edit the profile information of an affiliate, such as the name, phone number, Instagram handle, Twitter handle, Facebook account, and website URL.
+In the **Settings** section, you can edit the affiliate account settings. Here, you can set their payment settings, referral code, profile information, account email or password, cookie duration, notification preferences, S2S callback, and delete their account.
 
-If you have enabled the **Customer-Affiliate** connect feature (from the Settings > Extras section), the Customers section will show up on the affiliate's profile page.
+<figure><img src="../../../.gitbook/assets/image (236).png" alt=""><figcaption><p>Settings section</p></figcaption></figure>
 
-In this section, you can connect a **customer to an affiliate** using their email address. After the customer is connected to the affiliate, anytime the customer purchases a product in your store, the connected affiliate will get the commission.&#x20;
+#### Customers
 
-![Customers section](<../../../.gitbook/assets/Screenshot 2019-08-07 at 1.24.37 AM.png>)
+If you have enabled the **Customer-Affiliate** connect feature from the Settings > Extras section, the Customers section will be displayed in the affiliate profile section. Here, you can view the customers that are connected to the affiliate.&#x20;
 
-You are provided with the option to **create a new Customer-Affiliate connection** by clicking on the **New Link**.
+You can click on **New Link**, to create a new customer affiliate connection for the affiliate.
 
-In the **All Affiliates** section, you can also bulk import up to 200 affiliates in one go. You can do this by uploading a correctly formatted CSV file.&#x20;
+<figure><img src="../../../.gitbook/assets/image (237).png" alt=""><figcaption><p>Customers section</p></figcaption></figure>
 
-![Bulk Import Affiliates](<../../../.gitbook/assets/image (449).png>)
+### Bulk Import Affiliates
+
+You also have the option to bulk import affiliates in your program. In the **All Affiliates** section, you can click on **bulk import**. Here, you can import up to 200 affiliates in one go, by uploading the formatted CSV file.&#x20;
 
 {% hint style="info" %}
-To make sure the CSV file you upload is correctly formatted, you can download the sample CSV file and use it to create your bulk import file.&#x20;
+To ensure that the the CSV file you upload is correctly formatted, you can download the sample CSV file and use it to create your bulk import file.&#x20;
 {% endhint %}
+
+![Bulk Import Affiliates](<../../../.gitbook/assets/image (449).png>)
 
 {% embed url="https://youtu.be/eTXZpjQLyJg" %}
 Affiliates Tab

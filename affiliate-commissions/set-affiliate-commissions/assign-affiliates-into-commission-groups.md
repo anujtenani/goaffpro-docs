@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Assign Affiliates into Commission Groups
 
 **GoAffPro** provides you with the option to assign affiliates into commission groups.

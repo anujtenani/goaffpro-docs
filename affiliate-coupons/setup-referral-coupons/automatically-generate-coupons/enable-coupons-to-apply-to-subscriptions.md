@@ -8,11 +8,11 @@ description: For Shopify Platform Users Only
 
 To enable coupons to apply on subscriptions, go to the **Coupons** tab in the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (142).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (142) (1).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
 
 Here, go to the Automatic Coupons section
 
-<figure><img src="../../../.gitbook/assets/image (143).png" alt=""><figcaption><p>Automatic Coupons</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (143) (1).png" alt=""><figcaption><p>Automatic Coupons</p></figcaption></figure>
 
 Now, click on **Change**.
 
@@ -20,7 +20,7 @@ Now, click on **Change**.
 
 This will open up the Setup Automatic Coupons section.
 
-<figure><img src="../../../.gitbook/assets/image (146).png" alt=""><figcaption><p>Setup Automatic Coupons</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (146) (1).png" alt=""><figcaption><p>Setup Automatic Coupons</p></figcaption></figure>
 
 Next, click on **Advanced**.
 

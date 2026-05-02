@@ -4,7 +4,7 @@
 
 To set the collection commission for the commission group, go to the **Groups** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (162) (1).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
 
 Here, click on **Edit Group**.
 
@@ -42,6 +42,6 @@ The newly set collection commission will show up in the Product Commission secti
 
 ![](<../../.gitbook/assets/Screenshot 2021-03-24 041245.png>)
 
-{% embed url="https://youtu.be/DvEatOZT3gs" %}
+{% embed url="https://youtu.be/9JvtQ1qZkvc" %}
 Set Collection Commission for Group
 {% endembed %}

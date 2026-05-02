@@ -30,7 +30,7 @@ Here, you have the option to connect an existing form or create and embed a new 
 
 After this, click on **Submit**.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-04-22 173423 (1).png" alt=""><figcaption><p>Click on Submit</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-11-25 1550004.png" alt=""><figcaption><p>Click on Submit</p></figcaption></figure>
 
 It will open up the Edit form section.
 
@@ -67,3 +67,7 @@ Finally, click on **Submit**.
 The referral form will be saved.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-04-22 173750.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://youtu.be/9wdMbaF9HFU" %}
+Setup Referral Forms
+{% endembed %}

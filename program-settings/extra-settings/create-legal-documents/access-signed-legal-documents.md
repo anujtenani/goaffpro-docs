@@ -4,7 +4,7 @@
 
 To access the legal documents signed by affiliates, go to the **Affiliate Files** tab in the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption><p>Affiliate Files</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (43) (1).png" alt=""><figcaption><p>Affiliate Files</p></figcaption></figure>
 
 Here, you can click on the **file's name** to view it.
 

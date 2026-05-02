@@ -8,7 +8,7 @@ description: Business Plan feature
 
 To configure compression in the multi level network for the commission group, go to the **Groups** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (166).png" alt=""><figcaption><p>Group</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (166) (1).png" alt=""><figcaption><p>Group</p></figcaption></figure>
 
 Here, click on **Edit Group**.
 

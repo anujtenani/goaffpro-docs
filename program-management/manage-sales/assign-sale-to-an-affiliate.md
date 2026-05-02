@@ -8,7 +8,7 @@ You have the option to assign an existing sale to an affiliate. You can select t
 
 To assign a sale to an affiliate, go to the **All Sales** section in the **Sales** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption><p>Sales > All Sales</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (82) (1).png" alt=""><figcaption><p>Sales > All Sales</p></figcaption></figure>
 
 Here click on **create a new sale manually.**
 

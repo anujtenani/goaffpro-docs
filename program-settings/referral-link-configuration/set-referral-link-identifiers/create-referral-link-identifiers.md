@@ -4,11 +4,11 @@
 
 To create referral link identifiers, go to the **Advanced** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25) (1).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 
 Here, go to the Referral Link Identifiers section.
 
-<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption><p>Referral Link Identifiers</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26) (1).png" alt=""><figcaption><p>Referral Link Identifiers</p></figcaption></figure>
 
 Now, enter the name of the identifier.
 
@@ -24,7 +24,7 @@ After this, click on **Submit**.
 
 Finally, the referral link of all the affiliates in the program will be updated with the newly created identifier.
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/e3cHTdhQi2s" %}
 Create Referral Link Identifiers

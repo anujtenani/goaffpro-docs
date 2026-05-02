@@ -6,7 +6,7 @@
 
 To set commission modifiers for affiliates, go to the **Commission modifiers** section in the **Commissions** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (202).png" alt=""><figcaption><p>Commissions > Commission modifiers</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (202) (1).png" alt=""><figcaption><p>Commissions > Commission modifiers</p></figcaption></figure>
 
 Here, enable the toggle and click on **Add new modifier.**
 
@@ -50,6 +50,6 @@ Finally, click on **Add Modifier** to save the commission modifier you created. 
 
 ![](<../../.gitbook/assets/Annotation 2019-11-29 034253.png>)
 
-{% embed url="https://youtu.be/PJpLL_vC6sI" %}
+{% embed url="https://youtu.be/YAjpuDFazZM" %}
 Set Commission Modifiers
 {% endembed %}

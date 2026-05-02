@@ -32,7 +32,7 @@ You also have the option to add comments.&#x20;
 
 The completed activity will be displayed to the affiliate in their dashboard.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (274).png" alt=""><figcaption><p>The activity will be displayed to the affiliate</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (274) (1).png" alt=""><figcaption><p>The activity will be displayed to the affiliate</p></figcaption></figure>
 
 #### Reject activity
 
@@ -42,7 +42,7 @@ Here, click on **Reject**.
 
 Finally, the activity will get rejected.
 
-<figure><img src="../../../.gitbook/assets/image (279).png" alt=""><figcaption><p>Activity will get rejected</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (279) (1).png" alt=""><figcaption><p>Activity will get rejected</p></figcaption></figure>
 
 {% embed url="https://youtu.be/IrlPZSncw-4" %}
 Manage Affiliate Activities

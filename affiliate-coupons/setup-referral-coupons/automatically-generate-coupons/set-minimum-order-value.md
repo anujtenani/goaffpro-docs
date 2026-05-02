@@ -1,34 +1,30 @@
 # Set Minimum Order Value
 
-**GoAffPro** provides you with the option to set the minimum order value for coupons that are generated for affiliates.
+**GoAffPro** provides you with the option to set the minimum order value for affiliate coupons.
 
 To set the minimum order value for coupons, go to the **Coupons** tab in the GoAffPro admin panel.
 
 <figure><img src="../../../.gitbook/assets/image (3455).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
 
-Here, click on **Change** in the Automatic Coupons section.
+Here, in the Automatic Coupons section, click on **Change**.
 
-![Click on Change](<../../../.gitbook/assets/Annotation 2020-01-27 170705 (1).png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-07-15 201102.png" alt=""><figcaption><p>Automatic Coupons > Click on Change</p></figcaption></figure>
 
 This will open up the Setup Automatic Coupons section.
 
-![Setup Automatic Coupons](<../../../.gitbook/assets/Annotation 2020-01-27 171008 (2).png>)
+<figure><img src="../../../.gitbook/assets/image (3787).png" alt=""><figcaption><p>Setup Automatic Coupons</p></figcaption></figure>
 
 Now, click on **Advanced**.
 
-![Click on Advanced](<../../../.gitbook/assets/Annotation 2020-01-27 185653.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-07-15 201129.png" alt=""><figcaption><p>Click on Advanced</p></figcaption></figure>
 
-This will open up the advanced options.
+After this, set the minimum order value.
 
-![Advanced options](<../../../.gitbook/assets/Annotation 2020-01-27 185915.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-07-15 201235.png" alt=""><figcaption><p>Set the minimum order value</p></figcaption></figure>
 
-Now, fill in the minimum order value of your choice.
+Finally, click on **Submit**.
 
-![Fill in the minimum order value](<../../../.gitbook/assets/Annotation 2020-01-27 185915 (1).png>)
-
-After this, click on **Submit**.
-
-![](<../../../.gitbook/assets/Annotation 2020-01-27 190212.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-07-15 2013024.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/UT-SG8SBc_g" %}
 Set Minimum Order Value for Coupons

@@ -1,10 +1,14 @@
+---
+hidden: true
+---
+
 # Add Store Metadata
 
 **GoAffPro** provides you with the option to add store metadata for custom programming.
 
 To add store metadata, go to the **Extras** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40) (1).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
 
 Here, go to the Store metadata section.
 

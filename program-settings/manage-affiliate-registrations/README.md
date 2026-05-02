@@ -8,7 +8,8 @@ The **Affiliate Registrations** section allows you to manage the registration se
 * [Disable Automatic Approval of Affiliates](disable-automatic-approval-of-affiliates/)
 * [Customize Account Pending Message](disable-automatic-approval-of-affiliates/customize-account-pending-message.md)&#x20;
 * [Disable Dashboard Access to Pending Accounts](disable-automatic-approval-of-affiliates/disable-dashboard-access-to-pending-accounts.md)
+* [Setup Geo-Blocking for Affiliate Registrations](setup-geo-blocking-for-affiliate-registrations.md)
 
 Go to the **Settings > Advanced > Affiliate Registrations** section of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption><p>Settings > General</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3845).png" alt=""><figcaption><p>Settings > General</p></figcaption></figure>

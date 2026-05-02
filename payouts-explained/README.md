@@ -46,7 +46,7 @@ The **Payments** section shows you the pending payments of affiliate&#x73;**.** 
 
 The **Payment History** section displays previous payments that have been to affiliates. It showcases the date of the payment, affiliate name, amount paid to the affiliate, mode of payment used to pay the affiliate, and actions.
 
-<figure><img src="../.gitbook/assets/image (237).png" alt=""><figcaption><p>Payment History</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (237) (1).png" alt=""><figcaption><p>Payment History</p></figcaption></figure>
 
 {% hint style="info" %}
 The **Payout** tab helps you view both upcoming and past payments. It helps you plan and manage your finances for the affiliate program.&#x20;

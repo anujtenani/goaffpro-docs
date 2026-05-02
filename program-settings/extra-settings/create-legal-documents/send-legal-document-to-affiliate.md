@@ -4,11 +4,11 @@
 
 To send legal documents to affiliates, go to the **All Affiliates** section in the **Affiliates** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption><p>Affiliates > All Affiliates</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (42) (1).png" alt=""><figcaption><p>Affiliates > All Affiliates</p></figcaption></figure>
 
 Here, click on the **affiliate name** to view their profile.
 
-![Click on affiliate's name](<../../../.gitbook/assets/Annotation 2020-03-03 013129.png>)
+![Click on the affiliate's name](<../../../.gitbook/assets/Annotation 2020-03-03 013129.png>)
 
 This will open up the affiliate's profile.
 
@@ -24,13 +24,13 @@ This will depend upon the title of the legal document that you have set.&#x20;
 
 After this, the legal document will be sent to the affiliate's email address.
 
-![The legal document will be sent to affiliate's email address](<../../../.gitbook/assets/Annotation 2020-03-10 235335.png>)
+![The legal document will be sent to the affiliate's email address](<../../../.gitbook/assets/Annotation 2020-03-10 235335.png>)
 
-The affiliate will click on the URL in the email.
+The affiliate can click on the link in the email.
 
-![Affiliate will click on the URL ](<../../../.gitbook/assets/Annotation 2020-03-10 235852.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-01-26 175800.png" alt=""><figcaption><p>The affiliate can click on the link</p></figcaption></figure>
 
-The URL will open up the legal document for the affiliate to sign.&#x20;
+The link will direct the affiliate to the legal document for signing.
 
 ![](<../../../.gitbook/assets/Annotation 2020-03-11 000000.png>)
 

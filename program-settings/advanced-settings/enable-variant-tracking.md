@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Enable Variant Tracking
 
 **GoAffPro** provides you with the option to enable variant tracking.
@@ -10,7 +14,7 @@ If your store has this setup, it will automatically remove the affiliate's refer
 
 To enable variant tracking, go to the Advanced section of the **Settings** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (1).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 
 Here, go to the Variant tracking section.
 

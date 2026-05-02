@@ -4,7 +4,7 @@
 
 To bulk update, the personal coupons of affiliates, go to the **Coupons** tab in the GoAffPro admin panel.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (138).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (138) (1).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
 
 Here, go to the Personal Coupons section.
 

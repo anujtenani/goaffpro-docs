@@ -4,7 +4,7 @@
 
 To disable commission on sales made using store credits, go to the **Commission Modifiers** section in the **Commissions** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (202).png" alt=""><figcaption><p>Commissions > Commission modifiers</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (202) (1).png" alt=""><figcaption><p>Commissions > Commission modifiers</p></figcaption></figure>
 
 Here, click on **Add new modifier**.
 
@@ -19,14 +19,14 @@ After this, set the "matches" value to Store Credits.
 {% hint style="info" %}
 You can set the value to any payment gateway for which you want to disable the commission.&#x20;
 
-For example, if you want to prevent commissions on sales made using gift cards, you can set the matching value as **gift\_card** (which is the technical name of the gift card payment gateway in Shopify).&#x20;
+For example, if you want to prevent commissions on sales made with gift cards, you can set the matching value as "**gift\_card**" which is the technical name for the gift card payment gateway in Shopify. Similarly, to prevent commissions on sales made using Shopify store credits, you can set the matching value as "**shopify\_store\_credit**"
 {% endhint %}
 
 ![Set the "matches" value to store credits](<../../../.gitbook/assets/Screenshot 2020-12-22 193731.png>)
 
-Now, set the "adjust commission by" percentage to -100%.
+Now, set it to "adjust commission by" -100%.
 
-![Set adjust commission by percentage to -100%](<../../../.gitbook/assets/Screenshot 2020-12-22 193935.png>)
+![Set it to "adjust commission by" -100%](<../../../.gitbook/assets/Screenshot 2020-12-22 193935.png>)
 
 Finally, click on **Add Modifier**.
 

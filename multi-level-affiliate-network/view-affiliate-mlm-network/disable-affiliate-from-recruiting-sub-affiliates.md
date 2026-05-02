@@ -4,7 +4,7 @@
 
 To disable the affiliate from recruiting sub-affiliates, go to **All Affiliates** section in the **Affiliates** section of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption><p>Affiliates > All Affiliates</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (100) (1).png" alt=""><figcaption><p>Affiliates > All Affiliates</p></figcaption></figure>
 
 Here, click on the **affiliate name.**
 

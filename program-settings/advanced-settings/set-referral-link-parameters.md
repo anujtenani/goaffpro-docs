@@ -8,7 +8,7 @@ The referral link parameters option lets you add UTM parameters to the affiliate
 
 To set parameters for affiliate referral links, go to the **Advanced** section of the **Settings** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3810).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 
 Here, go to the Referral Link Parameters section.
 

@@ -2,7 +2,7 @@
 
 **GoAffPro** provides you with the option to set the default network link for affiliates.
 
-To set the default network link for affiliates, go to the **Advanced** section in the **Look and Feel** tab of the GoAffPro admin panel.&#x20;
+To set the default network link for affiliates, go to the **Advanced** section in the **Settings** tab of the GoAffPro admin panel.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-01-23 134548.png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 

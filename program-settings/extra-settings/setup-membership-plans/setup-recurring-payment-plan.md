@@ -4,7 +4,7 @@
 
 To set up a recurring payment plan for affiliates, go to the **Membership Plans** tab in the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (117).png" alt=""><figcaption><p>Membership Plans</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (117) (1).png" alt=""><figcaption><p>Membership Plans</p></figcaption></figure>
 
 Here, click on **New payment plan**.
 

@@ -4,7 +4,7 @@
 
 To block or delete an affiliate account, go to the **All Affiliates** section in the **Affiliates** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (88).png" alt=""><figcaption><p>Affiliates > All Affiliates</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (88) (1).png" alt=""><figcaption><p>Affiliates > All Affiliates</p></figcaption></figure>
 
 ![Affiliates > All Affiliates](<../../../.gitbook/assets/Annotation 2019-12-25 183526.png>)
 

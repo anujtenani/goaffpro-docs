@@ -4,11 +4,11 @@
 
 To set the product commission for the commission group, go to the **Groups** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3741).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
 
 Here, click on **Edit Group**.
 
-![Click on Edit Group](<../../.gitbook/assets/Screenshot 2020-11-18 055125.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-12 224553.png" alt=""><figcaption><p>Click on Edit Group</p></figcaption></figure>
 
 This will open up the Edit group section.
 
@@ -16,32 +16,28 @@ This will open up the Edit group section.
 
 Here in the Product Commission section, click on **New product commission**.
 
-![Click on New product commission](<../../.gitbook/assets/Screenshot 2020-11-18 055339.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-13 002719.png" alt=""><figcaption><p>Product Commission > Click on New product commission</p></figcaption></figure>
 
-This will open up the new product commission window.
-
-![New product commission](<../../.gitbook/assets/image (3061).png>)
-
-Here, select the product.
-
-{% hint style="info" %}
-You also have the option to select multiple products and their variants.
-{% endhint %}
+Now, select the product.
 
 ![Select the product](<../../.gitbook/assets/Screenshot 2020-11-18 055654.png>)
 
-Now, set the commission rate.
+Next, you also have the option to select product variants by enabling the "Include Variants" option.&#x20;
 
-![Set the commission rate](<../../.gitbook/assets/Screenshot 2020-11-18 055936.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-12 235314.png" alt=""><figcaption><p>Include Variants</p></figcaption></figure>
 
-After this, click on **OK**.
+After this, set the commission rate.
 
-![Click on OK](<../../.gitbook/assets/Screenshot 2020-11-18 060112.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-13 0029513.png" alt=""><figcaption><p>Set the commission rate</p></figcaption></figure>
 
-Finally, the newly set product commission will show up in the Product Commission section of the group.
+Finally, click on **Submit**.
 
-![](<../../.gitbook/assets/Screenshot 2020-11-18 060250.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-12 235343.png" alt=""><figcaption><p>Click on Submit</p></figcaption></figure>
 
-{% embed url="https://youtu.be/Sl5LhHi2WzA" %}
+The product commission will be set for the group affiliates.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-12 235400.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://youtu.be/Mw9l9hGB1lM" %}
 Set Product Commission for Group
 {% endembed %}

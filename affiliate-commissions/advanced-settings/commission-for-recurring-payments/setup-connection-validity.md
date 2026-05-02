@@ -20,7 +20,7 @@ Leaving the "Connection expires after" field empty will set the connection valid
 
 Finally, click on **Submit**.
 
-![](<../../../.gitbook/assets/Screenshot 2021-06-01 042701.png>)
+![Click on Submit](<../../../.gitbook/assets/Screenshot 2021-06-01 042701.png>)
 
 After this, the connections will automatically expire after the validity period.
 

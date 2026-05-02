@@ -4,7 +4,7 @@
 
 To create a custom leaderboard, go to the **Analytics** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption><p>Analytics</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (67) (1).png" alt=""><figcaption><p>Analytics</p></figcaption></figure>
 
 Here, click on **custom leaderboard**.
 

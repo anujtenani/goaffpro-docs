@@ -32,6 +32,12 @@ The **Top Banner** section can be used to set a banner for the landing page and 
 
 The banner option can be used to upload a banner. Here, click on **Choose File** and upload a banner.&#x20;
 
+{% hint style="info" %}
+Banner dimensions: 16:9 Ratio (Optimal Results)
+
+The banner has no fixed dimensions, as it adapts to various devices like mobile phones, tablets, and laptops. It should be used as a background image without any text.
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/Screenshot 2024-10-28 1727492.png" alt=""><figcaption><p>Upload banner</p></figcaption></figure>
 
 You also have the option to use the banner image as the background and set the text color and alignment.&#x20;
@@ -47,6 +53,10 @@ You can customize the super text, hero text, subtext, and button text that will 
 The **Card Group** section is used to display the information about your affiliate program such as the benefits of becoming an affiliate, promoting products to their followers, and earning a commission on every sale made using their referral.
 
 Here, you can customize the card group title, upload the thumbnail, and edit the text displayed in each section.&#x20;
+
+{% hint style="info" %}
+The recommended dimensions for the card group icons are 64x64 pixels.
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-10-28 173219.png" alt=""><figcaption><p>Card group</p></figcaption></figure>
 

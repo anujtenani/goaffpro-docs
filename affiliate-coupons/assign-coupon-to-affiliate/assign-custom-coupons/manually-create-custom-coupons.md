@@ -22,7 +22,7 @@ Next, set up the discount code settings.
 Set the discount code and discount value.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (264).png" alt=""><figcaption><p>Set up the discount code settings</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (264) (1).png" alt=""><figcaption><p>Set up the discount code settings</p></figcaption></figure>
 
 After this, click on **Save**.
 

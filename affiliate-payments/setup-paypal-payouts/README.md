@@ -8,7 +8,7 @@ You can integrate PayPal Payouts with GoAffPro to conveniently make payments to 
 
 To set up PayPal Payouts, go to the **Integrations** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (252).png" alt=""><figcaption><p>Settings > Integrations</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (252) (1).png" alt=""><figcaption><p>Settings > Integrations</p></figcaption></figure>
 
 Here, go to the PayPal Payouts section.
 
@@ -78,6 +78,6 @@ PayPal Payouts will now be connected.
 
 ![](<../../.gitbook/assets/image (2269).png>)
 
-{% embed url="https://youtu.be/EiKmTvlwyPc" %}
-PayPal Payouts Setup
+{% embed url="https://youtu.be/SODZ1oLMOYw" %}
+Setup PayPal Payouts
 {% endembed %}

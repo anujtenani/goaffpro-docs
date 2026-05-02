@@ -4,9 +4,7 @@
 
 To bulk import customer-affiliate connections into your program, go to the **Connections** tab in the GoAffPro admin panel.
 
-<figure><img src="../../../../.gitbook/assets/image (3489).png" alt=""><figcaption></figcaption></figure>
-
-![Connections](<../../../../.gitbook/assets/image (2060).png>)
+<figure><img src="../../../../.gitbook/assets/image (3489).png" alt=""><figcaption><p>Connections</p></figcaption></figure>
 
 Here, click on **bulk import**.
 

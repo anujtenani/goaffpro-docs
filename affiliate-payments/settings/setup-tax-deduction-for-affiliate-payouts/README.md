@@ -8,28 +8,32 @@ The Withholding Tax feature allows you to set up a tax deduction for affiliate c
 
 To set up the tax deduction for affiliate payouts, go to the **Payments** section of the **Settings** tab in the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption><p>Settings > Payments </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (72) (1).png" alt=""><figcaption><p>Settings > Payments </p></figcaption></figure>
 
 Here, go to the Withholding Tax/Retention Tax/TDS/VAT section.
 
-![Withholding Tax/Retention Tax/TDS/VAT](<../../../.gitbook/assets/image (1776).png>)
+<figure><img src="../../../.gitbook/assets/image (137).png" alt=""><figcaption><p>Withholding Tax/Retention Tax/TDS/VAT</p></figcaption></figure>
 
-Now, select the tax type.
+Now, select the tax type
 
-![Select tax type](<../../../.gitbook/assets/Screenshot 2021-07-21 002119.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-06-02 1751293.png" alt=""><figcaption><p>Select the tax type</p></figcaption></figure>
 
-After this, enter the tax percentage.
+Next, set the tax percentage.&#x20;
 
-![Enter the tax percentage](<../../../.gitbook/assets/Screenshot 2021-07-21 002119 (1).png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-06-02 175129.png" alt=""><figcaption><p>Set the tax percentage</p></figcaption></figure>
 
-Finally, click on **Submit**.
+You also have the option to apply the tax deduction only for affiliates with a tax ID and allow them to declare VAT exemption.&#x20;
 
-![Click on Submit](<../../../.gitbook/assets/Screenshot 2021-07-21 002938.png>)
+{% hint style="info" %}
+You can check this [guide](tax-id-for-affiliates.md) on how to allow affiliates to provide their Tax ID.&#x20;
+{% endhint %}
 
-The tax deduction for affiliate payouts will be reflected in the Payouts tab.
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-06-02 180226.png" alt=""><figcaption><p>Tax deduction options</p></figcaption></figure>
 
-![](<../../../.gitbook/assets/image (444).png>)
+After this, click on **Submit**. The tax deduction for affiliate payouts will be reflected in the Payouts tab.
 
-{% embed url="https://youtu.be/ikGjZZ5qlk4" %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-06-02 175813.png" alt=""><figcaption><p>Click on Submit</p></figcaption></figure>
+
+{% embed url="https://youtu.be/COkg3hTtuzg" %}
 Setup Tax Deduction for Affiliate Payouts
 {% endembed %}

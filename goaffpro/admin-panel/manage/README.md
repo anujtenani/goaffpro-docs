@@ -4,7 +4,7 @@ description: GoAffPro Admin Page > Manage
 
 # Manage
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-12-04 175549.png" alt=""><figcaption><p>Manage Panel</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-03-31 150311.png" alt=""><figcaption><p>Manage</p></figcaption></figure>
 
 ### **Affiliates**
 
@@ -18,7 +18,7 @@ description: GoAffPro Admin Page > Manage
 ### **Sales**
 
 * In the **Pending Approval** section, view the sales made using the affiliate referrals, you can approve or reject these orders.
-* In the **All Sales** section, view all the sales that have been made using affiliate referrals. The table showcases the date of the order, order number, order amount, affiliate who referred it, commission earned on the sale, and order status.
+* In the **All Sales** section, view all the sales made using affiliate referrals. The table showcases the order date, order number, order amount, affiliate who referred it, commission earned on the sale, and order status.
 
 {% content-ref url="sales.md" %}
 [sales.md](sales.md)
@@ -33,30 +33,28 @@ description: GoAffPro Admin Page > Manage
 [payouts.md](payouts.md)
 {% endcontent-ref %}
 
-### **PayPal Payouts**
+### **Social Media**
 
-* In the **Start Payout** section, view the pending PayPal payments that need to be made to affiliates, with a table showing the affiliate payment details. You can send payments to affiliates from this section.
-* In the **Payment History** section, view the PayPal payments that have been made in the past, with the table showing the payment details such as the date, amount, affiliate, and status of the payment.
+Setup social media **campaign tracking** for your affiliates, enabling them to track the performance of their social media campaigns and posts.
 
-{% content-ref url="paypal-payouts.md" %}
-[paypal-payouts.md](paypal-payouts.md)
+{% content-ref url="social-media.md" %}
+[social-media.md](social-media.md)
 {% endcontent-ref %}
 
-### Tipalti Payouts
-
-* In the **Start Payout** section, view the pending payments that need to be made to affiliates with Tipalti, with a table showing affiliate payment details. You can send payments to affiliates from this section.
-* In the **Payment History** section, view the payments that have been made in the past with Tipalti, with the table showing the payment details such as the date, amount, affiliate, and status of the payment.&#x20;
-
-{% content-ref url="tipalti-payouts.md" %}
-[tipalti-payouts.md](tipalti-payouts.md)
-{% endcontent-ref %}
-
-### **Creatives**
+### **Digital Assets**
 
 Upload **banners, logos, and other media** for your affiliates that they can use in their promotions.
 
-{% content-ref url="creatives.md" %}
-[creatives.md](creatives.md)
+{% content-ref url="digital-assets.md" %}
+[digital-assets.md](digital-assets.md)
+{% endcontent-ref %}
+
+### Bulk Tools
+
+Perform **bulk operations** such as updating or importing commissions, sales, affiliates, coupons, files, etc.
+
+{% content-ref url="bulk-tools.md" %}
+[bulk-tools.md](bulk-tools.md)
 {% endcontent-ref %}
 
 ### **Affiliate Pages**
@@ -77,7 +75,7 @@ View the **uploaded and shared files** with affiliates.
 
 ### **Influencer Seeding**
 
-Create orders directly within the app for **sending products** to your affiliates.
+Create orders directly within the app to **send products** to your affiliates.
 
 {% content-ref url="influencer-seeding.md" %}
 [influencer-seeding.md](influencer-seeding.md)
@@ -93,18 +91,8 @@ Configure **party plans** for the affiliates to create and host party links.
 
 ### Manage Activities
 
-* Manage the **activities** that affiliates have logged, by either approving or rejecting them.&#x20;
-* Mark the affiliate activities as completed and reward the affiliates for those tasks.
+Oversee the **activities** logged by affiliates, approving or rejecting them. Mark the completed affiliate activities and reward affiliates for their tasks.
 
 {% content-ref url="manage-activities.md" %}
 [manage-activities.md](manage-activities.md)
-{% endcontent-ref %}
-
-### **Scripts**
-
-* Write **custom scripts** to automate certain tasks of your program.
-* Add custom functions to the app such as generating custom reports, custom integrations with other tools, etc.
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}

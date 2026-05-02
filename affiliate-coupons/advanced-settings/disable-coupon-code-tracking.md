@@ -8,11 +8,11 @@ The tracking modes option allows you to disable coupon code tracking. If disable
 
 To disable the coupon code tracking, go to the **Affiliate Dashboard** section in the **Look and Feel** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption><p>Look and Feel > Affiliate Dashboard</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (123) (1).png" alt=""><figcaption><p>Look and Feel > Affiliate Dashboard</p></figcaption></figure>
 
 Here, go to the Tracking Modes section.
 
-<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption><p>Tracking Modes</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (124) (1).png" alt=""><figcaption><p>Tracking Modes</p></figcaption></figure>
 
 Now, disable the "Coupon Code" option.
 
@@ -20,7 +20,7 @@ Now, disable the "Coupon Code" option.
 
 After this, the coupon code tracking will be disabled.
 
-<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption><p>Coupon code tracking is disabled</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (126) (1).png" alt=""><figcaption><p>Coupon code tracking is disabled</p></figcaption></figure>
 
 The coupon code section will also be removed from the affiliate dashboard.
 

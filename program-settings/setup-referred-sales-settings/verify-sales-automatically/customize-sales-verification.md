@@ -4,7 +4,7 @@
 
 To customize the sales verification for your program, go to the **General** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption><p>Settings > General</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (39) (1).png" alt=""><figcaption><p>Settings > General</p></figcaption></figure>
 
 Here, go to the Sales section.
 

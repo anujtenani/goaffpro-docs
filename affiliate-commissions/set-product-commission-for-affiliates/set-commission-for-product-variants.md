@@ -4,7 +4,7 @@
 
 To set the commission for product variants, go to the **Referral Commissions** section in the **Commissions** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption><p>Commissions > Referral Commissions</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (205) (1).png" alt=""><figcaption><p>Commissions > Referral Commissions</p></figcaption></figure>
 
 Here, go to the Product Commissions section.
 
@@ -46,6 +46,6 @@ The newly set product commission will appear in the Product Commissions section 
 
 ![](<../../.gitbook/assets/image (2348).png>)
 
-{% embed url="https://youtu.be/9RVnwUfoiBM" %}
+{% embed url="https://youtu.be/_8B8K3rajfU" %}
 Set Commission for Product Variants
 {% endembed %}

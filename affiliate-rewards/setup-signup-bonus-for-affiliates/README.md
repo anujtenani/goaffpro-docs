@@ -8,7 +8,7 @@ The signup bonus feature lets you give affiliates a bonus when they signup for y
 
 To set a signup bonus for affiliates, go to the **General** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption><p>Settings > General</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (118) (1).png" alt=""><figcaption><p>Settings > General</p></figcaption></figure>
 
 Here, go to the Signup Bonus section.
 
@@ -26,7 +26,7 @@ After this, click on **Save**.
 You can also set the signup bonus for affiliates in the Signup Bonus section of the Targets tab.&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption><p>Targets > Settings > Signup Bonus</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (119) (1).png" alt=""><figcaption><p>Targets > Settings > Signup Bonus</p></figcaption></figure>
 
 {% embed url="https://youtu.be/GMZkL2K5MVg" %}
 Setup Signup Bonus for Affiliates

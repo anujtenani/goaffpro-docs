@@ -15,7 +15,7 @@ Go to the **Integrations** section in the **Settings** tab of the GoAffPro admin
 Here, in the **Tipalti** section, you will have to connect Tipalti with the GoAffPro app.&#x20;
 
 {% hint style="info" %}
-To learn how to integrate Tipalti with the GoAffPro app, follow this [guide](../../../program-settings/third-party-integrations/tipalti-integration/).
+To learn how to integrate Tipalti with the GoAffPro app, follow this [guide](../../../program-settings/integrations/tipalti-integration/).
 {% endhint %}
 
 ![Tipalti](<../../../.gitbook/assets/image (2393).png>)

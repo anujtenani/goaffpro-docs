@@ -52,7 +52,7 @@ If you click on **Choose transactions you want to pay for**, you can select the 
 
 After this, the payout summary section will open up.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (250).png" alt=""><figcaption><p>Payout Summary</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (250) (1).png" alt=""><figcaption><p>Payout Summary</p></figcaption></figure>
 
 Here, select the "**Pay the affiliates manually**" option.
 
@@ -80,7 +80,7 @@ Here, you also have the option to add an admin note and partner message.&#x20;
 
 The payment will get marked as paid.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (249) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/8AYo4M5AeTs" %}
 Create Payout Session

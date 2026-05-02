@@ -4,7 +4,7 @@
 
 To re-assign the order to another affiliate, go to the **All Sales** section in the **Sales** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (84).png" alt=""><figcaption><p>Sales > All Sales</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (84) (1).png" alt=""><figcaption><p>Sales > All Sales</p></figcaption></figure>
 
 Here, click on the **order number**.
 
@@ -12,7 +12,7 @@ Here, click on the **order number**.
 
 This will open up the order details window.
 
-<figure><img src="../../../.gitbook/assets/image (268).png" alt=""><figcaption><p>Order details</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (268) (1).png" alt=""><figcaption><p>Order details</p></figcaption></figure>
 
 Here, click on **Re-Assign order**.
 
@@ -29,3 +29,7 @@ After this, click on **Submit**.
 The order will get re-assigned to the other affiliate.
 
 <figure><img src="../../../.gitbook/assets/image (3374).png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://youtu.be/PT-ym6oylJ0" %}
+Re-Assign Order to Affiliate
+{% endembed %}

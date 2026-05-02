@@ -16,7 +16,7 @@ Here, click on **Change** in the Automatic Coupons section.
 
 This will open up the Setup Automatic Coupons section.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Setup Automatic Coupons</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Setup Automatic Coupons</p></figcaption></figure>
 
 #### Limit to one use per customer
 
@@ -40,6 +40,6 @@ Finally, click on **Submit**.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-11-24 1907444.png" alt=""><figcaption><p>Click on Submit</p></figcaption></figure>
 
-{% embed url="https://youtu.be/4Jvgct5T8Ng" %}
-Set Coupon Usage Limit for Customers
+{% embed url="https://youtu.be/4Q9wcf3r61g" %}
+Set Coupon Usage Limits
 {% endembed %}

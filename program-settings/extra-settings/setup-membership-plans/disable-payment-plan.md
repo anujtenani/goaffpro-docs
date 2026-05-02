@@ -4,7 +4,7 @@
 
 To disable the payment plan, go to the **Membership Plans** tab in the GoAffPro app.
 
-<figure><img src="../../../.gitbook/assets/image (107).png" alt=""><figcaption><p>Membership Plans</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (107) (1).png" alt=""><figcaption><p>Membership Plans</p></figcaption></figure>
 
 Here, disable the toggle.
 

@@ -8,7 +8,7 @@ The affiliate public store option offers affiliates a one-page replicated store.
 
 To set up the affiliate public store for your affiliates, go to the **Extras** section in the **Settings** tab of the GoAffPro admin panel.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (53) (1).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
 
 Here, go to the Affiliate Public Store section.
 

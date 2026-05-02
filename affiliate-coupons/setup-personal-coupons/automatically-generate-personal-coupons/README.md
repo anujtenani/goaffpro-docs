@@ -4,11 +4,11 @@
 
 To automatically generate personal coupons for affiliates, go to the **Coupons** tab in the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (131).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (131) (1).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
 
 Here, go to the Personal Coupons section.
 
-<figure><img src="../../../.gitbook/assets/image (132).png" alt=""><figcaption><p>Personal Coupons</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (132) (1).png" alt=""><figcaption><p>Personal Coupons</p></figcaption></figure>
 
 Now, enable the toggle.
 
@@ -20,7 +20,7 @@ After this, personal coupons will get generated automatically for every register
 Purchases made using personal coupon codes will not generate any commission for the affiliate.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (130) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=W6D2BzfNZ9Q" %}
 Automatically Generate Personal Coupons for Affiliates

@@ -10,7 +10,7 @@ description: Applies to merchants using any platform (except Shopify)
 
 To update affiliate coupons, go to the **Coupons** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (122) (1).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
 
 Here, click on **Change** in the Automatic Coupons section and make the change in coupon settings.&#x20;
 

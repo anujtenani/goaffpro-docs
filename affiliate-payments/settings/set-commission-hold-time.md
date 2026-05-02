@@ -10,7 +10,7 @@ For example, if you set the hold time as 30 days, the commission of a sale will 
 
 To set the commission hold time, go to the **Payments** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption><p>Settings > Payments </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (72) (1).png" alt=""><figcaption><p>Settings > Payments </p></figcaption></figure>
 
 Here, go to the Commission hold time section.
 

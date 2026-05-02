@@ -4,19 +4,19 @@
 
 To enable invoice downloads for affiliates, go to the **Extras** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41) (1).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
 
 Here, go to the Invoices section.
 
-![Invoices](<../../.gitbook/assets/image (2557).png>)
+<figure><img src="../../.gitbook/assets/image (214).png" alt=""><figcaption><p>Invoices</p></figcaption></figure>
 
 Now, enable the "Allow affiliates to download the invoice in their dashboard" option.
 
-![Enable "Allow affiliates to download the invoice in their dashboard" option](<../../.gitbook/assets/Screenshot 2021-04-14 032603.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2025-03-10 1533084.png" alt=""><figcaption><p>Enable the "Allow affiliates to download the invoice in their dashboard" option</p></figcaption></figure>
 
-After this, the affiliates will be able to download the payment invoices from their account dashboard.
+After this, the affiliates can download the payment invoices from their account dashboard.
 
-![Invoices](<../../.gitbook/assets/image (2963).png>)
+<figure><img src="../../.gitbook/assets/image (215).png" alt=""><figcaption><p>Invoices</p></figcaption></figure>
 
 Affiliates can download the invoices from the Payments tab in their dashboard.
 

@@ -8,7 +8,7 @@ hidden: true
 
 To view affiliate payment details, go to the **Payment History** section in the **Payouts** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption><p>Payouts > Payment History </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (78) (1).png" alt=""><figcaption><p>Payouts > Payment History </p></figcaption></figure>
 
 Here, click on **Details** to view the details of that payment.
 
@@ -16,7 +16,7 @@ Here, click on **Details** to view the details of that payment.
 
 This will open up the **Payment Details** window. Here, you can view the date and time of the payment, the amount paid to the affiliate, the mode of payment, the payment note, and the partner message.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (79) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/W71y8gWD00E" %}
 View Affiliate Payment Details

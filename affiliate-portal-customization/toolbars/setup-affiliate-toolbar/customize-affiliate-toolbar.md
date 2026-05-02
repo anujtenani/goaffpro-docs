@@ -4,7 +4,7 @@
 
 To customize the affiliate toolbar, go to the **Toolbars** section in the **Look and Feel** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (66).png" alt=""><figcaption><p>Look and Feel > Toolbars</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (66) (1).png" alt=""><figcaption><p>Look and Feel > Toolbars</p></figcaption></figure>
 
 Here, click on **Customize** in the Affiliate Toolbar section.
 

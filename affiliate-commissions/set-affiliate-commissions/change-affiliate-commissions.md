@@ -30,6 +30,6 @@ The newly set commission rate will get saved for affiliates.
 
 ![](<../../.gitbook/assets/image (1540).png>)
 
-{% embed url="https://www.youtube.com/watch?v=Fhj-Dxgil_w" %}
-Change Affiliate Group Commission
+{% embed url="https://youtu.be/QNmZfdULeF4" %}
+Change Affiliate Commissions
 {% endembed %}

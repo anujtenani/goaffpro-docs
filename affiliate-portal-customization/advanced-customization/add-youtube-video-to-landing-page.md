@@ -50,7 +50,7 @@ Make sure to toggle the section to **Show**.
 
 The YouTube video will be displayed on the landing page of the affiliate portal.
 
-<figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (193) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/EGP4s8k1uEU" %}
 Add YouTube Video to Landing Page

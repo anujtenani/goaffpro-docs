@@ -1,5 +1,6 @@
 ---
 description: "Setting a TXT\_record for emailing affiliates is no longer required."
+hidden: true
 ---
 
 # Create TXT Record

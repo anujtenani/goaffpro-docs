@@ -4,7 +4,7 @@
 
 To set the default payment method for newly registered affiliates, go to the **Payments** section of the **Settings** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption><p>Settings > Payments </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (72) (1).png" alt=""><figcaption><p>Settings > Payments </p></figcaption></figure>
 
 Here go to the Default Payment Method section.
 

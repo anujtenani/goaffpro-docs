@@ -4,7 +4,7 @@
 
 To set targets for the commission group, go to the **Groups** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (170).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (170) (1).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
 
 Here, click on **Edit Group**.
 
@@ -62,6 +62,6 @@ The newly set target will get saved for the group.
 
 ![](<../../.gitbook/assets/image (1666).png>)
 
-{% embed url="https://youtu.be/0kXeIWb5i2s" %}
+{% embed url="https://youtu.be/v18AnBgzJsE" %}
 Set Targets for Group
 {% endembed %}

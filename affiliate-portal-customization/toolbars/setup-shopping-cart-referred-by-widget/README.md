@@ -8,11 +8,11 @@ The shopping cart referred by widget allows customers to choose the affiliate, t
 
 To set up the shopping cart referred by widget, go to the **Toolbars** section in the **Look and Feel** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (224).png" alt=""><figcaption><p>Look and Feel > Toolbars</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (224) (1).png" alt=""><figcaption><p>Look and Feel > Toolbars</p></figcaption></figure>
 
 Here, go to the Shopping Cart Referred By section.
 
-<figure><img src="../../../.gitbook/assets/image (226).png" alt=""><figcaption><p>Shopping Cart Referred By</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (226) (1).png" alt=""><figcaption><p>Shopping Cart Referred By</p></figcaption></figure>
 
 Now, enable the toggle.
 
@@ -24,7 +24,7 @@ Next, click on **Customize**.
 
 This will open up the Customize Cart Referral Code Input Field window.
 
-<figure><img src="../../../.gitbook/assets/image (227).png" alt=""><figcaption><p>Customize Cart Referral Code Input Field</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (227) (1).png" alt=""><figcaption><p>Customize Cart Referral Code Input Field</p></figcaption></figure>
 
 Here, set the input label and placeholder text.
 
@@ -39,6 +39,10 @@ You can select widget types such as Auto-Complete/Search Input, Referral Code In
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-01-29 195336.png" alt=""><figcaption><p>Select the widget type</p></figcaption></figure>
 
 After this, **copy** the tag and paste it into the cart page.
+
+{% hint style="info" %}
+You can follow this [guide](referred-by-widget-in-your-cart.md) to add the code to the cart page.&#x20;
+{% endhint %}
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-01-29 1935221.png" alt=""><figcaption><p>Copy and paste the tag</p></figcaption></figure>
 

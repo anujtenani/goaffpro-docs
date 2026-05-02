@@ -4,15 +4,15 @@
 
 To automatically approve affiliate registrations, go to the **General** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption><p>Settings > General</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (94) (1).png" alt=""><figcaption><p>Settings > General</p></figcaption></figure>
 
 Here, go to the Affiliate Registrations section.
 
 ![Affiliate Registration](<../../../.gitbook/assets/image (2403).png>)
 
-Now, check the "Auto approve registrations" box.
+Now, enable the "**Auto approve registrations**" option.
 
-![Check the Auto approve registrations box](<../../../.gitbook/assets/Annotation 2020-04-01 042909.png>)
+![Enable the "Auto approve registrations" option](<../../../.gitbook/assets/Annotation 2020-04-01 042909.png>)
 
 After this, affiliates will get automatically approved after they register.&#x20;
 

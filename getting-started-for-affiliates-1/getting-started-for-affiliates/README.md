@@ -4,58 +4,63 @@ description: A guide for affiliates on getting started with their account
 
 # Get Started
 
-#### Here is a quick guide on getting started as an affiliate:
+## Here is a quick guide on getting started as an affiliate:
 
 ### Create an affiliate account
 
-After you create your affiliate account, you will have to check your email inbox for the account verification email.&#x20;
+Go to the **Create Account** page of the affiliate portal and register yourself.&#x20;
 
-![Sign-Up](<../../.gitbook/assets/Annotation 2019-11-30 020557.png>)
+<figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption><p>Sign-Up</p></figcaption></figure>
 
 {% hint style="info" %}
-After you signup for the affiliate program, your **account will undergo verification**. It can take up to 24-48 for the account to get verified. You should update your profile in the meantime.
+After you sign up for the affiliate program, your **account will undergo verification**. It can take up to 24-48 for the account to get verified.
 {% endhint %}
 
-### Log into your affiliate account
+After this, you will be logged into your affiliate dashboard.&#x20;
 
-The window that opens up when you log into your affiliate account is called the **affiliate dashboard**. The dashboard acts as a control panel for your account.&#x20;
+<figure><img src="../../.gitbook/assets/image (156).png" alt=""><figcaption><p>Affiliate Dashboard</p></figcaption></figure>
 
-![Affiliate Portal](<../../.gitbook/assets/Annotation 2019-11-30 032440.png>)
+### Setup your profile
 
-### Update your profile
+You can go to the **Settings** tab to set your profile information:
 
-* To update your profile go to the **Settings** tab. Here in the Profile section, you can fill in your details such as your website, Facebook account, Instagram account, Twitter handle, or YouTube channel.&#x20;
-* Also, set up your payment mode in the **Payment Settings** section.
+* In the **Profile** section, you can fill out details such as your website, Facebook account, Instagram account, Twitter handle, or YouTube channel.&#x20;
+* Additionally, you can set up your payment mode in the **Payment Settings** section.
 
-After filling in the necessary details. You can get started with promotions.
+After filling in the necessary details, you can start with your promotions.
 
-![Settings](<../../.gitbook/assets/Annotation 2019-11-30 032602.png>)
+<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption><p>Settings</p></figcaption></figure>
 
 ### Checkout your referral details:
 
 Here in the **Home** tab,
 
-* You can view your **referral URL**, that you will be sharing in your promotions. You will also see the **coupon code** if it has been assigned to you by the merchant.&#x20;
-* The **commission structure** will provide you with the details about the commissions that the merchant has set up for referrals.&#x20;
-* In **summary**, you can view the number of referrals, orders, conversion percentage, sales value,  and your earnings for referrals.
-* The **details** table displays information such as the date of the order (placed using your referral), order, order amount, and the commission earned on the order.
+* You can view your **referral link** and **coupon code**, that you will be sharing in your promotions.&#x20;
+* In the **summary table**, you can view referral details such as:
+  * **Referrals**: unique visits made using the affiliate's referral link.&#x20;
+  * **Orders**: number of orders referred by the affiliate.&#x20;
+  * **Conversions**: orders/referrals \* 100&#x20;
+  * **Sales**: the sales revenue amount referred by the affiliate.&#x20;
+  * **Earnings**: the commission earned by the affiliate.
 
-![Home](<../../.gitbook/assets/Annotation 2019-11-30 032440.png>)
+<figure><img src="../../.gitbook/assets/image (156).png" alt=""><figcaption><p>Home tab</p></figcaption></figure>
 
-### Generate affiliate links for products & use media assets
+### Generate trackable product links & access media assets
 
-* In the **marketing tools** section, you can **generate affiliate links for the products you want to promote**, you can do this by pasting the product URL link from the store in the given field. A link will be generated next to it that you can then use in your promotions.
-* Here you can also check out the **media assets** that have been provided by the merchants and use them accordingly in your promotions.
+In the **Marketing Tools** tab:
+
+* You can use the **product links** generator tool to generate trackable product links and share them in your promotions.&#x20;
+* Also, you can view the **media assets** that have been provided by the merchants. You can download them and use them in your promotions.
 
 ![Marketing Tools](<../../.gitbook/assets/Annotation 2019-11-30 032458.png>)
 
-### Payment summary
+### Payments
 
-In the **payments section,** you can view your payment summary, which will show the amount paid to you for your referrals, the pending amount that has to be paid, and the last payment that was done.
+In the **payments section,** you can view your payment information. Here, you can view the amount you have been paid and the commission amount still pending payment. &#x20;
 
-There is also a details section which will show other payment information.&#x20;
+The details section will provide you with more details on the payment made.
 
-![Payments](<../../.gitbook/assets/Annotation 2019-11-30 032532.png>)
+<figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption><p>Payments</p></figcaption></figure>
 
 ### Start Promotions
 

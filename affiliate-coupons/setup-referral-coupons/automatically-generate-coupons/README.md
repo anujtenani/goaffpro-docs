@@ -4,15 +4,23 @@
 
 To automatically generate coupons for affiliates, go to the **Coupons** tab in the GoAffPro admin panel.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3454).png" alt=""><figcaption><p>Coupons tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3786).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
 
-Here, enable the toggle in the Automatic Coupons section.
+Here, in the Automatic Coupons section, click on **Setup**.
 
-![Automatic Coupons](<../../../.gitbook/assets/Annotation 2020-02-14 010557 (1).png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-07-15 180310.png" alt=""><figcaption><p>Automatic Coupons > Click on Setup</p></figcaption></figure>
 
-After enabling, coupons will get generated automatically for every registered affiliate.
+Now, set the discount type and value.
 
-![](<../../../.gitbook/assets/Annotation 2020-02-14 010736.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-07-15 180326.png" alt=""><figcaption><p>Set the discount type and value</p></figcaption></figure>
+
+Next, click on **Submit**.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-07-15 1803264.png" alt=""><figcaption></figcaption></figure>
+
+After this, coupons will be generated automatically for affiliates who register in your program.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-07-15 180345.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/9egC6ZdPFlc" %}
 Automatically Generate Coupons for Affiliates

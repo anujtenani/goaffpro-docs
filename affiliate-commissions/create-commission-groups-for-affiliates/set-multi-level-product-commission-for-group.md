@@ -4,7 +4,7 @@
 
 To set the multi level product commission for the commission group, go to the **Groups** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (165).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (165) (1).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
 
 Here, click on **Edit Group**.
 
@@ -16,32 +16,36 @@ This will open up the Edit group section.
 
 Here, go to the MLM Product commissions section.
 
-![MLM Product Commissions section](<../../.gitbook/assets/image (1545).png>)
+<figure><img src="../../.gitbook/assets/image (3744).png" alt=""><figcaption><p>MLM Product Commissions section</p></figcaption></figure>
 
 Now, click on **Edit**.
 
-![Click on Edit](<../../.gitbook/assets/Screenshot 2020-12-17 005533.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-13 213015.png" alt=""><figcaption></figcaption></figure>
 
-After this, click on **Add new product commission**.
+Next, click on **Add new product commission**.
 
-![Click on Add new product commission](<../../.gitbook/assets/Screenshot 2020-12-17 005747.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-13 213057.png" alt=""><figcaption><p>Click on Add new product commission</p></figcaption></figure>
 
 Here, select the product.
 
-![Select the product](<../../.gitbook/assets/Screenshot 2020-12-17 010549.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-13 213116.png" alt=""><figcaption><p>Select the product</p></figcaption></figure>
 
 Now, set the commission rate for each level.
 
-![Set the commission rate for each level](<../../.gitbook/assets/Screenshot 2020-12-17 010728.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-13 213134.png" alt=""><figcaption><p>Set the commission rate for each level</p></figcaption></figure>
 
-After this, click on **Save**.
+After this, click on **Submit**.
 
-![Click on Save.](<../../.gitbook/assets/Screenshot 2020-12-17 011025.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-13 213227.png" alt=""><figcaption><p>Click on Submit</p></figcaption></figure>
 
-Finally, the newly set multi level product commission will get saved for the group.
+Finally, click on **Save**.
 
-![](<../../.gitbook/assets/image (878).png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-13 2132434.png" alt=""><figcaption><p>Click on Save</p></figcaption></figure>
 
-{% embed url="https://www.youtube.com/watch?v=LhLTT-LJ0Oo" %}
+The multi level product commission will be saved for group affiliates.
+
+<figure><img src="../../.gitbook/assets/image (3745).png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://youtu.be/He7nmCyc7uI" %}
 Set Multi Level Product Commission for Group
 {% endembed %}

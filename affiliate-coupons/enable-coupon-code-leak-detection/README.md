@@ -6,7 +6,7 @@
 
 To detect coupon code leaks, go to the **Coupons** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (128) (1).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
 
 Here, go to the Detect Coupon Leaks section.
 

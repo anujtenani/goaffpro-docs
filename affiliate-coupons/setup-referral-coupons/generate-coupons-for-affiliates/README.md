@@ -20,6 +20,6 @@ After generating the coupon, it will appear in the Coupons table, which will sho
 
 ![](<../../../.gitbook/assets/image (646).png>)
 
-{% embed url="https://youtu.be/t3Ui4TlGOi4" %}
+{% embed url="https://youtu.be/VklNWxVCMJw" %}
 Generate Coupons for Affiliates
 {% endembed %}

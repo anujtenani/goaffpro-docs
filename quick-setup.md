@@ -4,7 +4,7 @@ description: Get started with your affiliate program in a few easy steps
 
 # Quick Setup
 
-![Quick Setup](.gitbook/assets/av.png)
+<figure><img src=".gitbook/assets/Screenshot 2025-06-23 193737.png" alt=""><figcaption></figcaption></figure>
 
 ### Quick Setup
 
@@ -51,17 +51,21 @@ Copy the affiliate portal link (for example https://helloworld.goaffpro.com)
 
 <figure><img src=".gitbook/assets/Screenshot 2024-02-05 2325126.png" alt=""><figcaption><p>Copy the affiliate portal link</p></figcaption></figure>
 
-Go to the Shopify admin panel > Online Store > Navigation > Main Menu section.
+Go to the Shopify admin panel > Content > Menu > Main menu section.
 
-<figure><img src=".gitbook/assets/Screenshot 2024-02-05 235211.png" alt=""><figcaption><p>Shopify admin panel > Online Store > Navigation > Main Menu</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-04-23 202822.png" alt=""><figcaption><p>Shopify admin panel > Content > Menu > Main Menu section</p></figcaption></figure>
 
-Now, click on **Add menu item** > Set menu item name and link > Click on **Add**.
+Now, click on **Add menu item.**
 
-<figure><img src=".gitbook/assets/Screenshot 2024-02-05 2352254.png" alt=""><figcaption><p>Add menu item > Set menu item name and link > Click on Add</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-04-23 202908.png" alt=""><figcaption><p>Click on Add menu item</p></figcaption></figure>
 
-Finally, click on **Save menu**.
+&#x20;Set menu item label and link.&#x20;
 
-<figure><img src=".gitbook/assets/Screenshot 2024-02-05 235315.png" alt=""><figcaption><p>Click on Save menu</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-04-23 202922.png" alt=""><figcaption><p>Set the menu label and link</p></figcaption></figure>
+
+Finally, click on **Save**.
+
+<figure><img src=".gitbook/assets/Screenshot 2025-04-23 202951.png" alt=""><figcaption><p>Click on Save</p></figcaption></figure>
 
 **Check out our video guide below to see this process:**
 
@@ -83,7 +87,7 @@ Here, set the page title and content > Click on **Save**.
 
 ### Promote your affiliate program on social media platforms
 
-![](.gitbook/assets/dsfa.png)
+<figure><img src=".gitbook/assets/Screenshot 2025-06-23 193221.png" alt=""><figcaption></figcaption></figure>
 
 To build your affiliate network, start promoting your affiliate campaign on your Instagram and Facebook pages. More people joining your affiliate program will mean more promotion of your products and will increase sales.&#x20;
 

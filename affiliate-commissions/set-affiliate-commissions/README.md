@@ -6,7 +6,7 @@
 
 To set different commission rates for affiliates, go to the **Referral Commission** section in the **Commission** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (207).png" alt=""><figcaption><p>Commissions > Referral Commissions</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (207) (1).png" alt=""><figcaption><p>Commissions > Referral Commissions</p></figcaption></figure>
 
 Here, go to the Affiliate Commissions section.
 
@@ -28,6 +28,6 @@ Finally, the newly set affiliate commissions will saved.&#x20;
 
 ![](<../../.gitbook/assets/image (2027).png>)
 
-{% embed url="https://youtu.be/n6NMIBzPRPI" %}
-Setup Affiliate Commission Groups
+{% embed url="https://youtu.be/p5ATqY54rh0" %}
+Setup Affiliate Commissions
 {% endembed %}

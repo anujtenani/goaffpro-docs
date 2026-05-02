@@ -4,7 +4,7 @@
 
 To set up a drip email marketing campaign for affiliates, go to the **Marketing** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption><p>Marketing</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (69) (1).png" alt=""><figcaption><p>Marketing</p></figcaption></figure>
 
 Here, click on **New Campaign**.&#x20;
 

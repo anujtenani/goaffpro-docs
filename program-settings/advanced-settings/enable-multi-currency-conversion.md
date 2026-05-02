@@ -12,7 +12,7 @@ The multi-currency conversion feature automatically converts the affiliate's com
 
 To enable multi-currency conversion, go to the **Advanced** section in the **Settings** tab of the GoAffPro admin panel.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3627).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3806).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 
 Here, go to the Multi-Currency section.
 

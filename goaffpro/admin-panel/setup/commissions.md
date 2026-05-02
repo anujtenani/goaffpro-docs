@@ -8,21 +8,19 @@ description: GoAffPro Admin Panel > Setup > Commissions
 
 > Affiliate marketing works on the **merchant-affiliate partnership**, it is a win-win situation, since the sale of products increases, benefiting the merchant and the affiliate as he earns a small commission on the sale made.
 
-<figure><img src="../../../.gitbook/assets/image (1420).png" alt=""><figcaption><p>Commissions > Referral commissions</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3664).png" alt=""><figcaption><p>Commissions</p></figcaption></figure>
 
-## Referral Commissions
+### Referral Commissions
 
-1. **Default Commission**
-2. **Affiliate Commissions**
-3. **Product Commissions**
-4. **Commission Rules**
-5. **Collection Commissions**
+* **Default Commission**
+* **Affiliate Commissions**
+* **Product Commissions**
+* **Commission Rules**
+* **Collection Commissions**
 
-{% embed url="https://www.youtube.com/watch?v=bRos_V0MSGY&feature=youtu.be" %}
-Referral Commissions
-{% endembed %}
+<figure><img src="../../../.gitbook/assets/image (3666).png" alt=""><figcaption><p>Referral Commissions</p></figcaption></figure>
 
-### Default Commission
+#### **Default Commission**
 
 It is the commission that **applies to all** products and affiliates, it can be changed by clicking on **Change** and setting the percentage/flat rate to a value of your choice.
 
@@ -32,7 +30,7 @@ It is the commission that **applies to all** products and affiliates, it can be 
 [set-commission-for-program](../../../affiliate-commissions/set-commission-for-program/)
 {% endcontent-ref %}
 
-### Affiliate Commissions
+#### **Affiliate Commissions**
 
 It can be used to set different commissions for affiliates or a **group of affiliates**. You can use it to create affiliate groups with different commission rates.
 
@@ -46,13 +44,13 @@ For setting up the affiliate commissions, click on **Set commission for an affil
 [set-affiliate-commissions](../../../affiliate-commissions/set-affiliate-commissions/)
 {% endcontent-ref %}
 
-### Product Commissions
+#### **Product Commissions**
 
-You can set **different commission rates** for different products or affiliates, this helps in setting up different commission rates for different categories of products. The table shows the products, affiliates, and the commission set for them.
+You can set **different commission rates** for different products or affiliates, this helps in setting up different commission rates for different categories of products. The table displays the affiliate and the product commission set for them.&#x20;
 
 ![Product Commissions](<../../../.gitbook/assets/product commission (1).png>)
 
-For setting up a new product commission, you can click on **New Product Commission** and search for the product or partner/affiliate, and set the percentage/flat rate. You can also activate the bulk mode option to select multiple products. Click **Save** to save the changes you made.&#x20;
+For setting up a new product commission, you can click on **New Product Commission,** search for the product or partner/affiliate, and set the percentage/flat rate. You can also activate the bulk mode option to select multiple products. Click **Save** to save the changes you made.&#x20;
 
 ![Create Product Commission](<../../../.gitbook/assets/image (1743).png>)
 
@@ -60,23 +58,17 @@ For setting up a new product commission, you can click on **New Product Commissi
 [set-product-commission-for-affiliates](../../../affiliate-commissions/set-product-commission-for-affiliates/)
 {% endcontent-ref %}
 
-In the **Product Commissions** section, you can also bulk import commission rates for products. You can do this by uploading a correctly formatted CSV file.&#x20;
+#### **Commission rules**
 
-![Bulk Import Commission Rates](<../../../.gitbook/assets/image (785).png>)
-
-{% hint style="info" %}
-To make sure the CSV file you upload is correctly formatted, you can download the sample CSV file and use it to create your bulk import file.&#x20;
-{% endhint %}
-
-### Commission rules
-
-You can set up **commission rules** **for affiliates**. Here, you can set up rules to determine the commission given for sales to affiliates.
-
-To set up commission rules, you can click on **New Commission Rule**. After this, you can select the rule, set the matching value (if applicable), and finally, set the commission rate.&#x20;
+&#x20;You can set up **commission rules** **for affiliates**. Here, you can set up rules to determine the commission given for sales to affiliates. To set up commission rules, you can click on **New Commission Rule**. After this, you can select the rule, set the matching value (if applicable), and finally, set the commission rate.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (3235).png" alt=""><figcaption><p>Commission rules</p></figcaption></figure>
 
-Here, you can select rules such as:
+Here, you can select the rule, set the matching value, and set the commission rate. After this, click on **Submit** to save the commission rule.
+
+<details>
+
+<summary>Rules Available</summary>
 
 * Product name
 * Product SKU
@@ -92,17 +84,17 @@ Here, you can select rules such as:
 * Order subtotal
 * Order total
 
-<figure><img src="../../../.gitbook/assets/image (1155).png" alt=""><figcaption><p>New commission rule</p></figcaption></figure>
+</details>
 
-Click on **Submit** to save the commission rule.
+<figure><img src="../../../.gitbook/assets/image (3665).png" alt=""><figcaption><p>New commission rule</p></figcaption></figure>
 
 {% content-ref url="../../../affiliate-commissions/setup-commission-rules/" %}
 [setup-commission-rules](../../../affiliate-commissions/setup-commission-rules/)
 {% endcontent-ref %}
 
-### Collection Commissions
+#### **Collection Commissions**
 
-It can be used to set up commissions for a collection or category of products. The table shows the collections, the affiliates for whom it is set, and the commission set for them.
+It can be used to set up commissions for a collection or category of products. The table displays the affiliate and the collection commission set for them.&#x20;
 
 ![Collection Commissions](<../../../.gitbook/assets/image (2153).png>)
 
@@ -114,21 +106,23 @@ For setting up a new collection commission, you can click on **New Collection Co
 [set-collection-commission-for-affiliates.md](../../../affiliate-commissions/set-collection-commission-for-affiliates.md)
 {% endcontent-ref %}
 
-## Royalties Commissions
-
-1. **Royalties Commissions**
-2. **Rule based royalties**
-3. **Rule based tracking**
-
-![Royalties (Fixed Commissions)](<../../../.gitbook/assets/image (2149).png>)
+{% embed url="https://www.youtube.com/watch?v=bRos_V0MSGY&feature=youtu.be" %}
+Referral Commissions
+{% endembed %}
 
 ### Royalties Commissions
 
-When a royalty commission is set for an affiliate, they will get credited for the sale regardless of whom refers the sale.&#x20;
+* **Royalties Commissions**
+* **Rule based royalties**
+* **Rule based tracking**
 
-It is useful in creating **partnerships** with influencers who want to work with a particular category of products or services. The table shows the products/collections, affiliates, and the commission rate set for the affiliate.
+![Royalties (Fixed Commissions)](<../../../.gitbook/assets/image (2149).png>)
 
-<figure><img src="../../../.gitbook/assets/image (1815).png" alt=""><figcaption></figcaption></figure>
+#### **Royalties Commissions**
+
+When a royalty commission is set for an affiliate, they will get credited for the sale regardless of whom refers the sale. It is useful in creating **partnerships** with influencers who want to work with a particular category of products or services. The table displays the affiliates and the royalties set for them.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (1815).png" alt=""><figcaption><p>Royalties Commissions</p></figcaption></figure>
 
 You can set the royalty commission, by clicking on **Set Royalties on a Product**, where you can select the product, partner/affiliate, and set the percentage/flat rate for sales.
 
@@ -144,39 +138,41 @@ You can also activate the bulk mode. Click on **Save** to save the changes you m
 [set-royalty-commissions-for-affiliates](../../../affiliate-commissions/set-royalty-commissions-for-affiliates/)
 {% endcontent-ref %}
 
-### Rule Based Royalty
+#### **Rule Based Royalty**
 
-You can also set up a **rule based royalty for affiliates**. Here, you can set up rules for determining how the royalties are given to an affiliate.&#x20;
-
-To set up a rule based royalty, click on **New rule**. Here you can select the rule, set the match value, set the commission rate, and select the affiliate.
+You can also set up a **rule based royalty for affiliates**. Here, you can set up rules for determining how the royalties are given to an affiliate. To set up a rule based royalty, click on **New rule**. Here you can select the rule, set the match value, set the commission rate, and select the affiliate.
 
 ![Rule based royalties](<../../../.gitbook/assets/image (549).png>)
 
-You can select different rules such as:
+You can select different rules here, set the matching value, commission rate, and select the affiliate. After this, click on **Submit**.&#x20;
+
+<details>
+
+<summary>Rules Available</summary>
 
 * Product name
 * Product SKU
-* Product Tag
 * Product Vendor
-* Product Type
 
-![New royalty commission rule](<../../../.gitbook/assets/image (2222).png>)
+</details>
 
-Click on **Submit** to save the rule based royalty rule you created.
+<figure><img src="../../../.gitbook/assets/image (3667).png" alt=""><figcaption><p>New royalty commission rule</p></figcaption></figure>
 
 {% content-ref url="../../../affiliate-commissions/advanced-settings/setup-rule-based-royalties/" %}
 [setup-rule-based-royalties](../../../affiliate-commissions/advanced-settings/setup-rule-based-royalties/)
 {% endcontent-ref %}
 
-### Rule Based Tracking
+#### **Rule Based Tracking**
 
-You can also set up a **rule based tracking for sales**. Here, you can set up conditions for attributing a sale to an affiliate.&#x20;
-
-To set up a rule based tracking, click on **New rule**. Here you can select the condition, set the match value and select the affiliate (to whom the sale will get attributed).
+You can also set up a **rule based tracking for sales**. Here, you can set up conditions for attributing a sale to an affiliate.  To set up a rule based tracking, click on **New rule**. Here you can select the condition, set the match value, and select the affiliate (to whom the sale will be attributed).
 
 ![Rule based tracking](<../../../.gitbook/assets/image (2908).png>)
 
-You can select different conditions such as:
+Here, you can select different conditions, set the matching value, and select the affiliate. After this, click on **Submit**.&#x20;
+
+<details>
+
+<summary>Rules Available</summary>
 
 * Order value is >=
 * Order value is <=
@@ -194,23 +190,25 @@ You can select different conditions such as:
 * Payment gateway matches
 * Sub ID
 
-![New commission rule](<../../../.gitbook/assets/image (3036).png>)
+</details>
 
-Click on **Submit** to save the commission rule you created.
+<figure><img src="../../../.gitbook/assets/image (3668).png" alt=""><figcaption><p>Select condition</p></figcaption></figure>
 
 {% content-ref url="../../../affiliate-commissions/advanced-settings/setup-rule-based-tracking-for-sales/" %}
 [setup-rule-based-tracking-for-sales](../../../affiliate-commissions/advanced-settings/setup-rule-based-tracking-for-sales/)
 {% endcontent-ref %}
 
-## Commission Modifiers
+### Commission Modifiers
 
-You can modify the affiliate commissions using **commission modifiers**. Here, you can set rules for commissions that an affiliate will earn on their referrals. In the table, you can view the rules you have set, the matches, and the commission adjustments.
+You can modify the affiliate commissions using **commission modifiers**. Here, you can set rules for commissions that an affiliate will earn on their referrals. To set a commission modifier, click on **Add new modifier**. Here you can select the rule, set the matching value, and set the commission adjustment.&#x20;
 
-To set a commission modifier, click on **Add new modifier**. Here you can select the rule, set the match value, and set the commission adjustment.&#x20;
+<figure><img src="../../../.gitbook/assets/image (3669).png" alt=""><figcaption><p>Commission modifiers</p></figcaption></figure>
 
-![Commission Modifiers](<../../../.gitbook/assets/Annotation 2019-11-23 042318.png>)
+Here, you can select the rule, set the matching value, and set the commission rate adjustment. After this, click on **Add modifier**.
 
-You can select different rules such as:
+<details>
+
+<summary>Rules Available</summary>
 
 * Order value is >=
 * Order value is <=
@@ -234,9 +232,9 @@ You can select different rules such as:
 * Other Adjustments
 * Product Name
 
-![Select Commission Modifier](<../../../.gitbook/assets/image (2424).png>)
+</details>
 
-Click on **Add Modifier** to save the commission modifier you made.
+<figure><img src="../../../.gitbook/assets/image (3670).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="../../../affiliate-commissions/set-commission-modifiers/" %}
 [set-commission-modifiers](../../../affiliate-commissions/set-commission-modifiers/)
@@ -244,7 +242,7 @@ Click on **Add Modifier** to save the commission modifier you made.
 
 ***
 
-**Checkout the video below for an overview of the affiliate commissions options in GoAffPro:**
+**Checkout our video below for an overview of the affiliate commission options in GoAffPro:**
 
 {% embed url="https://youtu.be/omEUp-sYFsY" %}
 Setup Affiliate Commissions

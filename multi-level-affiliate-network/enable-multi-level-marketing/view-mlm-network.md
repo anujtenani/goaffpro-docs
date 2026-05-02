@@ -4,9 +4,7 @@
 
 To view the full multi level network, go to the **Multi Level** tab in the GoAffPro app.
 
-<figure><img src="../../.gitbook/assets/image (3585).png" alt=""><figcaption></figcaption></figure>
-
-![Multi Level](<../../.gitbook/assets/image (2902).png>)
+<figure><img src="../../.gitbook/assets/image (3585).png" alt=""><figcaption><p>Multi Level</p></figcaption></figure>
 
 Here, go to the Multi Level Marketing section.
 

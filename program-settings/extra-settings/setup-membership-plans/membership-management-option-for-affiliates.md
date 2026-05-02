@@ -4,7 +4,7 @@
 
 To allow affiliates to manage their membership plan, go to the **Affiliate Dashboard** section in the **Look and Feel** tab of the GoAffPro admin panel.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (109).png" alt=""><figcaption><p>Look and Feel > Affiliate Dashboard</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (109) (1).png" alt=""><figcaption><p>Look and Feel > Affiliate Dashboard</p></figcaption></figure>
 
 Here, go to the Dashboard Tabs section.
 

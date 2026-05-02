@@ -1,10 +1,14 @@
+---
+hidden: true
+---
+
 # Third Party Tracking
 
 **GoAffPro** provides you with the option to track affiliate referrals even when you are using a third-party theme in your store.
 
 To track affiliate referrals when you are using a third-party theme on your store, go to the **Advanced** section of the **Settings** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3806).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 
 Go to the Third Party Tracking section.
 

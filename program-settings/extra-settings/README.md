@@ -14,11 +14,13 @@ The **Extras** settings section allows you to configure and enable advanced feat
   * [Affiliate Activity Logging](create-activities-for-affiliates/affiliate-activity-logging.md)
   * [Manage Affiliate Activities](create-activities-for-affiliates/manage-affiliate-activities.md)
   * [Give Reward to Affiliates](create-activities-for-affiliates/give-reward-to-affiliates.md)
+* [Setup Automations](setup-automations.md)
+* [Use Bulk Tools](use-bulk-tools.md)
 * [Setup Party Plans](setup-party-plans/)
   * [Add Order to Party](setup-party-plans/add-order-to-party.md)
-* [Setup Affiliate Store](add-mini-store-to-affiliate-dashboard/setup-affiliate-store.md)
-  * [Setup Special Products for Mini Store](add-mini-store-to-affiliate-dashboard/setup-special-products-for-mini-store.md)
-  * [Affiliate Store Preview](add-mini-store-to-affiliate-dashboard/affiliate-store.md)
+* [Setup Affiliate Store](setup-affiliate-mini-store/setup-affiliate-store.md)
+  * [Setup Special Products for Mini Store](setup-affiliate-mini-store/setup-special-products-for-mini-store.md)
+  * [Affiliate Store Preview](setup-affiliate-mini-store/affiliate-store.md)
 * [Setup Affiliate Public Store](setup-affiliate-public-store/)
   * [Generate Storefront Access Token](setup-affiliate-public-store/generate-storefront-access-token.md)
   * [Edit Public Store Theme](setup-affiliate-public-store/edit-public-store-theme.md)
@@ -27,6 +29,7 @@ The **Extras** settings section allows you to configure and enable advanced feat
 * [Send Products to Affiliates](send-products-to-affiliates.md)
 * [W9 Form for Affiliates](w9-form-for-affiliates/)
   * [Mandatory W9 Form Requirement](w9-form-for-affiliates/mandatory-w9-form-requirement-for-affiliates.md)
+  * [Generate 1099-NEC Form for Affiliates](w9-form-for-affiliates/generate-1099-nec-form-for-affiliates.md)
 * [Setup Membership Plans](setup-membership-plans/)
   * [Setup Payment Gateway](setup-membership-plans/setup-payment-gateway.md)
   * [Setup One Time Payment Plan](setup-membership-plans/setup-payment-plan.md)
@@ -35,15 +38,14 @@ The **Extras** settings section allows you to configure and enable advanced feat
   * [Disable Payment Plan](setup-membership-plans/disable-payment-plan.md)
   * [Affiliate Membership Activation](setup-membership-plans/affiliate-membership-activation.md)
   * [Membership Management Option](setup-membership-plans/membership-management-option-for-affiliates.md)
-* [Affiliate Landing Page](create-a-new-affiliate-landing-page/)
-  * [Approve/Reject Affiliate Landing Page](create-a-new-affiliate-landing-page/approve-reject-an-affiliates-landing-page.md)
 * [Create Legal Documents](create-legal-documents/)
   * [Add Custom Fields to Legal Document](create-legal-documents/add-custom-fields-to-legal-document.md)
   * [Send Legal Document to Affiliate](create-legal-documents/send-legal-document-to-affiliate.md)
   * [Access Signed Legal Document](create-legal-documents/access-signed-legal-documents.md)
   * [Add Legal Document to Signup Page](create-legal-documents/add-legal-document-to-signup-page.md)
-* [Add Store Metadata](add-store-metadata.md)
+* [Transfer Account Ownership](transfer-account-ownership.md)
+* [Setup Two Factor Authentication](setup-two-factor-authentication/)
 
 Go to the **Settings** > **Extras** section of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>

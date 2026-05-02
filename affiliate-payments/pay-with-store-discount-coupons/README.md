@@ -10,7 +10,7 @@ Enable the "Store Discount Coupons" option from the Settings > Payments > Suppor
 
 To pay affiliates with store discount coupons, go to the **Payments** section in the **Payouts** tab of the GoAffPro admin panel.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption><p>Payouts > Payments</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (80) (1).png" alt=""><figcaption><p>Payouts > Payments</p></figcaption></figure>
 
 Here, click on **Start payout**.
 

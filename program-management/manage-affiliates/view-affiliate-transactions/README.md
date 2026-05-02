@@ -8,21 +8,23 @@ To view an affiliate's transactions, go to the **All Affiliates** section in the
 
 Here, click on the **affiliate name** to view their profile.
 
-![Click on affiliate's name](<../../../.gitbook/assets/Annotation 2020-03-03 013129.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-06-09 155416f (1).png" alt=""><figcaption><p>Click on affiliate's name</p></figcaption></figure>
 
 This will open up the affiliate's profile.
 
-![Affiliate Profile](<../../../.gitbook/assets/Annotation 2020-03-03 013817 (1).png>)
+<figure><img src="../../../.gitbook/assets/image (3752).png" alt=""><figcaption><p>Affiliate Profile</p></figcaption></figure>
 
 Now, go to the **Transactions** tab.
 
-![Transactions tab](<../../../.gitbook/assets/Annotation 2020-03-03 013817.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-06-09 155331 (2).png" alt=""><figcaption><p>Transactions tab</p></figcaption></figure>
 
-Finally, this will open up the affiliate's transactions section.&#x20;
+This will open up the affiliate's transactions section. Here, you can view an affiliate's transactions, including details such as the transaction date, type of transaction, transaction amount, and the final balance (after the transaction).
 
-Here, you can view an affiliate's transactions, including details such as the date of the transaction, type of transaction, the transaction amount, and the final balance (after the transaction).
+{% hint style="info" %}
+You also have the option to [add](add-balance-to-an-affiliates-wallet.md) or [deduct](deduct-amount-from-affiliates-balance.md) an amount from the affiliate's account balance.&#x20;
+{% endhint %}
 
-![](<../../../.gitbook/assets/Annotation 2020-03-03 014503 (1).png>)
+<figure><img src="../../../.gitbook/assets/image (3753).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=63wY5bnwdG0&feature=youtu.be" %}
 View Affiliate Transactions

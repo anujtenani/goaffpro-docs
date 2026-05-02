@@ -12,7 +12,7 @@ The cost of goods deduction option lets you deduct the cost of goods before calc
 
 To enable the cost of goods deduction, go to the **Advanced** section in the **Settings** tab of the GoAffPro admin panel.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3612).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3806).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 
 Here, go to the Cost of Goods deduction section.
 

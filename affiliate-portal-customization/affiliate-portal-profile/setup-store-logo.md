@@ -6,13 +6,17 @@
 
 To set up a store logo for your affiliate program, go to the **Store profile** section in the **Look and Feel** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Look and Feel > Store Profile</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>Look and Feel > Store Profile</p></figcaption></figure>
 
 Here, go to the Store Logo section.
 
 ![Store Logo](<../../.gitbook/assets/image (2747).png>)
 
 Here, click on **Browse** to upload the store logo.
+
+{% hint style="info" %}
+Recommended logo dimensions: Minimum height of 80px and width under 320px to ensure the logo displays properly on mobile phone screens.
+{% endhint %}
 
 ![Click on Browse](<../../.gitbook/assets/Annotation 2020-06-01 233901.png>)
 

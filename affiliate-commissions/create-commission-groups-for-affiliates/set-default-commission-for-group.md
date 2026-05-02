@@ -4,7 +4,7 @@
 
 To set the default commission for the commission group, go to the **Groups** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (159) (1).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
 
 Here, click on **Edit Group**.
 
@@ -30,6 +30,6 @@ Finally, the newly set default commission for the group will appear in the Group
 
 ![](<../../.gitbook/assets/Screenshot 2020-11-16 225307.png>)
 
-{% embed url="https://youtu.be/hM-EIZAQhpc" %}
+{% embed url="https://youtu.be/MkiX7eV02bU" %}
 Set Default Commission for Group
 {% endembed %}

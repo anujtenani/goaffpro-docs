@@ -12,7 +12,7 @@ In case the GoAffPro code gets deleted from the Shopify discounts section:
 
 Open the GoAffPro app and go to the **Coupons** tab. Here, you will see an alert (indicating that the GOAFFPRO code has been removed or deleted).&#x20;
 
-<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (127) (1).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>
 
 Now, click on **Click here**.
 

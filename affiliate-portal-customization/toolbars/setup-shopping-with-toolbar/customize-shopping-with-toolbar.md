@@ -4,7 +4,7 @@
 
 To customize the shopping-with toolbar, go to the **Toolbars** section in the **Look and Feel** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption><p>Look and Feel > Toolbars</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (55) (1).png" alt=""><figcaption><p>Look and Feel > Toolbars</p></figcaption></figure>
 
 Here, click on **Customize** in the Shopping-with Toolbar section.
 
@@ -14,7 +14,7 @@ This will open up the Customize Shopping-with Toolbar window.&#x20;
 
 ![Customize Shopping-with Toolbar](<../../../.gitbook/assets/Annotation 2020-02-18 042015 (1).png>)
 
-You can customize the content that is displayed by the Shopping-with toolbar, by filling in the variables provided in the Show available variables section.&#x20;
+You can customize the content displayed by the Shopping-with toolbar by filling in the variables provided in the Show available variables section.&#x20;
 
 ![Fill in the provided variables in the content field](<../../../.gitbook/assets/Annotation 2020-02-18 042347.png>)
 
@@ -29,6 +29,25 @@ After this, click on **OK**.
 Finally, the newly customized Shopping-with Toolbar will appear in the store.&#x20;
 
 ![](<../../../.gitbook/assets/Annotation 2020-02-18 043156.png>)
+
+<details>
+
+<summary>FAQ</summary>
+
+#### How can the Shopping-with Toolbar message be displayed in different languages based on the user's language preference?
+
+You can use such tags in the content field:&#x20;
+
+\{{#en\}}You are shopping with \{{affiliate\_name\}}\{{/en\}} \{{#fr\}}Vous Magasinez Avec \{{affiliate\_name\}}\{{/fr\}}
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-01-22 1905194.png" alt=""><figcaption><p>Add tags to the Content field</p></figcaption></figure>
+
+It will show the message:&#x20;
+
+* You are shopping with Affiliate Name for English users&#x20;
+* Vous Magasinez Avec Affiliate Name to French users
+
+</details>
 
 {% embed url="https://youtu.be/mU-of4lgOLE" %}
 Customize Shopping-with Toolbar

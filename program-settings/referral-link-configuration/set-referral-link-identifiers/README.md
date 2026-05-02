@@ -8,11 +8,11 @@ The referral link identifier option allows you to set a custom referral identifi
 
 To set up the referral link identifiers, go to the **Advanced** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25) (1).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 
 Here, go to the Referral Link Identifiers section.
 
-<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption><p>Referral Link Identifiers</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26) (1).png" alt=""><figcaption><p>Referral Link Identifiers</p></figcaption></figure>
 
 Now, click on the **Referral Link Identifiers** section.
 
@@ -30,7 +30,7 @@ Finally, the newly set referral link identifiers will be saved.&#x20;
 
 
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Referral link identifier will be saved</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28) (1).png" alt=""><figcaption><p>Referral link identifier will be saved</p></figcaption></figure>
 
 The newly set referral link identifier will work for all affiliate referral links.
 

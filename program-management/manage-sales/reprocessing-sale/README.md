@@ -4,7 +4,7 @@
 
 To reprocess referral sales, go to the **All Sales** section in the **Sales** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (83).png" alt=""><figcaption><p>Sales > All Sales</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (83) (1).png" alt=""><figcaption><p>Sales > All Sales</p></figcaption></figure>
 
 Here, click on **Reject**.
 

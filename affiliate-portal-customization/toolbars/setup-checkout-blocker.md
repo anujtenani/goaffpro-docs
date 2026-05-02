@@ -4,7 +4,7 @@
 
 To set up the checkout blocker in your store, go to the **Toolbars** section in the **Look and Feel** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption><p>Look and Feel > Toolbars</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (54) (1).png" alt=""><figcaption><p>Look and Feel > Toolbars</p></figcaption></figure>
 
 Here, go to the Checkout blocker section.
 

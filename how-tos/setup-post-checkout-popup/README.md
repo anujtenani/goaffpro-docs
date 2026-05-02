@@ -24,8 +24,8 @@ After this, you will be given the option to choose the popup style you want to d
 [simple-popup.md](simple-popup.md)
 {% endcontent-ref %}
 
-{% content-ref url="advanced-popup.md" %}
-[advanced-popup.md](advanced-popup.md)
+{% content-ref url="advanced-popup/" %}
+[advanced-popup](advanced-popup/)
 {% endcontent-ref %}
 
 {% embed url="https://youtu.be/2puCQqB5xGg" %}

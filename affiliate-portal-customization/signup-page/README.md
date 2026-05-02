@@ -4,36 +4,26 @@ description: Customize the signup page of the affiliate portal
 
 # Customize Signup Page
 
-**Signup Page** section can be used to customize the signup page of the affiliate portal. It is used by people to register for the affiliate program.&#x20;
+The **Signup Page** section allows customization of the affiliate portal's signup page, which is used by individuals who wish to register for the affiliate program. This page includes fields that must be completed by those wanting to become affiliates.
 
-It consists of fields that are filled by the person who wants to become an affiliate. The affiliate can also register using social media logins with their Facebook or Google accounts. &#x20;
+#### You can choose from the following styles for your signup page:
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Signup page</p></figcaption></figure>
+* [Slim](slim-style.md)
+* [Classic](classic-style.md)&#x20;
+* [Modern](modern-style.md)&#x20;
 
-The **Signup Page** can be customized, based on the layouts provided by GoAffPro
+#### You also have options for:
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+* [Additional Fields for Signup Page](additional-signup-fields-for-signup-page/)
+* [Create New Signups Fields](create-new-signup-field/)
+* [Disable Social Media Logins](disable-social-media-login.md)
 
-#### There are three layout options that you can choose from:
+Go to the **Look and Feel** > **Signup page** section in the admin panel of the GoAffPro app.
 
-**Slim**
+<figure><img src="../../.gitbook/assets/image (272).png" alt=""><figcaption><p>Look and Feel > Signup page</p></figcaption></figure>
 
-{% content-ref url="slim-layout.md" %}
-[slim-layout.md](slim-layout.md)
-{% endcontent-ref %}
-
-**Classic**
-
-{% content-ref url="classic-layout.md" %}
-[classic-layout.md](classic-layout.md)
-{% endcontent-ref %}
-
-**Modern**
-
-{% content-ref url="modern-layout.md" %}
-[modern-layout.md](modern-layout.md)
-{% endcontent-ref %}
+**For more information on the signup page customization, check out the video below:**
 
 {% embed url="https://youtu.be/fBfjw4gJKeE" %}
-Signup Page
+Signup Page Customization
 {% endembed %}

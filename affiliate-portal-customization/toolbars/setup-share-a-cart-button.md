@@ -1,3 +1,7 @@
+---
+description: For Shopify Platform Users Only
+---
+
 # Setup Share A Cart Button
 
 **GoAffPro** provides you with the option to set up the share a cart button for your store.&#x20;
@@ -8,7 +12,7 @@ The share a cart button can be added to your store's cart page. It will allow yo
 
 To set up the share a cart button for your store, go to the **Toolbars** section in the **Look and Feel** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (223).png" alt=""><figcaption><p>Look and Feel > Toolbars</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (223) (1).png" alt=""><figcaption><p>Look and Feel > Toolbars</p></figcaption></figure>
 
 Here, go to the Share A Cart section.
 
@@ -26,7 +30,7 @@ Here, go to the Themes section and click on **Customize**.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-09-23 133453f.png" alt=""><figcaption><p>Themes > Click on Customize</p></figcaption></figure>
 
-Go to Home page > Select the Cart option.
+Go to the Home page > Select the Cart option.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-09-23 1335263.png" alt=""><figcaption><p>Home page > Cart</p></figcaption></figure>
 

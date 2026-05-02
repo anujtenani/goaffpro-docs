@@ -1,8 +1,12 @@
+---
+description: At $49/month
+---
+
 # Premium Plan Membership
 
 You can upgrade your GoAffPro membership to the [premium plan](https://goaffpro.com/pricing). A premium membership provides you with a host of additional features.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3320).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3775).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -12,12 +16,14 @@ You can upgrade your GoAffPro membership to the [premium plan](https://goaffpro.
 
 * Legal page editing&#x20;
 * Signup page styles (modern and classic)&#x20;
+* Multiple signup pages
 * New dashboard pages&#x20;
 * Facebook Pixel ID (for affiliates)&#x20;
 * Custom JavaScript code
 
 **Commissions**
 
+* Product Commission (bulk mode)
 * Collection Commission&#x20;
 * Royalties Commission&#x20;
 * Rule based Royalties&#x20;
@@ -25,6 +31,7 @@ You can upgrade your GoAffPro membership to the [premium plan](https://goaffpro.
 
 **Coupons**
 
+* Dynamic Coupons
 * Detect Coupon Leaks&#x20;
 * Personal Coupons (automatic generation)
 
@@ -32,10 +39,18 @@ You can upgrade your GoAffPro membership to the [premium plan](https://goaffpro.
 
 * S2S Callback (Postback) for affiliates
 
-**Creatives**
+**Digital Assets**
 
-* Creative media upload (size limit removed)&#x20;
-* Creative media upload (upload videos and documents)
+* Media upload (size limit removed)&#x20;
+* Media upload (upload videos and documents)
+
+**Recruit**
+
+* Invite influencers&#x20;
+
+**Marketplace**
+
+* Marketplace listing
 
 **Post Checkout Popup**
 
@@ -50,7 +65,11 @@ You can upgrade your GoAffPro membership to the [premium plan](https://goaffpro.
 
 * Multi level affiliate network
 
-**Email Settings**
+**Analytics**
+
+* Annual reports
+
+**Notification Settings**
 
 * From Email (notification email address)&#x20;
 * Notification email template customization
@@ -69,18 +88,21 @@ You can upgrade your GoAffPro membership to the [premium plan](https://goaffpro.
 * Customer Affiliate Connect (recurring commissions)&#x20;
 * Affiliate Groups&#x20;
 * Party Plans (upto 100 events)
-* Multiple Signup Pages&#x20;
 * Affiliate Store&#x20;
 * Affiliate Public Store&#x20;
-* Affiliate Page Builder&#x20;
 * Influencer Seeding&#x20;
 * Membership Fees&#x20;
 * W9 Form&#x20;
 * Invoices
+* Earnings Report
+* Legal Documents
+* Webhooks
 
 **Third Party Integrations**
 
 * Account Sync&#x20;
+* Order Tags&#x20;
+* Customer Tags
 * Mailchimp Sync&#x20;
 * Omnisend Sync&#x20;
 * Klaviyo Sync&#x20;
@@ -94,13 +116,12 @@ You can upgrade your GoAffPro membership to the [premium plan](https://goaffpro.
 
 **Advanced Settings**
 
+* Multiple Referral Codes&#x20;
 * Referral Link Parameters&#x20;
 * Blocked IP/Origins&#x20;
 * Affiliate Conflict Resolution&#x20;
 * Generate Shortened Links (Bitly/Shopify/Cuttly)&#x20;
-* Multiple Referral Codes&#x20;
-* Order Tags&#x20;
-* Customer Tags&#x20;
+* Third Party Tracking
 * Affiliate Portal Alias
 
 </details>
@@ -113,7 +134,7 @@ You can upgrade your GoAffPro membership to the [premium plan](https://goaffpro.
 
 #### Advanced Analytics
 
-* Users get to see advanced analytics which helps them better understand their affiliate program. This data helps in improving the affiliate program and increasing its performance.
+* Users can access advanced analytics that enhances their understanding of the affiliate program. This information contributes to the improvement and performance enhancement of the affiliate program.
 
 #### **Multi-Level Marketing & Recruitment**
 
@@ -129,8 +150,8 @@ You can upgrade your GoAffPro membership to the [premium plan](https://goaffpro.
 * Send emails to your affiliates using the email marketing feature. You can set up bulk or drip email campaigns.
 * It lets you stay in constant communication with your affiliates thereby maintaining a better merchant-affiliate partnership.
 
-{% content-ref url="../bulk-mail.md" %}
-[bulk-mail.md](../bulk-mail.md)
+{% content-ref url="../email-marketing.md" %}
+[email-marketing.md](../email-marketing.md)
 {% endcontent-ref %}
 
 #### Third-Party Integration
@@ -165,14 +186,14 @@ You can upgrade your GoAffPro membership to the [premium plan](https://goaffpro.
 * Connect affiliates with customers, whenever the connected customer makes a purchase the set affiliate will get the commission.
 * It can also be used to provide your affiliates with a commission for recurring payments made by the customers like for a subscription.
 
-{% content-ref url="../goaffpro/admin-panel/setup/connections-customer-affiliate-connect.md" %}
-[connections-customer-affiliate-connect.md](../goaffpro/admin-panel/setup/connections-customer-affiliate-connect.md)
+{% content-ref url="../goaffpro/admin-panel/setup/connections.md" %}
+[connections.md](../goaffpro/admin-panel/setup/connections.md)
 {% endcontent-ref %}
 
 #### Affiliate Groups
 
 * Create commission groups for affiliates in your program. It allows you to create independent commission structures within each affiliate group.
-* It allows for easier management of different types of affiliates with different commission structures.
+* It allows for easier management of various types of affiliates with different commission structures.
 
 {% content-ref url="../goaffpro/admin-panel/setup/groups.md" %}
 [groups.md](../goaffpro/admin-panel/setup/groups.md)
@@ -194,8 +215,8 @@ You can upgrade your GoAffPro membership to the [premium plan](https://goaffpro.
 * Use custom email templates when sending emails to your affiliates. Make use of custom email templates for weekly newsletters, etc. to communicate with your affiliates.
 * This helps in personalizing email newsletters and communication.
 
-{% content-ref url="../bulk-mail.md" %}
-[bulk-mail.md](../bulk-mail.md)
+{% content-ref url="../email-marketing.md" %}
+[email-marketing.md](../email-marketing.md)
 {% endcontent-ref %}
 
 **Signup Page Customization**

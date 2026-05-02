@@ -8,13 +8,13 @@ The account pending message is displayed to affiliates in their dashboard when t
 
 To customize the account pending message, go to the **General** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (90).png" alt=""><figcaption><p>Settings > General</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (90) (1).png" alt=""><figcaption><p>Settings > General</p></figcaption></figure>
 
 Here, go to the Affiliate Registrations section.&#x20;
 
 ![Affiliate Registrations](<../../../.gitbook/assets/image (1173).png>)
 
-Now, click on **Customize Account Pending Message**
+Now, click on **Customize Account Pending Message.**
 
 ![Click on Customize Account Pending Message](<../../../.gitbook/assets/Annotation 2020-04-01 012216.png>)
 

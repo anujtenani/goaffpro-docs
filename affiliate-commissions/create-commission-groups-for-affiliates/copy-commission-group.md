@@ -4,7 +4,7 @@
 
 To create a copy of the commission group, go to the **Groups** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (186).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (186) (1).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
 
 Here, click on **Edit Group**.
 
@@ -16,7 +16,7 @@ This will open up the Edit group section
 
 Now, click on **Create a copy**.
 
-![Click on Create a copy](<../../.gitbook/assets/Screenshot 2021-03-24 033853.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2025-03-03 1435362.png" alt=""><figcaption><p>Click on Create a copy</p></figcaption></figure>
 
 After this, you can set up the newly copied commission group.
 

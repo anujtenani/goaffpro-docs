@@ -4,7 +4,7 @@
 
 To set up the contact page URL for the affiliate portal, go to the **Store profile** section in the **Look and Feel** tab of the GoAffPro admin panel.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Look and Feel > Store Profile</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>Look and Feel > Store Profile</p></figcaption></figure>
 
 Here, go to the Contact Page section.
 

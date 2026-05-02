@@ -6,7 +6,9 @@ You can use the **Automatic Coupons** feature to generate referral coupons for y
 * [Change Discount Type](https://docs.goaffpro.com/affiliate-coupons/setup-referral-coupons/automatically-generate-coupons-for-affiliates/change-discount-type-for-automatic-coupons)
 * [Change Discount Value](https://docs.goaffpro.com/affiliate-coupons/setup-referral-coupons/automatically-generate-coupons-for-affiliates/change-discount-value-for-automatic-coupons)
 * [Set Coupon Usage Limits](automatically-generate-coupons/set-coupon-usage-limits.md)
+* [Set Customer Segment](automatically-generate-coupons/set-customer-segment.md)
 * [Set Minimum Order Value](https://docs.goaffpro.com/affiliate-coupons/setup-referral-coupons/automatically-generate-coupons-for-affiliates/set-minimum-order-value-for-coupons)
+* [Set Minimum Cart Quantity](automatically-generate-coupons/set-minimum-cart-quantity.md)
 * [Limit Coupon Usage to Products](https://docs.goaffpro.com/affiliate-coupons/setup-referral-coupons/automatically-generate-coupons-for-affiliates/limit-coupon-usage-to-products)
 * [Limit Coupon Usage to Collections](https://docs.goaffpro.com/affiliate-coupons/setup-referral-coupons/automatically-generate-coupons-for-affiliates/limit-coupon-usage-to-collections)&#x20;
 * [Set Coupons to Combine](https://docs.goaffpro.com/affiliate-coupons/setup-referral-coupons/automatically-generate-coupons-for-affiliates/set-coupons-to-combine)

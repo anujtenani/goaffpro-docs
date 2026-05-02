@@ -4,7 +4,7 @@
 
 To approve or reject an affiliate account, go to the **Pending Approval** section in the **Affiliates** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (87).png" alt=""><figcaption><p>Affiliates > Pending Approval</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (87) (1).png" alt=""><figcaption><p>Affiliates > Pending Approval</p></figcaption></figure>
 
 Here, you have the option to either **Approve** or **Reject** an affiliate's account.&#x20;
 

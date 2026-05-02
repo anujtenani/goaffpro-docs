@@ -8,7 +8,7 @@ The affiliate portal alias option allows you to create multiple aliases or names
 
 To set up aliases for your affiliate portal, go to the **Advanced** section of the **Settings** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 
 Here, go to the Affiliate portal alias section.
 

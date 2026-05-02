@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Prevent Connections for Existing Customers
 
 **GoAffPro** provides you with the option to prevent customer-affiliate connections from getting created for existing store customers.

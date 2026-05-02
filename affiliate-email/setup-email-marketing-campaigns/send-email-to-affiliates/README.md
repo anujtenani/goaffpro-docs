@@ -3,6 +3,7 @@ description: >-
   The quick email option has now been deprecated in favor of the email marketing
   campaign option.
 hidden: true
+noIndex: true
 ---
 
 # Quick Email
