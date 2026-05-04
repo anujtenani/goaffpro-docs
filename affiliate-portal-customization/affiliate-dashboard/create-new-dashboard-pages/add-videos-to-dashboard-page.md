@@ -6,9 +6,9 @@ To add videos to the affiliate dashboard page, go to the **Affiliate dashboard**
 
 <figure><img src="../../../.gitbook/assets/image (3636).png" alt=""><figcaption><p>Look and Feel > Affiliate Dashboard</p></figcaption></figure>
 
-Here, click on **New custom page**.
+Here, in the Dashboard Tabs section, click on **New custom page**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-11-28 130910 (1).png" alt=""><figcaption><p>Click on New custom page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2022-11-28 130910 (1).png" alt=""><figcaption><p>Dashboard Tabs > Click on New custom page</p></figcaption></figure>
 
 This will open up the Custom page section.
 
