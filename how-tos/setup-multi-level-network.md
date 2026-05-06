@@ -38,11 +38,17 @@
 [test-mlm-network-in-playground.md](../multi-level-affiliate-network/enable-multi-level-marketing/test-mlm-network-in-playground.md)
 {% endcontent-ref %}
 
-#### Check out how the multi level commission distribution works:&#x20;
-
 <details>
 
-<summary>Multi Level Commission Distribution Example</summary>
+<summary>FAQ</summary>
+
+#### **How do affiliates recruit downlines under them?**
+
+Affiliates can recruit downlines by sharing the unique network link provided in their dashboard. When they share this link with potential recruits and someone clicks on it to register for the program, that person will automatically be assigned as a downline under the affiliate.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-07 023641.png" alt=""><figcaption></figcaption></figure>
+
+#### **Multi Level Commission Distribution Example:**
 
 If you have an affiliate network with affiliates A, B, and C (where affiliate A recruited affiliate B and affiliate B recruited affiliate C)
 
@@ -61,7 +67,7 @@ If you have an affiliate network with affiliates A, B, and C (where affiliate A 
 
 * Affiliate A will earn the referral commission
 
-#### Note:
+**Note:**
 
 * The parent of the affiliate (who refers the sale) will always earn the level 1 commission.
 * The referral commission here is the commission that is set in the commissions tab (or can also be called direct commission)
