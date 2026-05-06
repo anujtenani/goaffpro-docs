@@ -4,6 +4,64 @@ description: New Features & Updates
 
 # Changelog
 
+### April 2026
+
+#### Developer Section
+
+A [developer section](admin-panel/settings/developer.md) has been added to the program settings, which has all the developer features listed:
+
+* Webhooks
+* Access Tokens
+* Debug Integration
+* Custom Javascript
+* Tracking performance
+
+You can find this in the Settings > Developer section.
+
+<figure><img src="../.gitbook/assets/image (3872).png" alt=""><figcaption><p>Settings > Developer</p></figcaption></figure>
+
+#### Extras section&#x20;
+
+The [account owner](../program-settings/extra-settings/transfer-account-ownership.md) and [two-factor authentication](../program-settings/extra-settings/setup-two-factor-authentication/) options have now been moved to the extras section in the program settings.&#x20;
+
+You can find these options in the Settings > Extras section.&#x20;
+
+<figure><img src="../.gitbook/assets/image (3873).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
+
+***
+
+### March 2026
+
+#### Geo-Blocking Affiliate Signups
+
+Set up [geo-restrictions](../program-settings/manage-affiliate-registrations/setup-geo-blocking-for-affiliate-registrations.md) for affiliate signups in your program by whitelisting or blacklisting countries.&#x20;
+
+You can set this from the Settings > General > Affiliate Registrations section.&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-07 0107002.png" alt=""><figcaption><p>Settings > General > Affiliate Registrations > Setup Geo-Blocking</p></figcaption></figure>
+
+#### Personal Coupon Configuration
+
+Set up the [customer eligibility](../affiliate-coupons/setup-personal-coupons/automatically-generate-personal-coupons/set-customer-segment-for-personal-coupons.md) for personal coupons of affiliates.
+
+You can set them from the Coupons > Personal Coupons > Click on Change > Setup Personal Coupons section.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-07 0113294.png" alt=""><figcaption><p>Coupons > Personal Coupons > Click on Change > Customer Segments option</p></figcaption></figure>
+
+***
+
+### February 2026
+
+#### Manager Account Access
+
+The manager accounts option now allows you to [limit access](../program-settings/create-affiliate-program-manager/manager-account-accessibility.md) for managers to sections with read or write permissions.&#x20;
+
+You can set this from the Settings > Extras > Manager accounts section.&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-07 0058192.png" alt=""><figcaption><p>Settings > Extras > Manager accounts > Limit manager access</p></figcaption></figure>
+
+***
+
 ### January 2026
 
 #### Default Sponsor
@@ -32,7 +90,7 @@ You can set this from the Targets > Settings > Target Bonus section.&#x20;
 
 #### Earnings Report
 
-Enable affiliates to download a [payout earnings report](../program-settings/extra-settings/earnings-report-for-affiliates.md) from their dashboard in a PDF format. It also lets you customize the earnings report template.&#x20;
+Enable affiliates to download a [payout earnings report](../program-settings/extra-settings/earnings-report-for-affiliates.md) from their dashboard in PDF format. It also lets you customize the earnings report template.&#x20;
 
 You can enable the Earnings Report option from the Settings > Extras section.&#x20;
 
@@ -353,7 +411,7 @@ You can enable this from the Look and Feel > Store Profile > Prevent Indexing se
 
 #### Coupon Templates
 
-Create [coupon templates ](../affiliate-coupons/setup-referral-coupons/create-coupon-templates.md)with custom configurations and assign coupons to affiliates using that template.&#x20;
+Create [coupon templates](../affiliate-coupons/setup-referral-coupons/create-coupon-templates.md) with custom configurations and assign coupons to affiliates using those template.&#x20;
 
 You can create the coupon template from the Coupons > Automatic Coupons > Create coupon template option.&#x20;
 
@@ -365,7 +423,7 @@ Here, you can create the coupon template and then [assign coupons](https://docs.
 
 #### Personal Coupon Templates
 
-Create [personal coupon templates](../affiliate-coupons/setup-personal-coupons/create-personal-coupon-templates.md) with custom configurations and assign personal coupons to affiliates using that template.&#x20;
+Create [personal coupon templates](../affiliate-coupons/setup-personal-coupons/create-personal-coupon-templates.md) with custom configurations and assign personal coupons to affiliates using those templates.&#x20;
 
 You can create the coupon template from the Coupons > Personal Coupons > Create coupon template option.&#x20;
 
@@ -375,7 +433,7 @@ You can create the coupon template from the Coupons > Personal Coupons > Create 
 
 Give a user [account access](../program-management/manage-affiliates/affiliate-profile-settings/set-affiliate-manager.md) to the dashboard of other affiliates.&#x20;
 
-You can set this from the Affiliates > All Affiliates section. Click on the affiliate's name to open their profile page. Next, go to Settings > Manage other affiliates section.
+You can set this from the Affiliates > All Affiliates section. Click on the affiliate's name to open their profile page. Next, go to the Settings > Manage other affiliates section.
 
 <figure><img src="../.gitbook/assets/image (3812).png" alt=""><figcaption><p>Affiliates > All Affiliates > Click on the affiliate's name > Affiliate Profile > Settings > Manage other affiliates</p></figcaption></figure>
 
@@ -391,7 +449,7 @@ When this account user logs into their dashboard, they can select the affiliate 
 
 To enable the Post Checkout Popup in Shopify stores, merchants must now integrate the [post checkout popup block](../how-tos/setup-post-checkout-popup/shopify-popup-integration.md) into the thank you page.&#x20;
 
-You can do this from the Shopify admin panel > Online Stores > Theme > Customize. Here, go to Checkout and new customer accounts page > Thank you page > Add app block > Select Post Checkout Popup block.&#x20;
+You can do this from the Shopify admin panel > Online Stores > Theme > Customize. Here, go to the Checkout and new customer accounts page > Thank you page > Add app block > Select Post Checkout Popup block.&#x20;
 
 <figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption><p>Shopify admin panel > Online Stores > Theme > Customize > Checkout &#x26; new customers > Thank you > Add block > Post Checkout Popup</p></figcaption></figure>
 
@@ -425,7 +483,7 @@ You can integrate this from the Settings > Integrations > Zendesk SSO section.&#
 
 #### Recruit Feature
 
-The recruit option allows you to [find and recruit influencers](../how-tos/recruiting-affiliates/recruit-influencers.md) for your affiliate program. It helps you locate influencers within your niche, region, or category, and lets you invite them to join your program.
+The recruit option allows you to [find and recruit influencers](../how-tos/recruiting-affiliates/recruit-influencers.md) for your affiliate program. It helps you locate influencers within your niche, region, or category and lets you invite them to join your program.
 
 You can go to the Recruit tab and search for influencers to invite from there.&#x20;
 
