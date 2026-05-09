@@ -26,6 +26,6 @@ Finally, affiliates will earn the commission on any future payments made by the 
 
 <figure><img src="../../../.gitbook/assets/image (3860).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://youtu.be/En3rBxys60w" %}
+{% embed url="https://youtu.be/FqbXGMOiPo0" %}
 Commission for Recurring Payments
 {% endembed %}

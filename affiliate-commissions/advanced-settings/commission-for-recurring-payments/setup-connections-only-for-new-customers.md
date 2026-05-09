@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Setup Connections Only for New Customers
 
 **GoAffPro** provides you with the option to set up customer-affiliate connections only for new customers.&#x20;
