@@ -11,7 +11,7 @@
 ### Use Order Notes
 
 * When creating the order via the POS system, ask the customer for the affiliate's referral code.
-* After that, add the affiliate's referral code in the order notes, while creating the customer's order in the POS system.
+* After that, add the affiliate's referral code in the order notes while creating the customer's order in the POS system.
 * Our system will automatically attribute the order to the affiliate.
 
 ### Use Customer-Affiliate Connect
@@ -48,4 +48,30 @@
 
 {% content-ref url="../../affiliate-coupons/setup-referral-coupons/automatically-generate-coupons/" %}
 [automatically-generate-coupons](../../affiliate-coupons/setup-referral-coupons/automatically-generate-coupons/)
+{% endcontent-ref %}
+
+### Use User/Location IDs of POS Machine
+
+#### POS Machine User ID for Order Mapping
+
+* Every Shopify POS machine has user accounts. These user accounts have a unique user ID. You can map this **user ID** to the affiliate ID in the program.&#x20;
+* Go to Settings > Advanced > Referral Link section and enable the Multiple Referral Codes option. Next, enter this user's ID as an additional referral code in their affiliate account.
+* After that, whenever this user creates an order in the POS machine, it will automatically be attributed to their affiliate account.
+
+**Here is the guide for setting the POS machine user ID as an additional referral code for the affiliate:**&#x20;
+
+{% content-ref url="../../program-settings/referral-link-configuration/enable-multiple-referral-codes-for-affiliates/set-multiple-referral-codes.md" %}
+[set-multiple-referral-codes.md](../../program-settings/referral-link-configuration/enable-multiple-referral-codes-for-affiliates/set-multiple-referral-codes.md)
+{% endcontent-ref %}
+
+#### POS Machine Location ID for Order Mapping
+
+* If you have multiple retail locations, each with POS machines. You can map the **location ID** of the POS machine to the affiliate in the program.&#x20;
+* Go to the Commissions > Royalty Commissions > Rule based tracking section. Here, create the rule with "Point of sale Source ID" option > set the location ID as the matching value, and select the affiliate.&#x20;
+* After that, any sale made using that location's POS system will automatically be attributed to the affiliate.&#x20;
+
+**Here is the guide for creating rule based tracking to map the POS machine location ID to the affiliate:**&#x20;
+
+{% content-ref url="../../affiliate-commissions/advanced-settings/setup-rule-based-tracking-for-sales/" %}
+[setup-rule-based-tracking-for-sales](../../affiliate-commissions/advanced-settings/setup-rule-based-tracking-for-sales/)
 {% endcontent-ref %}

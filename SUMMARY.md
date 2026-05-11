@@ -40,6 +40,7 @@
 * [Prevent Unwanted Registrations](how-tos/prevent-unwanted-registrations.md)
 * [Prevent Affiliate Fraud](how-tos/prevent-affiliate-fraud.md)
 * [Shopify POS Support](how-tos/shopify-pos-support/README.md)
+  * [Order Mapping with Shopify POS](how-tos/shopify-pos-support/order-mapping-with-shopify-pos.md)
   * [GoAffPro Tile Integration for Shopify POS](how-tos/shopify-pos-support/goaffpro-tile-integration-for-shopify-pos.md)
 * [Manual Integration](how-tos/manual-integration/README.md)
   * [Custom Shopify Integration](how-tos/manual-integration/custom-shopify-integration.md)
