@@ -209,11 +209,13 @@ Affiliates can use the product link generator tool located in the marketing tool
 
 ### Can I sync multiple store programs?
 
-We do offer a [multi-site connection](https://help.goaffpro.com/article/multi-site-connection) option for merchants. We can connect the stores in such a way that the link/coupon code of one store would work on all the other stores too.\
-\
-Affiliate accounts are automatically replicated across all the connected stores. They can access the stats of all the stores from within their dashboard by switching stores. Their referral link and coupon code will work in all the stores (even with customers hopping across stores).\
-\
-We will also provide you (merchant) with a master dashboard to manage all the store programs from the same panel. You can contact us at admin@goaffpro.com for more information.&#x20;
+In the multi-store connect model, affiliates can register through any store portal, and their accounts sync across all programs. They can view statistics and quickly switch between stores. Admins manage each store independently via a master dashboard, with sales and payouts managed separately for each program.
+
+**Affiliate End:** Affiliates can enroll through any of the store portals. Their accounts will sync across all stores, allowing them to log in to the store portal and access the statistics of all the store programs through quick store switching. Affiliate links and coupons from one store will also work for all the other stores.
+
+**Merchant End:** We provide admins with a master dashboard to manage each store independently (via the dashboard switcher). Referral sales and commission payouts are managed separately in each store program.
+
+If you are interested in multi-site connection for your stores, you can install GoAffPro in your stores and confirm it to us at: [admin@goaffpro.com](https://help.goaffpro.com/article/admin@goaffpro.com)
 
 ### How to set up GoAffPro with Shopify Markets?
 
