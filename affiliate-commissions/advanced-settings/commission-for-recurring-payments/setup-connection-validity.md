@@ -26,6 +26,6 @@ After this, the connections will automatically expire after the validity period.
 
 ![](<../../../.gitbook/assets/image (944).png>)
 
-{% embed url="https://www.youtube.com/watch?v=5oaxkzH0Yys" %}
+{% embed url="https://youtu.be/a2x5tPG7MJA" %}
 Setup Connection Validity
 {% endembed %}
