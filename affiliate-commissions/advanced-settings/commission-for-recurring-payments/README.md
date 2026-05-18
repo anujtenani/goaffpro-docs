@@ -24,6 +24,10 @@ After this, enable the "Link customer to referring affiliate on first order" opt
 
 Finally, affiliates will earn the commission on any future payments made by the customer.
 
+{% hint style="info" %}
+You can also choose to connect only new customers with affiliates by enabling the "Connect only new customers" option.
+{% endhint %}
+
 <figure><img src="../../../.gitbook/assets/image (3860).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/FqbXGMOiPo0" %}
