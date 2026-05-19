@@ -62,6 +62,8 @@ background-color: #xxxxxx !important;
 /* Replace the #xxxxxx with the hex color of your choice */
 ```
 
+After this, click on **Submit**.
+
 <figure><img src="../../.gitbook/assets/Screenshot 2023-04-07 000615.png" alt=""><figcaption><p>Add the code and click on Submit</p></figcaption></figure>
 
 The footer color will get set as per the color you set (in the code).
@@ -81,6 +83,8 @@ Go to the Look and Feel > Affiliate Dashboard > Custom CSS section and paste the
     text-align: center;
 }
 ```
+
+After this, click on **Submit**.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-01-01 1432123.png" alt=""><figcaption><p>Add the code and click on Submit</p></figcaption></figure>
 
