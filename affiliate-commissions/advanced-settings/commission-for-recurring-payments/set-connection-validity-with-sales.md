@@ -30,6 +30,6 @@ After this, the connection will automatically expire after the set number of sal
 
 <figure><img src="../../../.gitbook/assets/image (3880).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://www.youtube.com/watch?v=un56SffnuZ0&feature=youtu.be" %}
+{% embed url="https://youtu.be/wkNyHJdAWH0" %}
 Set Connection Validity with Sales
 {% endembed %}
