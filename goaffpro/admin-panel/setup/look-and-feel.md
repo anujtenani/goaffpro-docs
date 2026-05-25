@@ -83,7 +83,7 @@ The **Affiliate Dashboard** section can be used to customize the affiliate dashb
 
 1. Dashboard Tabs
 2. Widgets and Analytics
-3. Tracking Modes
+3. Referral & Coupon Options
 4. Logo
 5. Dashboard Navigation Style
 6. Dashboard Colors
