@@ -1,3 +1,7 @@
+---
+description: For Shopify Platform Users Only
+---
+
 # Delete Coupon from GoAffPro App Code
 
 #### To delete a coupon code from the GoAffPro App code:

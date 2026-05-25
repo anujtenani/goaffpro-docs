@@ -1,3 +1,7 @@
+---
+description: For Shopify Platform Users Only
+---
+
 # Deactivate Affiliate Coupon Codes
 
 **GoAffPro** provides you with the option to disable affiliate coupons that are created within the app.

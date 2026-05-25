@@ -199,10 +199,10 @@
 * [Advanced Settings](affiliate-coupons/advanced-settings/README.md)
   * [Set Coupon Code on Signup](affiliate-coupons/advanced-settings/set-coupon-code-on-signup.md)
   * [Update Coupon Codes](affiliate-coupons/advanced-settings/update-coupon-codes.md)
-  * [Deactivate Affiliate Coupon Codes](affiliate-coupons/advanced-settings/deactivate-affiliate-coupons.md)
-  * [Delete Coupon from GoAffPro App Code](affiliate-coupons/advanced-settings/delete-coupon-from-goaffpro-app-code.md)
   * [Restore GoAffPro App Code](affiliate-coupons/advanced-settings/restore-goaffpro-app-code.md)
   * [Disable Coupon Code Tracking](affiliate-coupons/advanced-settings/disable-coupon-code-tracking.md)
+  * [Deactivate Affiliate Coupon Codes](affiliate-coupons/advanced-settings/deactivate-affiliate-coupons.md)
+  * [Delete Coupon from GoAffPro App Code](affiliate-coupons/advanced-settings/delete-coupon-from-goaffpro-app-code.md)
 
 ## Program Management
 
@@ -446,8 +446,7 @@
   * [Add YouTube Video to Landing Page](affiliate-portal-customization/advanced-customization/add-youtube-video-to-landing-page.md)
   * [Add Profile Picture Field for Affiliates](affiliate-portal-customization/advanced-customization/add-profile-picture-field-for-affiliates.md)
   * [Widgets and Analytics](affiliate-portal-customization/advanced-customization/widgets-and-analytics.md)
-  * [Disable Referral Link Tracking](affiliate-portal-customization/advanced-customization/disable-referral-link-tracking/README.md)
-    * [Tracking Modes](affiliate-portal-customization/advanced-customization/disable-referral-link-tracking/tracking-modes.md)
+  * [Disable Referral Link Tracking](affiliate-portal-customization/advanced-customization/disable-referral-link-tracking.md)
   * [Setup Affiliate Portal Tracking](affiliate-portal-customization/advanced-customization/affiliate-portal-tracking/README.md)
     * [Portal Tracking with Facebook Pixel](affiliate-portal-customization/advanced-customization/affiliate-portal-tracking/portal-tracking-with-facebook-pixel.md)
   * [Add Custom CSS & JavaScript Code](affiliate-portal-customization/advanced-customization/add-custom-css-and-javascript-code.md)

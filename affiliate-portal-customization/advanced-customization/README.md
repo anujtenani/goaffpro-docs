@@ -10,7 +10,7 @@
 * [Add YouTube video to the landing page](add-youtube-video-to-landing-page.md)
 * [Add profile picture field for affiliates](add-profile-picture-field-for-affiliates.md)
 * [Widgets and analytics](widgets-and-analytics.md)
-* [Disable referral link tracking](disable-referral-link-tracking/)
+* [Disable referral link tracking](disable-referral-link-tracking.md)
 * [Setup affiliate portal tracking](affiliate-portal-tracking/)
 * [Add custom CSS & JavaScript code](add-custom-css-and-javascript-code.md)
 * [Enable Linkything for affiliates](enable-linkything-for-affiliates.md)
