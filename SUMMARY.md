@@ -132,6 +132,7 @@
   * [Commission for Recurring Payments](affiliate-commissions/advanced-settings/commission-for-recurring-payments/README.md)
     * [Setup Connection Validity](affiliate-commissions/advanced-settings/commission-for-recurring-payments/setup-connection-validity.md)
     * [Set Connection Validity with Sales](affiliate-commissions/advanced-settings/commission-for-recurring-payments/set-connection-validity-with-sales.md)
+    * [Set Connection on Customer Signup](affiliate-commissions/advanced-settings/commission-for-recurring-payments/set-connection-on-customer-signup.md)
     * [Setup Connections Only for New Customers](affiliate-commissions/advanced-settings/commission-for-recurring-payments/setup-connections-only-for-new-customers.md)
   * [Disable Commission on a Product](affiliate-commissions/advanced-settings/disable-commission-on-a-product/README.md)
     * [Disable Commission on Tips](affiliate-commissions/advanced-settings/disable-commission-on-a-product/disable-commission-on-tips.md)
