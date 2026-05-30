@@ -17,3 +17,7 @@ Now, enable the "**Link customer to referring affiliate on account signup**" opt
 Finally, affiliates will earn the commission on any future purchases made by the customer.
 
 <figure><img src="../../../.gitbook/assets/image (3890).png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://youtu.be/mGxCPe4Yk38" %}
+Set Connection on Customer Signup
+{% endembed %}
