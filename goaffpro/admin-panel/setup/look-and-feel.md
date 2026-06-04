@@ -51,7 +51,7 @@ The **Landing Page** section can be used to customize the affiliate portal's lan
 
 There is also an option to add Custom HTML sections to the landing page.
 
-![Landing page](<../../../.gitbook/assets/Annotation 2020-07-27 144722.png>)
+<figure><img src="../../../.gitbook/assets/image (3894).png" alt=""><figcaption><p>Landing page</p></figcaption></figure>
 
 **For information on how to customize the Landing Page:**
 
@@ -69,7 +69,7 @@ There are 3 signup page styles that you can choose from:
 2. Slim
 3. Modern
 
-![Signup page](<../../../.gitbook/assets/image (1803).png>)
+<figure><img src="../../../.gitbook/assets/image (3893).png" alt=""><figcaption><p>Signup page</p></figcaption></figure>
 
 **For information on how to customize the Signup Page:**
 
@@ -91,7 +91,7 @@ The **Affiliate Dashboard** section can be used to customize the affiliate dashb
 8. Custom JavaScript code
 9. Affiliate Portal Tracking
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-02-14 004507 (1).png" alt=""><figcaption><p>Affiliate Dashboard</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3892).png" alt=""><figcaption><p>Affiliate Dashboard</p></figcaption></figure>
 
 **For information on how to customize the Affiliate Dashboard Page:**
 

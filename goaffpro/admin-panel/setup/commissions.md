@@ -71,18 +71,25 @@ Here, you can select the rule, set the matching value, and set the commission ra
 <summary>Rules Available</summary>
 
 * Product name
+* Product quantity
 * Product SKU
-* Product Tag
-* Product Vendor
-* Product Type
+* Product vendor
+* Order tag
+* Order number
+* Gift card is used in the order
+* Payment gateway
 * Customer is first time customer
 * Customer is old customer/recurring customer
+* Sub ID
+* Landing Page URL
+* POS source
 * Coupon code
 * Customer email
 * Discount percentage (on order)
 * Discount percentage (on product)
 * Order subtotal
 * Order total
+* Conversion source
 
 </details>
 
@@ -187,8 +194,15 @@ Here, you can select different conditions, set the matching value, and select th
 * Customer email matches
 * Customer tag matches
 * Order tag matches
+* Order source
+* Point of sale Source ID
 * Payment gateway matches
 * Sub ID
+* Product name
+* Product SKU
+* Product Vendor
+* Landing Page URL
+* Referring Page URL
 
 </details>
 
@@ -202,7 +216,7 @@ Here, you can select different conditions, set the matching value, and select th
 
 You can modify the affiliate commissions using **commission modifiers**. Here, you can set rules for commissions that an affiliate will earn on their referrals. To set a commission modifier, click on **Add new modifier**. Here you can select the rule, set the matching value, and set the commission adjustment.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3669).png" alt=""><figcaption><p>Commission modifiers</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3895).png" alt=""><figcaption><p>Commission modifiers</p></figcaption></figure>
 
 Here, you can select the rule, set the matching value, and set the commission rate adjustment. After this, click on **Add modifier**.
 
@@ -210,31 +224,32 @@ Here, you can select the rule, set the matching value, and set the commission ra
 
 <summary>Rules Available</summary>
 
-* Order value is >=
-* Order value is <=
-* Order value =
+* Order Value
+* Shipping Amount
 * Customer Shipping State
 * Customer Shipping Country
-* Total quantity of items is >=
-* Total quantity of items is <=
+* Total quantity of items
 * First Time Customer
 * Old customer/Recurring Customer
-* Coupon code matches
-* Coupon code =
+* Subscription Order
+* Subscription Renewal Order
+* First Subscription Order
+* Coupon Code
+* Product Discount
 * Customer email matches
 * Customer's first time product purchase
 * Customer's recurring product purchase
-* Customer tag matches
-* Order tag matches
-* Payment gateway matches
+* Customer tag&#x20;
+* Order tag
 * Expression
+* Payment gateway
 * First sale of the affiliate
 * Other Adjustments
 * Product Name
 
 </details>
 
-<figure><img src="../../../.gitbook/assets/image (3670).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3896).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="../../../affiliate-commissions/set-commission-modifiers/" %}
 [set-commission-modifiers](../../../affiliate-commissions/set-commission-modifiers/)

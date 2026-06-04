@@ -14,31 +14,30 @@ Here, enable the toggle and click on **Add new modifier.**
 
 **Here you can select different rules such as:**
 
-* Order value is >=
-* Order value is <=
-* Order value =
+* Order Value
 * Shipping Amount
 * Customer Shipping State
 * Customer Shipping Country
-* Total quantity of items is >=
-* Total quantity of items is <=
+* Total quantity of items
 * First Time Customer
-* Old/Recurring Customer
-* Coupon code matches
-* Coupon code =
+* Old customer/Recurring Customer
+* Subscription Order
+* Subscription Renewal Order
+* First Subscription Order
+* Coupon Code
 * Product Discount
 * Customer email matches
 * Customer's first time product purchase
 * Customer's recurring product purchase
-* Customer tag matches
-* Order tag matches
+* Customer tag&#x20;
+* Order tag
 * Expression
-* Payment gateway matches
+* Payment gateway
 * First sale of the affiliate
 * Other Adjustments
 * Product Name
 
-For rules such as **Order value <=, Order value >=, Order value =, Customer Shipping State/Country, Coupon code matches, Coupon code =, Customer email, Customer tag, Order tag, Payment gateway, Expression, Product Name,** and **Other Adjustments,** you can set the matches value for the set rules and adjust the affiliate's commission for when an order fulfills the rule.&#x20;
+For rules such as **Order value, Customer Shipping State/Country, Coupon code matches, Customer email, Customer tag, Order tag, Payment gateway, Expression, Product Name,** and **Other Adjustments,** you can set the matches value for the set rules and adjust the affiliate's commission for when an order fulfills the rule.&#x20;
 
 ![Select rule](<../../.gitbook/assets/image (1028).png>)
 
