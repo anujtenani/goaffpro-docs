@@ -23,12 +23,17 @@ This will open up the New commission rule window.
 Here, select the rule. **You can select rules such as:**
 
 * **Product Name**
+* **Product Quantity**
 * **Product SKU**
 * **Product Vendor**
 * **Order tag**
+* **Order number**
+* **Gift card is used in the order**
+* **Payment gateway**
 * **Customer is first time customer**
 * **Customer is old customer/recurring customer**
 * **Sub ID**
+* **Landing Page URL**
 * **POS Source**
 * **Coupon code**
 * **Customer email**

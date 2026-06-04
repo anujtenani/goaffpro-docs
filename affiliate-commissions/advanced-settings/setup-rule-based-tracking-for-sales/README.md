@@ -39,11 +39,14 @@ You can select different conditions, such as:&#x20;
 * Customer email matches
 * Customer tag matches
 * Order tag matches
+* Point of sale Source ID
 * Payment gateway matches
 * Sub ID
 * Product name
 * Product SKU
 * Product Vendor
+* Landing Page URL
+* Referring Page URL
 
 ![Select the condition](<../../../.gitbook/assets/Screenshot 2021-11-29 220122.png>)
 

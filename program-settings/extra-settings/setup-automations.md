@@ -46,6 +46,7 @@ Now, select the condition.&#x20;
 * Affiliate's Team Volume
 * Product Sold (name of the product)
 * Order value
+* Bundle Sold (name of the bundle product)
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-14 120628.png" alt=""><figcaption><p>Select the condition</p></figcaption></figure>
 
