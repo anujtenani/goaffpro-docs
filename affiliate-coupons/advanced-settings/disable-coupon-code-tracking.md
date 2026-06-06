@@ -22,6 +22,6 @@ After this, the coupon code tracking will be disabled.
 
 <figure><img src="../../.gitbook/assets/image (3885).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://www.youtube.com/watch?v=EC246_gwETo" %}
+{% embed url="https://youtu.be/yYbLUmEI0xQ" %}
 Disable Coupon Code Tracking
 {% endembed %}
