@@ -14,6 +14,10 @@ The **Developer** section can be used to set up development features, such as we
 
 <figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Webhooks</p></figcaption></figure>
 
+{% content-ref url="../../../program-settings/developer-settings/add-webhooks.md" %}
+[add-webhooks.md](../../../program-settings/developer-settings/add-webhooks.md)
+{% endcontent-ref %}
+
 ### Access Tokens
 
 The **Access Tokens** section can be used to generate a new API key for developing custom integration with the GoAffPro app.
@@ -33,6 +37,10 @@ The API Documentation: [https://api.goaffpro.com/docs/admin/](https://api.goaffp
 The **Debug Integration** feature can be used to troubleshoot and verify the referral link tracking on your store.
 
 <figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Debug Integration</p></figcaption></figure>
+
+{% content-ref url="../../../program-settings/developer-settings/debug-integration.md" %}
+[debug-integration.md](../../../program-settings/developer-settings/debug-integration.md)
+{% endcontent-ref %}
 
 ### Custom Javascript
 

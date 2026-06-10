@@ -588,6 +588,7 @@
 * [Developer Settings](program-settings/developer-settings/README.md)
   * [Add Webhooks](program-settings/developer-settings/add-webhooks.md)
   * [Generate API Keys for Custom Integration](program-settings/developer-settings/generate-api-keys-custom-integration-with-goaffpro-app.md)
+  * [Debug Integration](program-settings/developer-settings/debug-integration.md)
   * [Setup Tracking Performance](program-settings/developer-settings/setup-tracking-performance.md)
 * [Advanced Settings](program-settings/advanced-settings/README.md)
   * [Set Referral Link Parameters](program-settings/advanced-settings/set-referral-link-parameters.md)

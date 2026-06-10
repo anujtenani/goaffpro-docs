@@ -4,7 +4,7 @@ The **Developer** settings allows you to set up development features for your pr
 
 * [Webhooks](add-webhooks.md)
 * [Access Tokens](generate-api-keys-custom-integration-with-goaffpro-app.md)
-* Debug Integration
+* [Debug Integration](debug-integration.md)
 * Custom Javascript
 * [Tracking Performance](setup-tracking-performance.md)
 

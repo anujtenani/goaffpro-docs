@@ -4,11 +4,11 @@
 
 To add webhooks for custom programming, go to the **Developer** section in the **Settings** tab of the GoAffPro admin panel.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3863).png" alt=""><figcaption><p>Settings > Developer</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Settings > Developer</p></figcaption></figure>
 
 Here, go to the Webhooks section.
 
-<figure><img src="../../.gitbook/assets/image (275).png" alt=""><figcaption><p>Webhooks</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Webhooks</p></figcaption></figure>
 
 Now, click on **New webhook**.
 

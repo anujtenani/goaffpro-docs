@@ -6,7 +6,7 @@ The **Generate Shortened Links** section allows you to shorten the affiliate ref
 * [Generate Bitly Links for Existing Affiliates](generate-shortened-bitly-links/generate-bitly-links-for-existing-affiliates.md)
 * [Generate Shortened Links with Shopify Shortner](generate-shortened-links-with-shopify-shortener.md)
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 
 Here, go to the **Settings > Advanced > Generate Shortened Links** section of the GoAffPro admin panel.
 

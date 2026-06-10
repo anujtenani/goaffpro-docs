@@ -6,7 +6,7 @@ description: GoAffPro Admin Page > Settings > Settings
 
 The **Settings** tab in the admin panel allows you to adjust the settings of your affiliate program. It includes various sections with options that you can modify and edit as needed for your affiliate program.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### General
 

@@ -8,7 +8,7 @@ To set email notifications for the merchant, go to the **Notifications** section
 
 Here, go to the Your Notifications section.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Your Notifications</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Your Notifications</p></figcaption></figure>
 
 Now, enable the notification options that you would like to receive.
 
