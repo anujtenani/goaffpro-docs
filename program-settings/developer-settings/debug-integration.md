@@ -45,3 +45,7 @@ If the order was not recorded, please send the exported activity log to our team
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Screenshot 2026-06-10 2137474.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://youtu.be/udUJjuF8wKI" %}
+Debug Integration
+{% endembed %}
