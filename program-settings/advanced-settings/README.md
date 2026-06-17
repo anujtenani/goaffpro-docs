@@ -24,4 +24,4 @@ The **Advanced** settings section lets you configure and set up advanced feature
 
 Go to the **Settings** > **Advanced** section of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>

@@ -6,7 +6,7 @@ description: GoAffPro Admin Page > Settings > Settings
 
 The **Settings** tab in the admin panel allows you to adjust the settings of your affiliate program. It includes various sections with options that you can modify and edit as needed for your affiliate program.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### General
 
@@ -95,9 +95,9 @@ You can integrate GoAffPro with third-party apps to enhance affiliate management
 * Order tags
 * Customer tags
 * Hyperwallet&#x20;
-* Mailchimp Sync
-* Omnisend Sync
-* Klaviyo Sync
+* Mailchimp
+* Omnisend
+* Klaviyo
 * Zendesk SSO
 * Convertkit
 * MailerLite
@@ -109,11 +109,10 @@ You can integrate GoAffPro with third-party apps to enhance affiliate management
 * MemberVault
 * Vimeo OTT
 * Third party checkout
-* Cart Panda Checkout
+* Shopify Buy Button
 * Yampi Checkout
-* ReCharge Payments
-* Bold Subscription
 * Zipify OCU
+* ReCharge Payments
 * Square Checkout
 * PayWhirl
 

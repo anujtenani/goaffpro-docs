@@ -10,4 +10,4 @@ The **Referral Link** section allows for various configurations of affiliate ref
 
 Go to the **Settings > Advanced > Referral link** section of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Settings > Advanced > Referral link</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Settings > Advanced > Referral link</p></figcaption></figure>

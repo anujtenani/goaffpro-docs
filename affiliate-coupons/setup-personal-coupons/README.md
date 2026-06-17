@@ -20,7 +20,7 @@ Here, go to the **Personal Coupons** section to set up the personal coupons for 
 * [Assign Custom Personal Coupons](assign-custom-personal-coupons-to-affiliates/)&#x20;
 * [Create Personal Coupon Templates](create-personal-coupon-templates.md)
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Personal Coupons</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Personal Coupons</p></figcaption></figure>
 
 {% embed url="https://youtu.be/W6D2BzfNZ9Q" %}
 Personal Coupons

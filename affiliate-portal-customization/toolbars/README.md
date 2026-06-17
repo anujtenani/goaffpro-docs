@@ -12,4 +12,4 @@ The **Toolbars** section can be used to set up and customize toolbars. The optio
 
 Go to the **Look and Feel > Toolbars** section in the GoAffPro admin panel.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Toolbars</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Toolbars</p></figcaption></figure>

@@ -232,15 +232,11 @@ You can use this to connect third-party checkout apps with GoAffPro.
 [third-party-checkout-integration.md](../../../program-settings/integrations/third-party-checkout-integration.md)
 {% endcontent-ref %}
 
-### Cart Panda Checkout
+### Shopify Buy Button
 
-You can use this option to integrate the Cart Panda checkout with GoAffPro.
+You can use this to enable tracking when using the Shopify buy button embedded on external sites.
 
-<figure><img src="../../../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
-
-{% content-ref url="../../../program-settings/integrations/cart-panda-checkout-integration.md" %}
-[cart-panda-checkout-integration.md](../../../program-settings/integrations/cart-panda-checkout-integration.md)
-{% endcontent-ref %}
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Shopify Buy Button</p></figcaption></figure>
 
 ### **Yampi Checkout**
 
@@ -250,34 +246,6 @@ You also get the option to integrate the Yampi checkout with your Shopify store.
 
 {% content-ref url="../../../program-settings/integrations/yampi-checkout-integration.md" %}
 [yampi-checkout-integration.md](../../../program-settings/integrations/yampi-checkout-integration.md)
-{% endcontent-ref %}
-
-### **Recharge Payments**
-
-You have the option to connect to ReCharge Payments by integrating the tracking code in the ReCharge Payments "Thank You page."
-
-![Recharge Payments](<../../../.gitbook/assets/image (2616).png>)
-
-{% hint style="info" %}
-[**Recharge Payments**](https://rechargepayments.com/) provides solutions like recurring billing and subscriptions for eCommerce stores&#x20;
-{% endhint %}
-
-{% content-ref url="../../../program-settings/integrations/recharge-payments-integration.md" %}
-[recharge-payments-integration.md](../../../program-settings/integrations/recharge-payments-integration.md)
-{% endcontent-ref %}
-
-### **Bold Subscription**
-
-You also have the option to connect to Bold Subscriptions by integrating the tracking code in the Bold subscription app.
-
-![Bold Subscription](<../../../.gitbook/assets/image (1841).png>)
-
-{% hint style="info" %}
-[**Bold Subscription**](https://boldcommerce.com/subscriptions) provides solutions such as recurring billing and subscriptions for Shopify stores.
-{% endhint %}
-
-{% content-ref url="../../../program-settings/integrations/bold-subscription-integration.md" %}
-[bold-subscription-integration.md](../../../program-settings/integrations/bold-subscription-integration.md)
 {% endcontent-ref %}
 
 ### **Zipify OCU**
@@ -292,6 +260,20 @@ You also have the option to integrate conversion tracking with the Zipify OCU ap
 
 {% content-ref url="../../../program-settings/integrations/zipify-ocu-integration.md" %}
 [zipify-ocu-integration.md](../../../program-settings/integrations/zipify-ocu-integration.md)
+{% endcontent-ref %}
+
+### **Recharge Payments**
+
+You have the option to connect to ReCharge Payments by integrating the tracking code in the ReCharge Payments "Thank You page."
+
+![Recharge Payments](<../../../.gitbook/assets/image (2616).png>)
+
+{% hint style="info" %}
+[**Recharge Payments**](https://rechargepayments.com/) provides solutions like recurring billing and subscriptions for eCommerce stores.
+{% endhint %}
+
+{% content-ref url="../../../program-settings/integrations/recharge-payments-integration.md" %}
+[recharge-payments-integration.md](../../../program-settings/integrations/recharge-payments-integration.md)
 {% endcontent-ref %}
 
 ### **Square Checkout**
@@ -324,7 +306,7 @@ You can also connect to PayWhirl by integrating the tracking code in the PayWhir
 
 ***
 
-**Checkout the video below for an overview of the integration settings in GoAffPro:**
+**Check out the video below for an overview of the integration settings in GoAffPro:**
 
 {% embed url="https://youtu.be/ua9hZBhLvyM" %}
 Integration Settings

@@ -4,9 +4,9 @@ description: GoAffPro Admin Panel > Settings > Payments
 
 # Payments
 
-The **Payments** section can be used to set up payment settings for the program, such as the supported payment methods for affiliates, payment terms, the default payment method, commission hold time, minimum payout amount, and withholding tax.&#x20;
+The **Payments** section can be used to set up payment settings for the program, such as the supported payment methods for affiliates, payment terms, the default payment method, commission hold time, minimum payout amount, and withholding tax.
 
-<figure><img src="../../../.gitbook/assets/image (177).png" alt=""><figcaption><p>Settings > Payments</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Settings > Payments</p></figcaption></figure>
 
 ### Supported Payments Methods
 
@@ -14,7 +14,7 @@ In the **Supported Payment Methods** option, you can select the supported method
 
 The **methods of payment** you select will be shown as options to your affiliates. They can then select the payment method of their choice and fill in their payment details.&#x20;
 
-![Supported Payment Method](<../../../.gitbook/assets/image (1717).png>)
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Supported Payment Method</p></figcaption></figure>
 
 {% hint style="info" %}
 It is good practice to set up multiple payment methods to add convenience for your affiliates in commission payouts.

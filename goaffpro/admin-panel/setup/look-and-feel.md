@@ -110,7 +110,7 @@ The **Toolbars** section can be used to set up and customize toolbars. The optio
 5. Shopping Cart Referred By
 6. Checkout blocker
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Toolbars</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Toolbars</p></figcaption></figure>
 
 **For information on how to setup and customize the toolbars:**
 
