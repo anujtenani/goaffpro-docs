@@ -4,24 +4,32 @@
 
 To set up the supported payment methods for affiliates, go to the Payments section in the **Settings** tab of the **GoAffPro** admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (72) (1).png" alt=""><figcaption><p>Settings > Payments </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3900).png" alt=""><figcaption><p>Settings > Payments</p></figcaption></figure>
 
 Here, go to the Supported Payment Methods section.
 
-![Supported Payment Methods](<../../../.gitbook/assets/image (764).png>)
+<figure><img src="../../../.gitbook/assets/image (3901).png" alt=""><figcaption><p>Supported Payment Methods</p></figcaption></figure>
 
-Now, check the box of the payment methods that you support for paying to affiliates.
+Now, select the type of payment method you want to offer.&#x20;
 
-![Check the box of payment methods](<../../../.gitbook/assets/Annotation 2020-04-28 124005.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-06-18 0130022.png" alt=""><figcaption><p>Click on the type of payment method</p></figcaption></figure>
 
-Your affiliates can set up their payment settings by clicking on **Setup,** in the Payment Settings section in the Settings tab of the affiliate dashboard.
+Next, enable the payment methods you want to support.
 
-![Affiliate can set their payment settings](<../../../.gitbook/assets/Annotation 2020-04-28 124706.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-06-18 013007.png" alt=""><figcaption><p>Enable the payment methods</p></figcaption></figure>
 
-The affiliates will be able to choose from the payment methods that you have selected in the Supported Payments Methods section.&#x20;
+After this, the payment method will be set for your affiliates.&#x20;
 
-![](<../../../.gitbook/assets/image (698).png>)
+<figure><img src="../../../.gitbook/assets/image (3902).png" alt=""><figcaption><p>Payment method will be set</p></figcaption></figure>
+
+Affiliates can set up their payment details from the Settings > Payment Settings section by clicking on **Setup** in their dashboard.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-06-18 013029.png" alt=""><figcaption><p>Settings > Payment Settings section > Click on Setup</p></figcaption></figure>
+
+Affiliates can choose from the payment methods you have selected in the Supported Payment Methods section and enter their payment details accordingly.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-06-18 0130322.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=Z2TfOPeqUQo" %}
-Setup Supported Payment Methods
+Set up Supported Payment Methods
 {% endembed %}
