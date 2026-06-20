@@ -22,6 +22,6 @@ After this, the referral link tracking will be disabled.
 
 <figure><img src="../../.gitbook/assets/image (3887).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://youtu.be/BZgdLSk7t8I" %}
+{% embed url="https://youtu.be/LzJGRdJvydg" %}
 Disable Referral Link Tracking
 {% endembed %}
