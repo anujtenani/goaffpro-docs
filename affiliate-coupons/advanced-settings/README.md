@@ -8,5 +8,6 @@
 * [Disable Coupon Code Tracking](disable-coupon-code-tracking.md)
 * [Deactivate Affiliate Coupon Codes](deactivate-affiliate-coupons.md)
 * [Delete Coupon from GoAffPro App Code](delete-coupon-from-goaffpro-app-code.md)
+* [Allow Affiliates to Customize Coupon Codes](allow-affiliates-to-customize-coupon-codes.md)
 
 <figure><img src="../../.gitbook/assets/image (3658).png" alt=""><figcaption><p>Coupons</p></figcaption></figure>

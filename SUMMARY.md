@@ -204,6 +204,7 @@
   * [Disable Coupon Code Tracking](affiliate-coupons/advanced-settings/disable-coupon-code-tracking.md)
   * [Deactivate Affiliate Coupon Codes](affiliate-coupons/advanced-settings/deactivate-affiliate-coupons.md)
   * [Delete Coupon from GoAffPro App Code](affiliate-coupons/advanced-settings/delete-coupon-from-goaffpro-app-code.md)
+  * [Allow Affiliates to Customize Coupon Codes](affiliate-coupons/advanced-settings/allow-affiliates-to-customize-coupon-codes.md)
 
 ## Program Management
 
