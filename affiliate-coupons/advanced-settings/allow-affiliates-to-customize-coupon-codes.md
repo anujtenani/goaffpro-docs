@@ -17,3 +17,7 @@ Now, enable the "**Allow affiliate to customize coupon code**" option.&#x20;
 After this, affiliates will be able to customize their coupon code in their dashboard.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2026-06-24 22070842.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://youtu.be/oKD58-PURtw" %}
+Allow Affiliates to Customize Coupon Codes
+{% endembed %}
