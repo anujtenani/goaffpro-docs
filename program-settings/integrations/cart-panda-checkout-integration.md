@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Cart Panda Checkout Integration
 
 **GoAffPro** provides you with the option to integrate Cart Panda checkout.

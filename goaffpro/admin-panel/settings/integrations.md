@@ -238,6 +238,10 @@ You can use this to enable tracking when using the Shopify buy button embedded o
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Shopify Buy Button</p></figcaption></figure>
 
+{% content-ref url="../../../program-settings/integrations/shopify-buy-button-integration.md" %}
+[shopify-buy-button-integration.md](../../../program-settings/integrations/shopify-buy-button-integration.md)
+{% endcontent-ref %}
+
 ### **Yampi Checkout**
 
 You also get the option to integrate the Yampi checkout with your Shopify store.&#x20;

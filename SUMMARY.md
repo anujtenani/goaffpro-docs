@@ -566,6 +566,7 @@
   * [MemberVault Integration](program-settings/integrations/membervault-integration.md)
   * [Vimeo OTT Integration](program-settings/integrations/vimeo-ott-integration.md)
   * [Third Party Checkout Integration](program-settings/integrations/third-party-checkout-integration.md)
+  * [Shopify Buy Button Integration](program-settings/integrations/shopify-buy-button-integration.md)
   * [Cart Panda Checkout Integration](program-settings/integrations/cart-panda-checkout-integration.md)
   * [Yampi Checkout Integration](program-settings/integrations/yampi-checkout-integration.md)
   * [Bold Subscription Integration](program-settings/integrations/bold-subscription-integration.md)

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Bold Subscription Integration
 
 **GoAffPro** provides you with the option to integrate the Bold Subscription app.
