@@ -17,3 +17,7 @@ Now, enable the toggle.&#x20;
 After this, copy the tracking code and add it to the pages where you have embedded your Shopify buy button.&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2026-07-01 2216422.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://youtu.be/14udFVOfvHs" %}
+Shopify Buy Button Integration
+{% endembed %}
