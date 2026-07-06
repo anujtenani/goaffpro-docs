@@ -78,6 +78,7 @@ Here, you can enable options such as targets, customer-affiliate connections, me
 * Earnings Report
 * Legal Documents
 * Manager Accounts
+* Manager only access
 * Account Owner
 * Two Factor authentication
 
