@@ -536,6 +536,7 @@
 * [Create Program Manager](program-settings/create-affiliate-program-manager/README.md)
   * [Limit Access to Manager Accounts](program-settings/create-affiliate-program-manager/manager-account-access.md)
   * [Manager Account Accessibility](program-settings/create-affiliate-program-manager/manager-account-accessibility.md)
+  * [Secure Manager Access](program-settings/create-affiliate-program-manager/secure-manager-access.md)
   * [Manager for Multiple Affiliate Programs](program-settings/create-affiliate-program-manager/manager-for-multiple-affiliate-programs.md)
 * [Integrations](program-settings/integrations/README.md)
   * [Tipalti Integration](program-settings/integrations/tipalti-integration/README.md)
