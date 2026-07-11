@@ -47,3 +47,7 @@ Users will see a message upon opening the GoAffPro app, indicating that direct a
 <figure><img src="../../.gitbook/assets/image (3912).png" alt=""><figcaption></figcaption></figure>
 
 </details>
+
+{% embed url="https://youtu.be/ycTJZiufmag" %}
+Secure Manager Access
+{% endembed %}
