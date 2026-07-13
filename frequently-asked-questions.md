@@ -40,7 +40,7 @@ You can also follow our guide on how to set up the CNAME record for different do
 
 ### How do I enroll affiliates/influencers in my program?
 
-To recruit affiliates for your program, you need to promote your affiliate program on your store's social media channels (Facebook page, Instagram, Twitter, etc.) and add the link to the affiliate portal on your store's homepage (using a menu or footer link). Here
+To recruit affiliates for your program, you need to promote your affiliate program on your store's social media channels (Facebook page, Instagram, Twitter, etc.) and add the link to the affiliate portal on your store's homepage (using a menu or footer link).
 
 By spreading the word about your affiliate program and highlighting the benefits of becoming an affiliate in your program, you will start seeing people join it.&#x20;
 
