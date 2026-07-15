@@ -698,8 +698,8 @@
   * [Getting Paid](getting-started-for-affiliates-1/getting-started-for-affiliates/getting-paid.md)
   * [View Referral Details](getting-started-for-affiliates-1/getting-started-for-affiliates/view-referral-details.md)
   * [Generate Product Links](getting-started-for-affiliates-1/getting-started-for-affiliates/generate-product-links.md)
-  * [Create Linkything Page](getting-started-for-affiliates-1/getting-started-for-affiliates/create-linkything-page.md)
   * [Use Marketing CRM](getting-started-for-affiliates-1/getting-started-for-affiliates/use-marketing-crm.md)
+  * [Create Linkything Page](getting-started-for-affiliates-1/getting-started-for-affiliates/create-linkything-page.md)
   * [Advanced Tabs](getting-started-for-affiliates-1/getting-started-for-affiliates/advanced-tabs.md)
 * [Quick Guide for Affiliates](getting-started-for-affiliates-1/quick-guide-for-affiliates.md)
 
