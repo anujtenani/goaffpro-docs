@@ -378,6 +378,7 @@
   * [Add Login Link to Welcome Email](affiliate-email/setup-welcome-email/add-login-link-to-welcome-email.md)
 * [Setup Email Marketing Campaigns](affiliate-email/setup-email-marketing-campaigns/README.md)
   * [Setup Drip Email Campaign](affiliate-email/setup-email-marketing-campaigns/setup-drip-email-campaign.md)
+  * [Enable Marketing CRM for Affiliates](affiliate-email/setup-email-marketing-campaigns/enable-marketing-crm-for-affiliates.md)
   * [Quick Email](affiliate-email/setup-email-marketing-campaigns/send-email-to-affiliates/README.md)
     * [Attach Files to Email](affiliate-email/setup-email-marketing-campaigns/send-email-to-affiliates/attach-files-to-email.md)
 
@@ -698,6 +699,7 @@
   * [View Referral Details](getting-started-for-affiliates-1/getting-started-for-affiliates/view-referral-details.md)
   * [Generate Product Links](getting-started-for-affiliates-1/getting-started-for-affiliates/generate-product-links.md)
   * [Create Linkything Page](getting-started-for-affiliates-1/getting-started-for-affiliates/create-linkything-page.md)
+  * [Use Marketing CRM](getting-started-for-affiliates-1/getting-started-for-affiliates/use-marketing-crm.md)
   * [Advanced Tabs](getting-started-for-affiliates-1/getting-started-for-affiliates/advanced-tabs.md)
 * [Quick Guide for Affiliates](getting-started-for-affiliates-1/quick-guide-for-affiliates.md)
 
