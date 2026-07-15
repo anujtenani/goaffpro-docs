@@ -6,9 +6,9 @@ To enable the marketing CRM for your affiliates, go to the **For Affiliates** se
 
 <figure><img src="../../.gitbook/assets/image (3913).png" alt=""><figcaption><p>Marketing > For Affiliates</p></figcaption></figure>
 
-Here, you can configure the marketing CRM access to all affiliates or to specific affiliate groups.&#x20;
+Here, you can configure the marketing CRM access. You can make it available either for all affiliates or for specific affiliate groups.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-07-15 151329.png" alt=""><figcaption><p>Set marketing CRM access</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-07-15 151329.png" alt=""><figcaption><p>Configure marketing CRM access</p></figcaption></figure>
 
 You can also view the monthly usage statistics for affiliate campaigns and sent emails.
 
