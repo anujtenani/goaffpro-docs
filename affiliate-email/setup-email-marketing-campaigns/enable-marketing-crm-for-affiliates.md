@@ -35,3 +35,7 @@ Affiliates can view and manage customers or leads directly from their dashboard.
 <figure><img src="../../.gitbook/assets/image (3914).png" alt=""><figcaption></figcaption></figure>
 
 </details>
+
+{% embed url="https://youtu.be/_YD-Qnykbc4" %}
+Enable Marketing CRM for Affiliates
+{% endembed %}
