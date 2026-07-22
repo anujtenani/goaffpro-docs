@@ -8,7 +8,7 @@ To add webhooks for custom programming, go to the **Developer** section in the *
 
 Here, go to the Webhooks section.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Webhooks</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Webhooks</p></figcaption></figure>
 
 Now, click on **New webhook**.
 
