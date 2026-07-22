@@ -4,6 +4,22 @@ description: New Features & Updates
 
 # Changelog
 
+### June 2026
+
+#### Marketing CRM for Affiliates
+
+Give your affiliates access to the [marketing CRM feature](../affiliate-email/setup-email-marketing-campaigns/enable-marketing-crm-for-affiliates.md), which allows them to manage contacts and send email campaigns from their dashboard.
+
+You can configure this option from the Marketing > For Affiliates section.&#x20;
+
+<figure><img src="../.gitbook/assets/image (3917).png" alt=""><figcaption><p>Marketing > For Affiliates</p></figcaption></figure>
+
+After enabling, affiliates can manage their contacts through the dashboard. They can also create and send email campaigns to their contacts or leads.
+
+<figure><img src="../.gitbook/assets/image (3918).png" alt=""><figcaption><p>Affiliate Dashboard > Marketing Tools > Contacts</p></figcaption></figure>
+
+***
+
 ### April 2026
 
 #### Developer Section
