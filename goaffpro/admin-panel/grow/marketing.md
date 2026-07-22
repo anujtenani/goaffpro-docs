@@ -54,7 +54,7 @@ Marketing
 
 ### Marketing CRM for Affiliates
 
-In the For Affiliates section, you can give your affiliates access to the marketing CRM feature. It allows them to manage contacts and send email campaigns from their dashboard.&#x20;
+In the **For Affiliates** section, you can give your affiliates access to the marketing CRM feature. It allows them to manage contacts and send email campaigns from their dashboard.&#x20;
 
 Here, you can configure the marketing CRM access for affiliates and view their monthly email campaign usage statistics.
 

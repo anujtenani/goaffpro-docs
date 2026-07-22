@@ -40,7 +40,8 @@ Once customers complete the checkout process, a popup will appear on the order c
 
 ### Marketing
 
-Create **email marketing campaigns** for affiliates. You can set up the email template, select the email audience, and schedule the emails for affiliates.
+* Create **email marketing campaigns** for affiliates. You can set up the email template, select the email audience, and schedule the emails for affiliates.
+* Give affiliates access to **built-in marketing CRM** feature. It allows them to manage their contacts and send email campaigns from their dashboard.&#x20;
 
 {% content-ref url="marketing.md" %}
 [marketing.md](marketing.md)
