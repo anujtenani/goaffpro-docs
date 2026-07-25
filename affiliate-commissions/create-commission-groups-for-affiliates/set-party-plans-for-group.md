@@ -54,6 +54,6 @@ The party plan will be set for the group affiliates.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (3747).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://youtu.be/Rg2iKiG2zXk" %}
+{% embed url="https://youtu.be/V0Kl7K2swuo" %}
 Set Party Plans for Group
 {% endembed %}
