@@ -1,3 +1,7 @@
+---
+description: Only Available for the Advanced Popup Style
+---
+
 # Show Popup for Order Total
 
 **GoAffPro** provides you with the option to show the post checkout popup to customers when the order total is greater than the specified amount.

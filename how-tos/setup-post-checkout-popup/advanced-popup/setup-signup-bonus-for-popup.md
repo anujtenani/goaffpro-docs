@@ -9,7 +9,7 @@ description: Only Available for the Advanced Popup Style
 {% hint style="info" %}
 The Signup bonus option is only available for the **Advanced** popup style.&#x20;
 
-This bonus will only be provided to affiliates who purchased in the store and then used the post-checkout popup to register.&#x20;
+This bonus will be given only to affiliates who purchased from the store and then used the post-checkout popup to register.
 {% endhint %}
 
 To set a signup bonus for affiliates registering through the post-checkout popup, go to the **Post Checkout Popup** tab in the GoAffPro admin panel.
@@ -18,27 +18,27 @@ To set a signup bonus for affiliates registering through the post-checkout popup
 
 Here, click on **Select & Customize** in the Advanced popup style section.
 
-![Click on Select & Customize ](<../../../.gitbook/assets/Annotation 2020-04-07 095041.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-07-29 203148 (1).png" alt=""><figcaption><p>Advanced Style > Click on Select &#x26; Customize</p></figcaption></figure>
 
 This will open up the Advanced Popup customization section.
 
-![Advanced Popup ](<../../../.gitbook/assets/image (3264).png>)
+<figure><img src="../../../.gitbook/assets/image (3920).png" alt=""><figcaption><p>Advanced Popup </p></figcaption></figure>
 
 Now, click on **Edit** in the Other Configuration section.
 
-![Click on Edit](<../../../.gitbook/assets/Annotation 2020-04-07 095324.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-07-29 203153 (1).png" alt=""><figcaption><p>Other Configuration > Click on Edit</p></figcaption></figure>
 
-Here, set the bonus percentage.
+After this, set the bonus percentage.
 
 {% hint style="info" %}
-The signup bonus will be calculated as the percentage of the order value which the customer bought before becoming an affiliate.
+The signup bonus will be calculated as a percentage of the order value made by the customer before they became an affiliate.
 {% endhint %}
 
-![Set the bonus percentage](<../../../.gitbook/assets/Annotation 2020-04-07 100249.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-07-29 203424.png" alt=""><figcaption><p>Set the bonus percentage</p></figcaption></figure>
 
-After this, click on **Save**.
+Finally, click on **Save**.
 
-![](<../../../.gitbook/assets/Annotation 2020-04-07 100453.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-07-29 203157.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/x_W0hzWnQFA" %}
 Set Signup Bonus for Popup

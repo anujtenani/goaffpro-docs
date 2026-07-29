@@ -1,8 +1,9 @@
 ---
 description: For Advanced Users Only
+hidden: true
 ---
 
-# BigCommerce Custom Popup Integration
+# BigCommerce Popup Integration
 
 #### If the Post Checkout Popup is not appearing in the thank you page of the store, follow the steps given below for the custom integration of the popup script:
 
