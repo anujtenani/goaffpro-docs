@@ -456,7 +456,8 @@
   * [Enable Linkything for Affiliates](affiliate-portal-customization/advanced-customization/enable-linkything-for-affiliates.md)
   * [Enable Mirapage for Affiliates](affiliate-portal-customization/advanced-customization/enable-mirapage-for-affiliates.md)
   * [Chat Widget Integration](affiliate-portal-customization/advanced-customization/chat-widget-integration.md)
-  * [CSS Customizations](affiliate-portal-customization/advanced-customization/css-customizations.md)
+  * [CSS Customizations](affiliate-portal-customization/advanced-customization/css-customizations/README.md)
+    * [Affiliate Portal Dark Theme](affiliate-portal-customization/advanced-customization/css-customizations/affiliate-portal-dark-theme.md)
 
 ## Program Settings
 

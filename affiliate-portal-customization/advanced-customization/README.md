@@ -16,6 +16,6 @@
 * [Enable Linkything for affiliates](enable-linkything-for-affiliates.md)
 * [Enable Mirapage for affiliates](enable-mirapage-for-affiliates.md)
 * [Chat widget integration](chat-widget-integration.md)
-* [CSS customizations](css-customizations.md)
+* [CSS customizations](css-customizations/)
 
 <figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>Look and Feel tab</p></figcaption></figure>
