@@ -42,6 +42,6 @@ The newly set commission modifier will get saved for the group.
 
 ![](<../../.gitbook/assets/image (1190).png>)
 
-{% embed url="https://youtu.be/_Et4EoZuKJM" %}
+{% embed url="https://youtu.be/-anxRUOV0ik" %}
 Set Commission Modifiers for Group
 {% endembed %}
