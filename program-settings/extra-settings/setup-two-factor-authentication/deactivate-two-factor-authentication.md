@@ -2,9 +2,9 @@
 
 **GoAffPro** provides you with the option to deactivate the two factor authentication.
 
-To deactivate the two factor authentication, go to the **Advanced** section of the **Settings** tab in the GoAffPro admin panel.
+To deactivate the two factor authentication, go to the **Extras** section of the **Settings** tab in the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (23) (1).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
 
 Here, go to the Two Factor authentication section.
 
