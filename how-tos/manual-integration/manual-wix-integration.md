@@ -1,8 +1,8 @@
 # Manual Wix Integration
 
-You can manually add the tracking script to your store's theme file by inserting it just before the closing tag. You can find the tracking script from the Settings > Developer > Debug Integration > Click on Start Debugger and copy the script from there.
+To manually add the tracking script to your store's theme file, insert it just before the closing tag. You can find the tracking script by going to Settings > Developer > Debug Integration. Click on Start Debugger and copy the script from there.
 
-This should ensure that the tracking functions correctly and the toolbars (if enabled) are displayed.
+This will ensure that tracking functions properly and toolbars, if enabled, are displayed.
 
 1. To do this, navigate to your Wix dashboard and select Settings > Custom Code.
 2. On the screen that appears, paste the code from your GoAffPro merchant panel, located in the Settings > Developer > Debug Integration section.

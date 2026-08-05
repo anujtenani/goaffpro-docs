@@ -2,17 +2,17 @@
 
 #### Manually add tracking code in your WooCommerce store:
 
-Go to the **Advanced** section in the **Settings** tab of the GoAffPro admin panel.
+Go to the **Developer** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (3806).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3923).png" alt=""><figcaption><p>Settings > Developer</p></figcaption></figure>
 
-Here, go to the Third Party Tracking section.
+Here, go to the Debug Integration section and click on **Start Debugger**.
 
-![Third Party Tracking](<../../.gitbook/assets/image (2302).png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-08-06 004201.png" alt=""><figcaption><p>Debug Integration > Click on Start Debugger</p></figcaption></figure>
 
-Now, click on **Copy** to copy the tracking code.
+Now, click on **copy** to copy the tracking script.
 
-![Copy the tracking code](<../../.gitbook/assets/Annotation 2020-09-08 150019.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-08-06 0042072.png" alt=""><figcaption><p>Copy the tracking script</p></figcaption></figure>
 
 Open the WooCommerce admin panel.
 

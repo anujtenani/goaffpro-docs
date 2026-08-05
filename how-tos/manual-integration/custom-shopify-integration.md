@@ -2,16 +2,16 @@
 description: For Advanced Users Only
 ---
 
-# Goaffpro Custom Shopify Integration
+# Custom Shopify Integration
 
 ### Integration steps <a href="#integration-steps" id="integration-steps"></a>
 
 ### All Pages <a href="#all-pages" id="all-pages"></a>
 
-Embed the tracking script in all pages of your store. **You can find this script in the Settings -> Advanced Settings tab -> Third Party Tracking section**
+Embed the tracking script in all pages of your store. **You can find this script in the Settings > Developer > Debug Integration section.**
 
-```
-<script type="text/javascript" async defer src="https://api.goaffpro.com/loader.js?shop=goaffprotest1.myshopify.com"></script>
+```javascript
+<script src="https://api.goaffpro.com/loader.js?shop=goaffprotest1.myshopify.com" type="text/javascript" async></script>
 ```
 
 You can add the script in the footer page of your site.
