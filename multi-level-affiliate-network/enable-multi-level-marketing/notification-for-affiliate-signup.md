@@ -17,3 +17,7 @@ You can also notify the parent affiliate when their Level 1 affiliate makes a sa
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-19 2000343.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://youtu.be/RUeQRQn5pEQ" %}
+Notification for Affiliate Signup
+{% endembed %}
