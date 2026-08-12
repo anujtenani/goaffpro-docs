@@ -28,7 +28,7 @@ You also have the option to edit the **Account Pending Message** to newly regist
 
 In the **Sales** section, you have various options to edit the referral sales settings for the affiliate program.
 
-<figure><img src="../../../.gitbook/assets/image (3850).png" alt=""><figcaption><p>Sales</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3925).png" alt=""><figcaption><p>Sales</p></figcaption></figure>
 
 **Commission Calculation**
 
@@ -43,7 +43,7 @@ In the **Commission Calculation** section, you are provided with options that yo
 
 If enabled, the affiliate will not receive the commission for their self purchases in the store. You also get the option to disable commissions, when another affiliate purchases through their referral.
 
-**Give commission only for new customers**
+**Only record new customer purchases**
 
 If enable&#x64;**,** the commission will only be given to the affiliate for the new customers who use their referral to purchase in your store. You also have the option to create an exception for affiliates.
 
