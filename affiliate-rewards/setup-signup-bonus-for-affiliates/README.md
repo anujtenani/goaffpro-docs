@@ -28,6 +28,6 @@ You can also set the signup bonus for affiliates in the Signup Bonus section of 
 
 <figure><img src="../../.gitbook/assets/image (119) (1).png" alt=""><figcaption><p>Targets > Settings > Signup Bonus</p></figcaption></figure>
 
-{% embed url="https://youtu.be/GMZkL2K5MVg" %}
+{% embed url="https://youtu.be/_-z7fzjvZdw" %}
 Setup Signup Bonus for Affiliates
 {% endembed %}
