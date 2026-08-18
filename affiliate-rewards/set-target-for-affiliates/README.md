@@ -42,7 +42,7 @@ After this, set the time period.
 
 Now, set the bonus amount.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-02-18 231321.png" alt=""><figcaption><p>Set the bonus amount</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-08-18 192211t.png" alt=""><figcaption></figcaption></figure>
 
 You can also choose how the affiliates receive their bonus: cash or store credit.
 
