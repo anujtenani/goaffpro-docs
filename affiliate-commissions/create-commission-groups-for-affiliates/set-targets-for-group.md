@@ -4,63 +4,63 @@
 
 To set targets for the commission group, go to the **Groups** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (170) (1).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3933).png" alt=""><figcaption><p>Groups</p></figcaption></figure>
 
 Here, click on **Edit Group**.
 
-![Click on Edit Group](<../../.gitbook/assets/Screenshot 2020-12-28 224316.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-08-18 174837.png" alt=""><figcaption><p>Click on Edit Group</p></figcaption></figure>
 
 This will open up the Edit group section.
 
-<figure><img src="../../.gitbook/assets/image (3552).png" alt=""><figcaption><p>Edit Group</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3934).png" alt=""><figcaption><p>Edit Group</p></figcaption></figure>
 
-Here, go to the Target bonus section.
+Here, go to the Target bonus section and click on **Edit**.
 
-![Target bonus](<../../.gitbook/assets/image (2753).png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-08-18 174911.png" alt=""><figcaption><p>Target bonus > Click on Edit</p></figcaption></figure>
 
-Now, click on **Edit**.
+Now, click on **New target**.
 
-![Click on Edit](<../../.gitbook/assets/Screenshot 2021-08-18 143416.png>)
-
-After this, click on **New target**.
-
-![Click on New target](<../../.gitbook/assets/Screenshot 2021-08-18 143800.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-08-18 174915.png" alt=""><figcaption><p>Click on New target</p></figcaption></figure>
 
 This will open up the New target bonus window.
 
-![New target bonus](<../../.gitbook/assets/image (3189).png>)
+<figure><img src="../../.gitbook/assets/image (3936).png" alt=""><figcaption><p>New target bonus</p></figcaption></figure>
 
 Here, set the name of the target.
 
-![Set the name](<../../.gitbook/assets/Screenshot 2021-08-18 144144 (2).png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-08-18 174929.png" alt=""><figcaption><p>Set the name of the target</p></figcaption></figure>
 
 Now, set the minimum target value.&#x20;
 
-![Set minimum target value](<../../.gitbook/assets/Screenshot 2021-08-18 144754 (1).png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-08-18 174939.png" alt=""><figcaption><p>Set minimum target value</p></figcaption></figure>
 
-After this, select the parameter the target will apply on.
+Next, select the parameter the target will apply to.
 
-![Select the parameter the target will apply on](<../../.gitbook/assets/Screenshot 2021-08-18 145307.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-08-18 174946.png" alt=""><figcaption><p>Select the parameter the target will apply to</p></figcaption></figure>
 
-Now, select the time period for the target.
+After this, select the time period for the target.
 
-![Select the time period](<../../.gitbook/assets/Screenshot 2021-08-18 150351.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-08-18 182600.png" alt=""><figcaption><p>Set the time period</p></figcaption></figure>
 
-Finally, set the bonus amount.
+Now, set the bonus amount.
 
-![Set the bonus amount](<../../.gitbook/assets/Screenshot 2021-08-18 150551.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-08-18 182606.png" alt=""><figcaption><p>Set the bonus amount</p></figcaption></figure>
 
-Now, click on **Submit**.
+You can also choose how the affiliates receive their bonus: cash or store credit.
 
-![Click on Submit](<../../.gitbook/assets/Screenshot 2021-08-18 150755.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-08-18 182611.png" alt=""><figcaption><p>Choose how the affiliates receive their bonus</p></figcaption></figure>
 
-After this, click on **Save**.
+Finally, click on **Submit**.
 
-![Click on Save](<../../.gitbook/assets/Screenshot 2021-08-18 152016.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-08-18 182616.png" alt=""><figcaption><p>Click on Submit</p></figcaption></figure>
 
-The newly set target will get saved for the group.
+Click on **Save**.
 
-![](<../../.gitbook/assets/image (1666).png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-08-18 1826202.png" alt=""><figcaption><p>Click on Save</p></figcaption></figure>
+
+The newly set target will be saved for the group.
+
+<figure><img src="../../.gitbook/assets/image (3937).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/v18AnBgzJsE" %}
 Set Targets for Group
