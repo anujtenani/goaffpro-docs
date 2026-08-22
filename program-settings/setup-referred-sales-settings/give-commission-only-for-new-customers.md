@@ -1,4 +1,4 @@
-# Give Commission Only for New Customers
+# Give Commission Only for New Customer Sales
 
 **GoAffPro** provides you with the option to give commission to affiliates only for referral sales by new customers.&#x20;
 
@@ -30,6 +30,6 @@ Finally, click on **Save**.
 
 ![](<../../.gitbook/assets/Annotation 2020-04-21 063205.png>)
 
-{% embed url="https://youtu.be/y-rHZdxTyAQ" %}
-Give Commissions Only for New Customers
+{% embed url="https://youtu.be/1QVAr3y-8gg" %}
+Give Commission Only for New Customer Sales
 {% endembed %}

@@ -476,7 +476,7 @@
   * [Set Commission Calculation Settings](program-settings/setup-referred-sales-settings/set-commission-calculation-settings/README.md)
     * [Test Commission Calculation Settings](program-settings/setup-referred-sales-settings/set-commission-calculation-settings/test-referred-sales-settings.md)
   * [Disable Commission for Self Referral](program-settings/setup-referred-sales-settings/disable-commission-for-self-referral.md)
-  * [Give Commission Only for New Customers](program-settings/setup-referred-sales-settings/give-commission-only-for-new-customers.md)
+  * [Give Commission Only for New Customer Sales](program-settings/setup-referred-sales-settings/give-commission-only-for-new-customers.md)
   * [Verify Sales Automatically](program-settings/setup-referred-sales-settings/verify-sales-automatically/README.md)
     * [Customize Sales Verification](program-settings/setup-referred-sales-settings/verify-sales-automatically/customize-sales-verification.md)
   * [Record Nil Sales](program-settings/setup-referred-sales-settings/record-nil-sales.md)
