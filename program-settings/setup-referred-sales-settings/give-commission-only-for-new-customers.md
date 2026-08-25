@@ -8,27 +8,19 @@ The Give commission only for new customers option allows you to award commission
 
 To give commission to affiliates for referral sales by new customers, go to the **General** section of the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (3605).png" alt=""><figcaption><p>Settings > General</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3938).png" alt=""><figcaption><p>Settings > General</p></figcaption></figure>
 
 Here, go to the Sales section.
 
-![Sales](<../../.gitbook/assets/image (2708).png>)
+<figure><img src="../../.gitbook/assets/image (3939).png" alt=""><figcaption><p>Sales</p></figcaption></figure>
 
-Now, enable the "**Give Commission only for new customers**" option.
+Now, enable the "**Only record new customer purchases**" option.
 
-{% hint style="info" %}
-If enabled, the commission will be given to affiliates only for referring new customers.&#x20;
-{% endhint %}
+<figure><img src="../../.gitbook/assets/Screenshot 2026-08-25 204046.png" alt=""><figcaption><p>Enable the "Only record new customer purchases" option</p></figcaption></figure>
 
-![Enable the "Give commission only for new customers" option](<../../.gitbook/assets/image (1648).png>)
+Commissions will now be given to affiliates only for new customer purchases.
 
-You also have the option to select affiliates to set as exceptions to this.
-
-![Select affiliates as exceptions](<../../.gitbook/assets/Annotation 2020-04-21 062618.png>)
-
-Finally, click on **Save**.
-
-![](<../../.gitbook/assets/Annotation 2020-04-21 063205.png>)
+<figure><img src="../../.gitbook/assets/image (3940).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/1QVAr3y-8gg" %}
 Give Commission Only for New Customer Sales
