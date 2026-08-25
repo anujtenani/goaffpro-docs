@@ -6,7 +6,7 @@ description: GoAffPro Admin Page > Grow > Marketing
 
 The **Marketing** tab allows you to set up email marketing campaigns for your affiliates. With the Email Marketing feature, you can create both bulk and drip email campaigns. This feature allows you to send emails to all affiliates at once and schedule them for future delivery. Additionally, you can view statistics related to your campaigns.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Marketing</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Marketing</p></figcaption></figure>
 
 You can click on **New campaign** to create a new email marketing campaign for your affiliates.
 

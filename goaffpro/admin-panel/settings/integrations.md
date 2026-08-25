@@ -236,7 +236,7 @@ You can use this to connect third-party checkout apps with GoAffPro.
 
 You can use this to enable tracking when using the Shopify buy button embedded on external sites.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Shopify Buy Button</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Shopify Buy Button</p></figcaption></figure>
 
 {% content-ref url="../../../program-settings/integrations/shopify-buy-button-integration.md" %}
 [shopify-buy-button-integration.md](../../../program-settings/integrations/shopify-buy-button-integration.md)
