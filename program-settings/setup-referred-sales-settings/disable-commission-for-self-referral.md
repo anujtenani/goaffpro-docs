@@ -34,6 +34,6 @@ If enabled, it will prevent affiliates from earning commissions when another aff
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-02-18 0140204.png" alt=""><figcaption><p>Enable the "<strong>Do not record sale if customer is an affiliate</strong>" option</p></figcaption></figure>
 
-{% embed url="https://www.youtube.com/watch?v=adZc0iYc80g" %}
-Disable Commission for Self Referral
+{% embed url="https://youtu.be/w8v4SS2Hg4Y" %}
+Disable Commission on Personal Purchases
 {% endembed %}
