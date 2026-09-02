@@ -8,51 +8,43 @@ To send Postback/S2S callback to the affiliate, go to the **All Affiliates** sec
 
 Here, click on the **affiliate's name.**
 
-![Click on the affiliate's name](<../../../.gitbook/assets/Annotation 2020-03-03 013129.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-09-03 001148 (2).png" alt=""><figcaption><p>Click on the affiliate's name</p></figcaption></figure>
 
-This will open up the affiliate's profile.
+This will open the affiliate's profile.
 
-![Affiliate Profile](<../../../.gitbook/assets/Annotation 2020-03-03 013817 (1).png>)
+<figure><img src="../../../.gitbook/assets/image (3943).png" alt=""><figcaption><p>Affiliate Profile</p></figcaption></figure>
 
 Now, go to the **Settings** tab.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-09-30 2021492.png" alt=""><figcaption><p>Settings tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-09-03 001157 (2).png" alt=""><figcaption><p>Settings tab</p></figcaption></figure>
 
-Here, go to the S2S Callback section.
+Here, go to the S2S Callback (Postbacks) section.
 
-![S2S Callback](<../../../.gitbook/assets/image (2171).png>)
+<figure><img src="../../../.gitbook/assets/image (3947).png" alt=""><figcaption><p>S2S Callback (Postbacks)</p></figcaption></figure>
 
-Now, click on **Order created callback**.
+Now, click on the **callback**.
 
-![Click on Order created callback](<../../../.gitbook/assets/Screenshot 2020-09-29 173826 (1).png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-09-03 013618.png" alt=""><figcaption><p>Click on the callback</p></figcaption></figure>
 
-This will open up the Setup order created callback window.
+This will open the setup callback window.
 
-![Order created callback](<../../../.gitbook/assets/image (822).png>)
+<figure><img src="../../../.gitbook/assets/image (3949).png" alt=""><figcaption><p>Setup callback window</p></figcaption></figure>
 
-Now, select the HTTP method.
+After this, select the HTTP method and enter the URL.&#x20;
 
 {% hint style="info" %}
 You can select either GET or POST.
 {% endhint %}
 
-![Select the HTTP method](<../../../.gitbook/assets/Screenshot 2020-09-29 174201.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-09-03 01363242.png" alt=""><figcaption><p>Select the HTTP method > Enter the URL</p></figcaption></figure>
 
-After this, enter the URL.
+Finally, click on **Submit**.
 
-![Enter the URL](<../../../.gitbook/assets/Screenshot 2020-09-29 174433.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-09-03 013647.png" alt=""><figcaption><p>Click on Submit</p></figcaption></figure>
 
-Click on **Submit**.
+The newly set S2S callback will be saved.
 
-![Click on Submit](<../../../.gitbook/assets/Screenshot 2020-09-29 174647.png>)
-
-Finally, the newly set S2S callback will be saved.
-
-![S2S Callback saved](<../../../.gitbook/assets/image (385).png>)
-
-The same process can be followed to set the Order updated callback.
-
-![](<../../../.gitbook/assets/Screenshot 2020-09-29 175150.png>)
+<figure><img src="../../../.gitbook/assets/image (3950).png" alt=""><figcaption><p>S2S Callback saved</p></figcaption></figure>
 
 <details>
 

@@ -8,31 +8,43 @@ To set an affiliate's notification preferences, go to the **All Affiliates** sec
 
 Here, click on the **affiliate's name.**
 
-![Click on the affiliate's name](<../../../.gitbook/assets/Annotation 2020-03-03 013129.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-09-03 001148 (1).png" alt=""><figcaption><p>Click on the affiliate's name</p></figcaption></figure>
 
-This will open up the affiliate's profile.
+This will open the affiliate's profile.
 
-![Affiliate Profile](<../../../.gitbook/assets/Annotation 2020-03-03 013817 (1).png>)
+<figure><img src="../../../.gitbook/assets/image (3942).png" alt=""><figcaption><p>Affiliate Profile</p></figcaption></figure>
 
 Now, go to the **Settings** tab.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-09-30 2021492.png" alt=""><figcaption><p>Settings tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-09-03 001157 (1).png" alt=""><figcaption><p>Settings tab</p></figcaption></figure>
 
 Here, go to the Notification Preferences section.
 
-<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption><p>Notification Preferences</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3945).png" alt=""><figcaption><p>Notification Preferences</p></figcaption></figure>
 
 Now, you can select the notifications sent to the affiliate.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2025-10-29 181236.png" alt=""><figcaption><p>Select the notifications</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-09-03 003309.png" alt=""><figcaption><p>Select the notifications</p></figcaption></figure>
 
-You can set the preferred language for the email notifications sent to this affiliate.&#x20;
+You can set the preferred language for the email notifications sent to this affiliate.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2025-10-29 181236 (1).png" alt=""><figcaption><p>Set email notification language</p></figcaption></figure>
+&#x20;
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-09-03 0033093.png" alt=""><figcaption><p>Set email notification language</p></figcaption></figure>
 
 You can also disable email notifications for the affiliate by turning off the "Send Notifications" option.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2025-10-29 181510.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-09-03 003316.png" alt=""><figcaption><p>Disable email notifications</p></figcaption></figure>
+
+#### Affiliate Email Log&#x20;
+
+You can also view the affiliate email log by clicking on **View Email Log**.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-09-03 003309 (1).png" alt=""><figcaption><p>View email log</p></figcaption></figure>
+
+In the email log window, you can view the notification emails sent to the affiliate.
+
+<figure><img src="../../../.gitbook/assets/image (3946).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/tOS7JY0UIzQ" %}
 Set Affiliate's Notification Preferences
