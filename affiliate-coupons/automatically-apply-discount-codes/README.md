@@ -16,6 +16,6 @@ This will enable discount codes to get automatically applied at checkout for cus
 
 ![](<../../.gitbook/assets/Annotation 2020-02-03 171838.png>)
 
-{% embed url="https://youtu.be/VsT5jwcYfCA" %}
+{% embed url="https://youtu.be/q2Z-_Z3o6Dw" %}
 Automatically Apply Discount Codes
 {% endembed %}
