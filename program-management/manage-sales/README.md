@@ -14,4 +14,4 @@ The **Sales** tab provides you with the option to manage the sales that get reco
 
 Go to the **Sales** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (3660).png" alt=""><figcaption><p>Sales</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3956).png" alt=""><figcaption><p>Sales</p></figcaption></figure>

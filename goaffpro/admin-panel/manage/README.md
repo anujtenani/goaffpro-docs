@@ -17,8 +17,7 @@ description: GoAffPro Admin Page > Manage
 
 ### **Sales**
 
-* In the **Pending Approval** section, view the sales made using the affiliate referrals, you can approve or reject these orders.
-* In the **All Sales** section, view all the sales made using affiliate referrals. The table showcases the order date, order number, order amount, affiliate who referred it, commission earned on the sale, and order status.
+View all the **sales** made through affiliate referrals. The table displays the order date, order number, order amount, the affiliate who referred the sale, the commission earned, and the order status.
 
 {% content-ref url="sales.md" %}
 [sales.md](sales.md)
@@ -26,7 +25,7 @@ description: GoAffPro Admin Page > Manage
 
 ### **Payouts**
 
-* In the **Pending Payment** section, view pending payments that have to be made to affiliates, with a table showing the names, amounts, and payment details of affiliates.
+* In the **Payment** section, view pending payments that have to be made to affiliates, with a table showing the names, amounts, and payment details of affiliates.
 * In the **Payment History** section, view the payments that you have made in the past, with the table showing the date, name, payment amount, and details.
 
 {% content-ref url="payouts.md" %}
@@ -35,7 +34,7 @@ description: GoAffPro Admin Page > Manage
 
 ### **Social Media**
 
-Setup social media **campaign tracking** for your affiliates, enabling them to track the performance of their social media campaigns and posts.
+Set up social media **campaign tracking** for your affiliates, enabling them to track the performance of their social media campaigns and posts.
 
 {% content-ref url="social-media.md" %}
 [social-media.md](social-media.md)
