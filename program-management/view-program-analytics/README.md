@@ -10,7 +10,7 @@ Here, you can **view the stats of your affiliates**. You can filter data by affi
 
 <figure><img src="../../.gitbook/assets/image (3954).png" alt=""><figcaption><p>Analytics > Visits</p></figcaption></figure>
 
-You can view the number of clicks, sales, signups, gross revenue, net revenue, commissions, and bonuses. Additionally, you can view stats like the total cost to the company, cost per conversion, cost per click, cost per new customer acquistion, average order value (AOV), conversion rate, and ROAS (return on ad spend). &#x20;
+You can view the number of clicks, sales, signups, gross revenue, net revenue, commissions, and bonuses. Additionally, you can view stats like the total cost to the company, cost per conversion, cost per click, cost per new customer acquisition, average order value (AOV), conversion rate, and ROAS (return on ad spend). &#x20;
 
 You can also click on the **data cards** to view their graphs.&#x20;
 
@@ -24,16 +24,16 @@ You can also click on the **data cards** to view their graphs.&#x20;
 * **Commission**: Commissions earned by affiliates on the sales they have referred.
 * **Bonuses**: Non-referral sales earnings like multi-level commissions, target bonuses, etc.
 * **Total Cost to Company**: Combined total of commissions and bonuses earned.
-* **Cost per conversion:** Average payout per order for the affiliate program. (total payout / total sales)
-* **Cost per click:** Average payout per traffic for the affiliate program. (total payout / total referral traffic)
-* **Cost per new customer acquisition:** Average payout per new customer order for the program. (total payout / new customer orders)&#x20;
+* **Cost per conversion:** Average payout per order for the affiliate program. (total payout/total sales)
+* **Cost per click:** Average payout per traffic for the affiliate program. (total payout/total referral traffic)
+* **Cost per new customer acquisition:** Average cost to the company per new customer order in the program. (total cost to company/number of new customer orders)
 * **Average order value:** Average order value of the sales made through affiliate referrals.
-* **Conversion rate:** Percentage of total orders relative to total referrals. (number of orders / number of referrals \* 100)
-* **ROAS (Return on Ad Spend):** Revenue generated based on the additional costs incurred by affiliates.
+* **Conversion rate:** Percentage of total orders relative to total referrals. (number of orders/number of referrals \* 100)
+* **ROAS (Return on Ad Spend):** Revenue generated based on the total cost to company. (total revenue/total cost to company)&#x20;
 
 <figure><img src="../../.gitbook/assets/image (3955).png" alt=""><figcaption><p>Data cards &#x26; graph</p></figcaption></figure>
 
-After this, you can also view the visitor data, from the visits made using the referral link of affiliates. The table showcases stats like the date, page, affiliate name, page views, and order number.&#x20;
+After this, you can also view the visitor data from the visits made using the referral link of affiliates. The table showcases stats like the date, page, affiliate name, page views, and order number.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (1573).png" alt=""><figcaption><p>Visits table</p></figcaption></figure>
 
