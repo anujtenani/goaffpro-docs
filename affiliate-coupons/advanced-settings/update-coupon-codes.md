@@ -55,3 +55,7 @@ Now, click on **Generate Coupons**.
 Finally, the coupons with the updated settings will be recreated. &#x20;
 
 ![](<../../.gitbook/assets/image (2695).png>)
+
+{% embed url="https://youtu.be/ryrxik2a8Xw" %}
+Update Coupon Codes
+{% endembed %}
