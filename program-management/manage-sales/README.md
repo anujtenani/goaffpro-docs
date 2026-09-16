@@ -2,8 +2,8 @@
 
 The **Sales** tab provides you with the option to manage the sales that get recorded in your store via affiliate referrals. These options include:
 
-* [Customize All Sales Table](../manage-affiliates/customize-all-affiliates-table.md)
-* [View Conversion Source of Sales](customize-all-sales-table/view-conversion-source-of-sales.md)
+* [Customize Sales Table](../manage-affiliates/customize-all-affiliates-table.md)
+* [View Conversion Source of Sales](customize-sales-table/view-conversion-source-of-sales.md)
 * [View Affiliate Sale Details](view-affiliate-sale-details.md)
 * [Accept/Reject Affiliate Sales](accept-reject-affiliate-sales.md)
 * [Assign Sale to an Affiliate](assign-sale-to-an-affiliate.md)

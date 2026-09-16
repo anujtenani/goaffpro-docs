@@ -38,8 +38,8 @@ Go to the Sales > All Sales section > Click on Settings > Select Conversion Deta
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-02-04 172648.png" alt=""><figcaption><p>Conversion Details for All Sales table</p></figcaption></figure>
 
-{% content-ref url="../program-management/manage-sales/customize-all-sales-table/" %}
-[customize-all-sales-table](../program-management/manage-sales/customize-all-sales-table/)
+{% content-ref url="../program-management/manage-sales/customize-sales-table/" %}
+[customize-sales-table](../program-management/manage-sales/customize-sales-table/)
 {% endcontent-ref %}
 
 ### Use the Blocked IP/Origins option

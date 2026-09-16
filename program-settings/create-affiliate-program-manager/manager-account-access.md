@@ -4,11 +4,11 @@
 
 To limit access to the admin panel for manager accounts, go to the **Extras** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
 
 Here, go to the Manager accounts section.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Manager accounts</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Manager accounts</p></figcaption></figure>
 
 Now, click on **New Manager Account**.
 
@@ -36,11 +36,11 @@ Finally, click on **Submit**.
 
 The manager account will be created, and the permissions will be assigned to it.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>The manager account will be created &#x26; permissions will be set</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>The manager account will be created &#x26; permissions will be set</p></figcaption></figure>
 
 The inaccessible sections set for the manager account will display the "You do not have permission to see this data" alert.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=Z2tlA8xafSo" %}
 Limit Access to Manager Accounts
