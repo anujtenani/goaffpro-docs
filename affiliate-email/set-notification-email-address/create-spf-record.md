@@ -33,3 +33,7 @@ v=spf1 include:amazonses.com ~all
 ```
 
 <figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption><p>SPF Record</p></figcaption></figure>
+
+{% embed url="https://youtu.be/YMNb2lPDLiM" %}
+Create SPF Record
+{% endembed %}
