@@ -239,6 +239,7 @@
     * [Set Affiliate's Commission Hold Time](program-management/manage-affiliates/affiliate-profile-settings/set-affiliates-commission-hold-time.md)
     * [Customize Affiliate's Referral Code](program-management/manage-affiliates/affiliate-profile-settings/customize-affiliates-referral-code.md)
     * [Change Affiliate's Profile Information](program-management/manage-affiliates/affiliate-profile-settings/change-affiliates-profile-information.md)
+    * [Set Affiliate's Withholding Tax Rate](program-management/manage-affiliates/affiliate-profile-settings/set-affiliates-withholding-tax-rate.md)
     * [Change Affiliate's Password & Email Address](program-management/manage-affiliates/affiliate-profile-settings/change-affiliates-password-and-email-address.md)
     * [Set Affiliate's Notification Preferences](program-management/manage-affiliates/affiliate-profile-settings/set-affiliates-notification-preferences.md)
     * [Remove Affiliate from Bounce List](program-management/manage-affiliates/affiliate-profile-settings/remove-affiliate-from-bounce-list.md)

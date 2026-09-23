@@ -29,6 +29,7 @@ This will open up the Settings section.
   * [Commission hold time](set-affiliates-commission-hold-time.md)
 * [Referral Code](customize-affiliates-referral-code.md)
 * [Profile Information](change-affiliates-profile-information.md)
+* [Withholding Tax Rate](set-affiliates-withholding-tax-rate.md)
 * [Account Settings](change-affiliates-password-and-email-address.md)
 * [Cookie Duration](../../../program-settings/set-cookie-duration/set-cookie-duration-for-affiliate.md)
 * [Notification Preferences](set-affiliates-notification-preferences.md)
