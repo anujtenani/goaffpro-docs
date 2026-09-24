@@ -18,9 +18,9 @@ Next, set the session title and click on **Submit**.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-06-17 1824247.png" alt=""><figcaption><p>Set session title > Click on Submit</p></figcaption></figure>
 
-Now, click on **Select All**.&#x20;
+Now, click on **Get Unpaid Transactions** and **Select all**.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-06-17 165932.png" alt=""><figcaption><p>Click on Select All</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-06-17 165932.png" alt=""><figcaption><p>Get Unpaid Transactions > Select all</p></figcaption></figure>
 
 After this, click on **Download**.&#x20;
 
