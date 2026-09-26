@@ -37,3 +37,7 @@ Finally, click on **Submit**.&#x20;
 The withholding tax rate will be set for the affiliate.
 
 <figure><img src="../../../.gitbook/assets/image (3963).png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://youtu.be/PkR6V5sfkqE" %}
+Set Affiliate's Withholding Tax Rate
+{% endembed %}
