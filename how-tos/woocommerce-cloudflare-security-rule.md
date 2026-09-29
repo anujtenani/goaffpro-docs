@@ -1,5 +1,6 @@
 ---
 description: For WooCommerce merchants only
+noIndex: true
 ---
 
 # WooCommerce Cloudflare Security Rule
