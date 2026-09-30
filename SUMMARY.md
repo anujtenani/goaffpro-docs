@@ -58,7 +58,7 @@
     * [ThriveCart Integration](how-tos/manual-integration/custom-sdk-integration/thrivecart-integration.md)
     * [E-Junkie Integration](how-tos/manual-integration/custom-sdk-integration/e-junkie-integration.md)
     * [CartX Integration](how-tos/manual-integration/custom-sdk-integration/cartx-integration.md)
-* [WooCommerce Cloudflare Firewall Rule](how-tos/woocommerce-cloudflare-firewall-rule.md)
+* [WooCommerce Cloudflare IP Rules](how-tos/woocommerce-cloudflare-ip-rules.md)
 
 ## Affiliate Commissions
 
