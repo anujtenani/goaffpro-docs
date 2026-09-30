@@ -5,57 +5,21 @@ noIndex: true
 
 # WooCommerce Cloudflare Security Rule
 
-### To set up a custom security rule for GoAffPro, if you are using Cloudflare:&#x20;
+### To allow GoAffPro to access your store API, if you are using Cloudflare:&#x20;
 
-Open your Cloudflare dashboard and go to the Security > Security rules section.&#x20;
+In your Cloudflare dashboard, open the Security section and click on the WAF option.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-10-08 185855.png" alt=""><figcaption><p>Cloudflare dashboard > Security > Security Rules section</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-09-30 202526.png" alt=""><figcaption><p>Cloudflare > Security > WAF</p></figcaption></figure>
 
-Now, click on **Create rule**.
+Here, go to the Tools section.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-10-08 190108.png" alt=""><figcaption><p>Click on Create rule</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-09-30 202532.png" alt=""><figcaption><p>Go to the Tools section</p></figcaption></figure>
 
-Next, select the custom rules option.
+After this, in the IP Access Rules section, add the following IP addresses with the "Allow" action:&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-10-08 190315.png" alt=""><figcaption><p>Select the custom rules option</p></figcaption></figure>
+* 5.161.205.57
+* 2a01:4ff:f0:9b54::1
 
-Here, set the rule name.
+Finally, click on **Add**.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-10-08 190401.png" alt=""><figcaption><p>Set the rule name</p></figcaption></figure>
-
-Now, select the "**User Agent**" field.
-
-<figure><img src="../.gitbook/assets/Screenshot 2025-10-08 190519.png" alt=""><figcaption><p>Select the "User Agent" field</p></figcaption></figure>
-
-Next, select the "**contains**" operator.&#x20;
-
-<figure><img src="../.gitbook/assets/Screenshot 2025-10-08 190617.png" alt=""><figcaption><p>Select the "contains" operator</p></figcaption></figure>
-
-After this, set "**goaffpro**" as the value.
-
-<figure><img src="../.gitbook/assets/Screenshot 2025-10-08 190743.png" alt=""><figcaption><p>Set "goaffpro" as the value</p></figcaption></figure>
-
-Now, choose the skip action.&#x20;
-
-<figure><img src="../.gitbook/assets/Screenshot 2025-10-08 190838.png" alt=""><figcaption><p>Select the skip action</p></figcaption></figure>
-
-Select the following WAF components to skip:
-
-* All remaining custom rules.
-* All rate limiting rules.
-* All managed rules
-* All Super Both Fight Mode Rules.&#x20;
-
-<figure><img src="../.gitbook/assets/Screenshot 2025-10-08 190952.png" alt=""><figcaption><p>Select the WAF components to skip</p></figcaption></figure>
-
-Finally, click on **Deploy**.
-
-<figure><img src="../.gitbook/assets/Screenshot 2025-10-08 1909524.png" alt=""><figcaption><p>Click on Deploy</p></figcaption></figure>
-
-The custom security rule will be created.&#x20;
-
-<figure><img src="../.gitbook/assets/Screenshot 2025-10-08 191051.png" alt=""><figcaption></figcaption></figure>
-
-{% embed url="https://youtu.be/oXkudt0Gwnk" %}
-WooCommerce Cloudflare Security Rule
-{% endembed %}
+<figure><img src="../.gitbook/assets/Screenshot 2026-09-30 202535142.png" alt=""><figcaption><p>IP Access Rules section > Add the IP addresses > "Allow" Action > Click on Add</p></figcaption></figure>
