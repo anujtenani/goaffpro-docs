@@ -1,9 +1,8 @@
 ---
 description: For WooCommerce merchants only
-noIndex: true
 ---
 
-# WooCommerce Cloudflare Firewall Rule
+# WooCommerce Cloudflare IP Rules
 
 ### Allow GoAffPro's IP address in your Cloudflare firewall rules so it can access your store API:&#x20;
 

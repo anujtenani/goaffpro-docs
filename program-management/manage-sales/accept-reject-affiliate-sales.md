@@ -6,7 +6,7 @@
 You have the option to accept or reject an affiliate sale. Only when an affiliate sale is accepted (approved), will the affiliate receive the commission on it.&#x20;
 {% endhint %}
 
-To accept or reject an affiliate sale, go to the **Pending Approval** section in the **Sales** tab of the GoAffPro admin panel.
+To accept or reject an affiliate sale, go to the **Sales** tab in the GoAffPro admin panel.
 
 <figure><img src="../../.gitbook/assets/image (86) (1).png" alt=""><figcaption><p>Sales  > Pending Approval </p></figcaption></figure>
 
