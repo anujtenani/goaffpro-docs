@@ -30,6 +30,6 @@ Finally, the order will be assigned to the affiliate.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (3968).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://youtu.be/lLk3RSJnLOM" %}
+{% embed url="https://youtu.be/I1OPoKhj0KM" %}
 Assign Sale to an Affiliate
 {% endembed %}
