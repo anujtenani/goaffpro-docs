@@ -16,7 +16,7 @@ In the **Coupons** tab, you will see the **Coupon Based Commissions** section. H
 
 To assign a coupon to an affiliate, click on **Assign coupon to affiliate.** Here, you can select the partner/affiliate and set the coupon code. Click on **Submit** to assign the coupon to the affiliate.
 
-![Assign Coupon to Affiliates](<../../../.gitbook/assets/image (697).png>)
+<figure><img src="../../../.gitbook/assets/image (3974).png" alt=""><figcaption><p>Assign Coupon to Affiliates</p></figcaption></figure>
 
 {% content-ref url="../../../affiliate-coupons/assign-coupon-to-affiliate/" %}
 [assign-coupon-to-affiliate](../../../affiliate-coupons/assign-coupon-to-affiliate/)
@@ -26,7 +26,7 @@ To assign a coupon to an affiliate, click on **Assign coupon to affiliate.** Her
 
 **Automatic Coupons** can be utilized to generate coupons for affiliates automatically.
 
-![Automatic Coupons](<../../../.gitbook/assets/image (1783).png>)
+<figure><img src="../../../.gitbook/assets/image (3975).png" alt=""><figcaption><p>Automatic Coupons</p></figcaption></figure>
 
 {% content-ref url="../../../affiliate-coupons/setup-referral-coupons/automatically-generate-coupons/" %}
 [automatically-generate-coupons](../../../affiliate-coupons/setup-referral-coupons/automatically-generate-coupons/)
@@ -42,9 +42,13 @@ For more advanced settings, open the **Advanced** section. Here, you can set opt
 
 With the **Coupon Style** option, you can choose the style in which the coupons are generated. In the Automatic Coupons section, click on **Change Style**.
 
-![Change Style](<../../../.gitbook/assets/Screenshot 2019-08-04 at 4.29.52 AM.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-10-08 025149421.png" alt=""><figcaption><p>Change Style</p></figcaption></figure>
 
-In the **Automatic Coupons Style** window, you will be provided with the option to change the style of the coupon code. There are four types of coupon code styles you can choose from:
+In the **Automatic Coupons Style** window, you will be provided with the option to change the style of the coupon code.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (3976).png" alt=""><figcaption><p>Automatic Coupons Style</p></figcaption></figure>
+
+There are five types of coupon code styles you can choose from:
 
 * **Affiliate's Name**: The coupon code gets generated using the affiliate's name.
 * **Affiliate's Instagram Handle**: The coupon code gets generated according to the affiliate's Instagram handle.
@@ -108,7 +112,7 @@ Here, you can view the leaked coupon codes. After taking the appropriate action,
 
 The **Personal Coupons** option can be used to generate personal coupons for affiliates automatically. Any purchase made using these personal coupons will not generate any commission for the affiliate.
 
-<figure><img src="../../../.gitbook/assets/image (1877).png" alt=""><figcaption><p>Personal Coupons</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3977).png" alt=""><figcaption><p>Personal Coupons</p></figcaption></figure>
 
 To change the discount type or value of the personal coupons, you can click on **Change**. Here, you can set the discount type and discount value. You can also set usage limits for the personal codes.&#x20;
 

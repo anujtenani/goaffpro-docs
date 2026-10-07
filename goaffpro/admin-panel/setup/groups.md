@@ -10,7 +10,7 @@ The **Groups** tab allows the creation of commission groups for affiliates, simp
 
 In the **Settings** tab of the GoAffPro admin panel, go to the **Extras** section.
 
-![Settings > Extras](<../../../.gitbook/assets/image (1023).png>)
+<figure><img src="../../../.gitbook/assets/image (3981).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
 
 Here, in the **Affiliate Groups** section, you can **enable** the toggle.
 

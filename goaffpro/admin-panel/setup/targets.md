@@ -12,7 +12,7 @@ The **targets** tab allows you to set up targets for your affiliates, when an af
 
 In the **Settings** tab of the GoAffPro admin panel, go to the **Extras** section.
 
-![Settings > Extras](<../../../.gitbook/assets/Annotation 2020-03-04 220302.png>)
+<figure><img src="../../../.gitbook/assets/image (3980).png" alt=""><figcaption><p>Settings > Extras</p></figcaption></figure>
 
 Here, in the **Targets and Bonuses** section, you can enable the **toggle**.
 

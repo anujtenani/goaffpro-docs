@@ -10,11 +10,11 @@ The **Connections** tab can be used to connect affiliates with customers. Whenev
 
 In the **Settings** tab of the GoAffPro admin panel, go to the **Extras** section.
 
-![Settings > Extras ](<../../../.gitbook/assets/Annotation 2020-03-04 220416.png>)
+<figure><img src="../../../.gitbook/assets/image (3979).png" alt=""><figcaption><p>Settings > Extras </p></figcaption></figure>
 
 Here, in the **Customer-Affiliate Connect** section, you can enable the **toggle**.
 
-<figure><img src="../../../.gitbook/assets/image (481).png" alt=""><figcaption><p>Customer-Affiliate Connect</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3978).png" alt=""><figcaption><p>Customer-Affiliate Connect</p></figcaption></figure>
 
 After enabling the Customer-Affiliate Connect, the **Connections** tab will appear in the admin panel.
 
