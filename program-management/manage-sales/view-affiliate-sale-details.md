@@ -4,7 +4,7 @@
 
 To view details of affiliate sales, go to the **Sales** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Sales</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Sales</p></figcaption></figure>
 
 Here, click on the **order number.**
 

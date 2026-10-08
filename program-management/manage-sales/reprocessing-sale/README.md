@@ -2,37 +2,33 @@
 
 **GoAffPro** provides you with the option to reprocess referral sales.
 
-To reprocess referral sales, go to the **All Sales** section in the **Sales** tab of the GoAffPro admin panel.
+To reprocess referral sales, go to the **Sales** tab in the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (83) (1).png" alt=""><figcaption><p>Sales > All Sales</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Sales</p></figcaption></figure>
 
 Here, click on **Reject**.
 
-![Click on Reject](<../../../.gitbook/assets/Screenshot 2021-03-09 055341.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-10-08 130001.png" alt=""><figcaption><p>Click on Reject</p></figcaption></figure>
 
 Now, click on **Delete**.
 
-![Click on Delete](<../../../.gitbook/assets/Screenshot 2021-03-09 060233.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-10-08 130007.png" alt=""><figcaption><p>Click on Delete</p></figcaption></figure>
 
 After this, click on **create a new sale manually**.
 
-![Click on create a new sale manually](<../../../.gitbook/assets/Screenshot 2021-03-09 060445.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-10-08 130011.png" alt=""><figcaption><p>Click on create a new sale manually</p></figcaption></figure>
 
-This will open up the Assign Sale to Affiliate section.
+&#x20;Next, select the order number and the affiliate.
 
-![Assign Sales to Affiliate](<../../../.gitbook/assets/image (2650).png>)
-
-Here, select the order number and the affiliate.
-
-![Select order number and affiliate](<../../../.gitbook/assets/Screenshot 2021-03-09 062436.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-10-08 130015.png" alt=""><figcaption><p>Select order number and affiliate</p></figcaption></figure>
 
 Finally, click on **Assign Order**.
 
-![Click on Assign Order](<../../../.gitbook/assets/Screenshot 2021-03-09 063312.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-10-08 13001942.png" alt=""><figcaption><p>Click on Assign Order</p></figcaption></figure>
 
-After this, the reprocessed sale will appear in the All Sales section of the Sales tab.&#x20;
+After this, the reprocessed sale will appear in the Sales tab.
 
-![](<../../../.gitbook/assets/image (3145).png>)
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=RcPyJYjhh5Y" %}
 Reprocessing Sales

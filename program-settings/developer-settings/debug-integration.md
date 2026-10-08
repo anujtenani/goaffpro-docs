@@ -4,7 +4,7 @@
 
 To debug referral link tracking on your store, go to the **Developer** section of the **Settings** tab in the GoAffPro admin panel.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Settings > Developer</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Settings > Developer</p></figcaption></figure>
 
 Here, go to the Debug Integration section.
 

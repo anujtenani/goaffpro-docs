@@ -8,7 +8,7 @@ You can customize the Sales table to display additional sale information such as
 
 To customize the Sales table, go to the **Sales** tab in the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Sales</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Sales</p></figcaption></figure>
 
 Here, click on **Settings**.
 
