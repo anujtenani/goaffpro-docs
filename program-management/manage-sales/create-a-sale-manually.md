@@ -50,6 +50,6 @@ The newly created sale will appear in the Sales tab.
 
 <figure><img src="../../.gitbook/assets/image (3972).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://youtu.be/3Sga3PBr8g4" %}
+{% embed url="https://youtu.be/O9u59Cs9JZs" %}
 Create a Sale Manually
 {% endembed %}
