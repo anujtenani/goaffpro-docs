@@ -52,9 +52,9 @@ Finally, add a product to your cart and complete the purchase. This sale will be
 
 * You will receive an email informing you that a new affiliate sale has been made.
 * The affiliate will receive an email informing them that a sale has been made using their referral.
-* You can view the referral sale recorded in the Sales > All Sales section.&#x20;
+* You can view the referral sale recorded in the Sales section.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-19 134631.png" alt=""><figcaption><p>Referral sale will be recorded in the Sales > All Sales table</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-14 163849512.png" alt=""><figcaption><p>Referral sale will be recorded in the Sales table</p></figcaption></figure>
 
 **If all of the above steps work out successfully, then your app has been installed successfully and is working properly.**
 
