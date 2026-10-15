@@ -1,6 +1,7 @@
 ---
 description: GoAffPro Admin Page > Manage > Affiliate Pages
 hidden: true
+noIndex: true
 ---
 
 # Affiliate Pages

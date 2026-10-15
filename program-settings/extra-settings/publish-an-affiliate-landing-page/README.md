@@ -1,6 +1,7 @@
 ---
 description: Affiliate Page Builder
 hidden: true
+noIndex: true
 ---
 
 # Publish an Affiliate Landing Page
