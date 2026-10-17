@@ -30,6 +30,6 @@ After this, the column will get added to the Sales table.
 
 <figure><img src="../../../.gitbook/assets/image (3960).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://www.youtube.com/watch?v=0JFRHPc_BOo" %}
+{% embed url="https://youtu.be/y7i8Uj8iP9s" %}
 Customize All Sales Table
 {% endembed %}
