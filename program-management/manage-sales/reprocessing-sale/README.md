@@ -28,7 +28,7 @@ Finally, click on **Assign Order**.
 
 After this, the reprocessed sale will appear in the Sales tab.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=RcPyJYjhh5Y" %}
 Reprocessing Sales

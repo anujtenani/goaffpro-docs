@@ -8,7 +8,7 @@ To limit access to the admin panel for manager accounts, go to the **Extras** se
 
 Here, go to the Manager accounts section.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Manager accounts</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Manager accounts</p></figcaption></figure>
 
 Now, click on **New Manager Account**.
 

@@ -24,8 +24,8 @@ The **Referral Link Parameters** option allows you to add parameters to the refe
 
 ![Referral Link Parameters](<../../../.gitbook/assets/Annotation 2020-02-27 030031.png>)
 
-{% content-ref url="../../../program-settings/advanced-settings/set-referral-link-parameters.md" %}
-[set-referral-link-parameters.md](../../../program-settings/advanced-settings/set-referral-link-parameters.md)
+{% content-ref url="../../../program-settings/referral-link-configuration/set-referral-link-parameters.md" %}
+[set-referral-link-parameters.md](../../../program-settings/referral-link-configuration/set-referral-link-parameters.md)
 {% endcontent-ref %}
 
 ### **Blocked IP/Origins**
@@ -74,12 +74,12 @@ Here, you can set up the referral links of affiliates to automatically get short
 
 ![Generate Shortened Links](<../../../.gitbook/assets/image (389).png>)
 
-{% content-ref url="../../../program-settings/generate-shortened-links/generate-shortened-bitly-links/" %}
-[generate-shortened-bitly-links](../../../program-settings/generate-shortened-links/generate-shortened-bitly-links/)
+{% content-ref url="../../../program-settings/referral-link-configuration/generate-shortened-links/generate-shortened-bitly-links/" %}
+[generate-shortened-bitly-links](../../../program-settings/referral-link-configuration/generate-shortened-links/generate-shortened-bitly-links/)
 {% endcontent-ref %}
 
-{% content-ref url="../../../program-settings/generate-shortened-links/generate-shortened-links-with-shopify-shortener.md" %}
-[generate-shortened-links-with-shopify-shortener.md](../../../program-settings/generate-shortened-links/generate-shortened-links-with-shopify-shortener.md)
+{% content-ref url="../../../program-settings/referral-link-configuration/generate-shortened-links/generate-shortened-links-with-shopify-shortener.md" %}
+[generate-shortened-links-with-shopify-shortener.md](../../../program-settings/referral-link-configuration/generate-shortened-links/generate-shortened-links-with-shopify-shortener.md)
 {% endcontent-ref %}
 
 ### Conversion Preference Order

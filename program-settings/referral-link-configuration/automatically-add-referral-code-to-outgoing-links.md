@@ -10,7 +10,7 @@ Here, go to the Referral link section.
 
 <figure><img src="../../.gitbook/assets/image (3414).png" alt=""><figcaption><p>Referral link</p></figcaption></figure>
 
-Now, you can disable the toggle or keep it enabled.
+In the Auto ref linking option, you can disable the toggle or keep it enabled.
 
 {% hint style="info" %}
 The Auto Ref linking option is enabled by default.

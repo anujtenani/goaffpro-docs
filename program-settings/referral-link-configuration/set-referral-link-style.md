@@ -14,9 +14,9 @@ Here, go to the Referral link section.
 
 <figure><img src="../../.gitbook/assets/image (3418).png" alt=""><figcaption><p>Referral link</p></figcaption></figure>
 
-Now, click on the **Referral Link Style** section.
+Now, click on the **Referral Link Style** option.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-01-23 115040 (3).png" alt=""><figcaption><p>Click on the Referral Link Style section</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-01-23 115040 (3).png" alt=""><figcaption><p>Click on the Referral Link Style option</p></figcaption></figure>
 
 This will open up the Referral Code Style window.
 

@@ -4,7 +4,7 @@
 
 To recalculate commission on sales, go to the **Sales** tab in the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Sales</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Sales</p></figcaption></figure>
 
 Here, click on the **order number**.
 
@@ -24,7 +24,7 @@ Finally, click on **Update**.
 
 The commission of the sale will be updated.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/yyinratqWJQ" %}
 Recalculate Commission

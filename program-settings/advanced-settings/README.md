@@ -3,12 +3,12 @@
 The **Advanced** settings section lets you configure and set up advanced features for your program. This includes options such as:
 
 * [Referral Link Configuration](../referral-link-configuration/)
-* [Referral Link Parameters](set-referral-link-parameters.md)
+* [Referral Link Parameters](../referral-link-configuration/set-referral-link-parameters.md)
 * [Block IP/Origins](block-commission-from-domains.md)&#x20;
 * [Block Google Ads](block-commission-from-google-ads.md)
 * [Click to Conversion Window](set-click-to-conversion-window.md)
 * [Affiliate Conflict Resolution](affiliate-conflict-resolution.md)
-* [Generate Shortened Links](../generate-shortened-links/)
+* [Generate Shortened Links](../referral-link-configuration/generate-shortened-links/)
 * [Conversion Preference Order](set-conversion-preference-order/)
 * [Configure Cookie Consent](configure-cookie-consent.md)
 * [Enable Cart Based Tracking](enable-cart-based-tracking.md)

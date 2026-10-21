@@ -14,7 +14,7 @@ Now, go to the Referral link section.
 
 <figure><img src="../../../.gitbook/assets/image (3416).png" alt=""><figcaption><p>Referral link</p></figcaption></figure>
 
-Here, enable the toggle.
+Here, in the Multiple Referral Codes option, enable the toggle.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-01-23 115040 (2).png" alt=""><figcaption><p>Enable the toggle</p></figcaption></figure>
 

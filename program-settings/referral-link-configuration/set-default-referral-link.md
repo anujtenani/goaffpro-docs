@@ -12,13 +12,13 @@ To set the default referral link for affiliates, go to the **Advanced** section 
 
 <figure><img src="../../.gitbook/assets/image (3411).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 
-Here, go to the Referral Link section.
+Here, go to the Referral link section.
 
-<figure><img src="../../.gitbook/assets/image (3412).png" alt=""><figcaption><p>Referral Link</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3412).png" alt=""><figcaption><p>Referral link</p></figcaption></figure>
 
-Now, click on the **Default Referral Link** section.
+Now, click on the **Default Referral Link** option.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-01-23 115040.png" alt=""><figcaption><p>Click on the Default Referral Link section</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-01-23 115040.png" alt=""><figcaption><p>Click on the Default Referral Link option</p></figcaption></figure>
 
 This will open up the Update default referral link window.
 
