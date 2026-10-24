@@ -1,6 +1,6 @@
 # View Conversion Source of Sales
 
-**GoAffPro** provides you with the option to view the conversion source of the sales.
+**GoAffPro** provides you with the option to view the conversion source of sales.
 
 To view the conversion source of the sales, go to the **Sales** tab in the GoAffPro admin panel.
 
@@ -45,6 +45,6 @@ After this, the conversion source column will get added to the Sales table.
 
 </details>
 
-{% embed url="https://youtu.be/tzmm1yq_vC8" %}
+{% embed url="https://youtu.be/N0Q8W_GAi68" %}
 View Conversion Source of Sales
 {% endembed %}
