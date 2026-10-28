@@ -6,17 +6,21 @@ To shorten affiliate links as Bitly links, go to the **Advanced** section in the
 
 <figure><img src="../../../../.gitbook/assets/image (4004).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 
-Here, go to the Generate Shortened Links section.
+Here, go to the Referral link section.
 
 <figure><img src="../../../../.gitbook/assets/image (4006).png" alt=""><figcaption><p>Referral link</p></figcaption></figure>
 
-Now, select the **bit.ly** shortener option.
+Now, click on the **Generate Shortened Links** option.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-09-23 14135f7.png" alt=""><figcaption><p>Select the bit.ly shortener</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2026-10-28 164747 (1).png" alt=""><figcaption><p>Click on the Generate Shortened Links option</p></figcaption></figure>
+
+Next, select the **bit.ly** shortener option.
+
+<figure><img src="../../../../.gitbook/assets/Screenshot 2026-10-28 164751512.png" alt=""><figcaption></figcaption></figure>
 
 Next, generate the Bitly generic access token.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-09-23 141418e.png" alt=""><figcaption><p>Generate the Bitly generic access token</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2026-10-28 165954.png" alt=""><figcaption><p>Select the bit.ly shortener</p></figcaption></figure>
 
 #### **To generate the Bitly generic access token:**
 
@@ -43,10 +47,10 @@ After this, copy the access token.&#x20;
 Finally, paste the generic access token in the Generate Shortened Links section of the GoAffPro app and click on **Submit**.
 
 {% hint style="info" %}
-The referral links of all new affiliate registrations will automatically be shortened as Bitly links. For existing affiliates, the referral link will have to be shortened manually using this [guide](https://docs.goaffpro.com/how-tos/generate-shortened-bitly-links/generate-bitly-links-for-existing-affiliates).
+The referral links of all new affiliate registrations will automatically be shortened as Bitly links. For existing affiliates, the referral link can be shortened manually using this [guide](https://docs.goaffpro.com/how-tos/generate-shortened-bitly-links/generate-bitly-links-for-existing-affiliates).
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-09-16 1717250.png" alt=""><figcaption><p>Click on Submit</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2026-10-28 165959.png" alt=""><figcaption><p>Click on Submit > Done</p></figcaption></figure>
 
 <details>
 

@@ -1,3 +1,7 @@
+---
+description: GoAffPro Admin Page > Manage > Bulk Tools
+---
+
 # Bulk Tools
 
 The **Bulk Tools** tab offers you options for bulk operations to manage affiliates in your program. You can bulk import or update sales volume, commissions, affiliates, coupons, etc.
