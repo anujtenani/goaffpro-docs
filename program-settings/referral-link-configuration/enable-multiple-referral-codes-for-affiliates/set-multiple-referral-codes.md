@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Setup Multiple Referral Codes
 
 ### To set up multiple referral codes for affiliates as a merchant: <a href="#to-set-up-multiple-referral-codes-for-affiliates-as-a-merchant" id="to-set-up-multiple-referral-codes-for-affiliates-as-a-merchant"></a>

@@ -4,11 +4,11 @@
 
 To shorten affiliate links as Bitly links, go to the **Advanced** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../../.gitbook/assets/image (3608).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4004).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 
 Here, go to the Generate Shortened Links section.
 
-<figure><img src="../../../../.gitbook/assets/image (3610).png" alt=""><figcaption><p>Generate Shortened Links</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4006).png" alt=""><figcaption><p>Referral link</p></figcaption></figure>
 
 Now, select the **bit.ly** shortener option.
 

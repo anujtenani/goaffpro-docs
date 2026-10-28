@@ -4,23 +4,31 @@
 
 To generate shortened links with the Shopify shortener, go to the **Advanced** section in the **Settings** tab of the GoAffPro admin panel.
 
-<figure><img src="../../../.gitbook/assets/image (3608).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4005).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 
-Here, go to the Generate Shortened Links section.
+Here, go to the Referral link section.
 
-![Generate Shortened Links](<../../../.gitbook/assets/image (3112).png>)
+<figure><img src="../../../.gitbook/assets/image (4007).png" alt=""><figcaption><p>Referral link</p></figcaption></figure>
 
-Now, select the Shopify shortener option.
+Now, click on the **Generate Shortened Links** option.
 
-![Select Shopify shortener](<../../../.gitbook/assets/image (1203).png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-10-28 164747.png" alt=""><figcaption><p>Click on the Generate Shortened Links option</p></figcaption></figure>
 
-After this, the referral links of new affiliates will automatically get shortened using the Shopify shortener.&#x20;
+Next, select the Shopify shortener.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-10-28 164751.png" alt=""><figcaption><p>Select the Shopify shortener</p></figcaption></figure>
+
+After this, click on **Done**.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-10-28 16475512.png" alt=""><figcaption><p>Click on Done</p></figcaption></figure>
+
+The referral links of new affiliates will automatically be shortened using the Shopify shortener.
 
 {% hint style="info" %}
-For shortening the referral links of existing affiliates, you can follow this [guide](../../../program-management/manage-affiliates/shorten-an-affiliate-referral-link/shorten-link-using-shopify-shortner.md).&#x20;
+To shorten the referral links of your existing affiliates, you can follow this [guide](../../../program-management/manage-affiliates/shorten-an-affiliate-referral-link/shorten-link-using-shopify-shortner.md).&#x20;
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (2289).png>)
+<figure><img src="../../../.gitbook/assets/image (4008).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=eNk_ldW9hV4" %}
 Generate Shortened Links with Shopify Shortener
