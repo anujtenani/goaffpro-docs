@@ -48,6 +48,6 @@ Affiliates cannot see rejected sales in their dashboard. They can only view appr
 
 </details>
 
-{% embed url="https://youtu.be/5JgF6DGRtlc" %}
+{% embed url="https://youtu.be/CU7b8Kulra8" %}
 Accept/Reject Affiliate Sales
 {% endembed %}
