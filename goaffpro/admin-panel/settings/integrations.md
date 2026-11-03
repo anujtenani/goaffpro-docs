@@ -6,7 +6,7 @@ description: GoAffPro Admin Page > Settings > Integrations
 
 The **Integrations** section can be used to integrate third-party apps with GoAffPro. These include PayPal, Klaviyo, MailChimp, and more.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (179).png" alt=""><figcaption><p>Settings > Integrations</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4015).png" alt=""><figcaption><p>Settings > Integrations</p></figcaption></figure>
 
 ### **PayPal Payouts**
 
@@ -22,11 +22,11 @@ You can use this to make payments to your affiliates quickly from within the app
 [setup-paypal-payouts](../../../affiliate-payments/setup-paypal-payouts/)
 {% endcontent-ref %}
 
-### **Google ReCaptcha**
+### **Captcha**
 
-Provides you with the option to add a Google ReCaptcha to the signup page to protect your program from bots or spam registrations.
+Provides you with the option to add a Captcha to the signup page to protect your program from bots or spam registrations.
 
-![Google ReCaptcha](<../../../.gitbook/assets/image (645).png>)
+<figure><img src="../../../.gitbook/assets/image (4016).png" alt=""><figcaption><p>Captcha</p></figcaption></figure>
 
 {% content-ref url="../../../program-settings/integrations/recaptcha-verification-for-signup-page.md" %}
 [recaptcha-verification-for-signup-page.md](../../../program-settings/integrations/recaptcha-verification-for-signup-page.md)
@@ -46,7 +46,7 @@ Provides you with the option to add a Google ReCaptcha to the signup page to pro
 
 The **Order tags** feature allows you to add extra information to your admin panel's order details page. You can also use dynamic tags to retrieve query parameters.
 
-<figure><img src="../../../.gitbook/assets/image (3403).png" alt=""><figcaption><p>Order tags</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4017).png" alt=""><figcaption><p>Order tags</p></figcaption></figure>
 
 {% content-ref url="../../../program-settings/integrations/setup-order-tags/" %}
 [setup-order-tags](../../../program-settings/integrations/setup-order-tags/)
@@ -56,7 +56,7 @@ The **Order tags** feature allows you to add extra information to your admin pan
 
 The **Customer tags** feature allows you to add additional tags to an affiliate's customer in Shopify.
 
-<figure><img src="../../../.gitbook/assets/image (3404).png" alt=""><figcaption><p>Customer tags</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4018).png" alt=""><figcaption><p>Customer tags</p></figcaption></figure>
 
 {% content-ref url="../../../program-settings/integrations/add-customer-tags.md" %}
 [add-customer-tags.md](../../../program-settings/integrations/add-customer-tags.md)
@@ -180,57 +180,11 @@ You can sync your affiliate data with a list in your CampaignMonitor account.
 [campaignmonitor-integration.md](../../../program-settings/integrations/campaignmonitor-integration.md)
 {% endcontent-ref %}
 
-### Google tag manager
+### Hydrogen / Headless setup
 
-Establish conversion tracking with Google Tag Manager to automatically track conversions in Google Analytics.
+You can add affiliate tracking to your Shopify Hydrogen or custom headless storefront.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (307).png" alt=""><figcaption><p>Google tag manager</p></figcaption></figure>
-
-{% hint style="info" %}
-[**Google Tag Manager**](https://tagmanager.google.com/) lets you measure your advertising ROI.
-{% endhint %}
-
-{% content-ref url="../../../program-settings/integrations/google-tag-manager-integration.md" %}
-[google-tag-manager-integration.md](../../../program-settings/integrations/google-tag-manager-integration.md)
-{% endcontent-ref %}
-
-### MemberVault
-
-It allows you to track the conversions of your MemberVault product pages.
-
-<figure><img src="../../../.gitbook/assets/image (308).png" alt=""><figcaption><p>MemberVault</p></figcaption></figure>
-
-{% hint style="info" %}
-[**MemberVault**](https://membervault.co/) is a platform for content creators and online businesses to quickly create, sell, and deliver offers.
-{% endhint %}
-
-{% content-ref url="../../../program-settings/integrations/membervault-integration.md" %}
-[membervault-integration.md](../../../program-settings/integrations/membervault-integration.md)
-{% endcontent-ref %}
-
-### **Vimeo OTT**
-
-You can use this to connect GoAffPro with your Vimeo OTT Subscription.
-
-<figure><img src="../../../.gitbook/assets/image (923).png" alt=""><figcaption><p>Vimeo OTT</p></figcaption></figure>
-
-{% hint style="info" %}
-[**Vimeo OTT**](https://vimeo.com/ott) provides you with the option to launch a video subscription channel.
-{% endhint %}
-
-{% content-ref url="../../../program-settings/integrations/vimeo-ott-integration.md" %}
-[vimeo-ott-integration.md](../../../program-settings/integrations/vimeo-ott-integration.md)
-{% endcontent-ref %}
-
-### **Third party checkout**
-
-You can use this to connect third-party checkout apps with GoAffPro.
-
-![Third party checkout](<../../../.gitbook/assets/image (3051).png>)
-
-{% content-ref url="../../../program-settings/integrations/third-party-checkout-integration.md" %}
-[third-party-checkout-integration.md](../../../program-settings/integrations/third-party-checkout-integration.md)
-{% endcontent-ref %}
+<figure><img src="../../../.gitbook/assets/image (4019).png" alt=""><figcaption><p>Hydrogen / Headless setup</p></figcaption></figure>
 
 ### Shopify Buy Button
 
@@ -242,28 +196,14 @@ You can use this to enable tracking when using the Shopify buy button embedded o
 [shopify-buy-button-integration.md](../../../program-settings/integrations/shopify-buy-button-integration.md)
 {% endcontent-ref %}
 
-### **Yampi Checkout**
+### **Third party checkout**
 
-You also get the option to integrate the Yampi checkout with your Shopify store.&#x20;
+You can use this to connect third-party checkout apps with GoAffPro.
 
-<figure><img src="../../../.gitbook/assets/image (426).png" alt=""><figcaption><p>Yampi Checkout</p></figcaption></figure>
+![Third party checkout](<../../../.gitbook/assets/image (3051).png>)
 
-{% content-ref url="../../../program-settings/integrations/yampi-checkout-integration.md" %}
-[yampi-checkout-integration.md](../../../program-settings/integrations/yampi-checkout-integration.md)
-{% endcontent-ref %}
-
-### **Zipify OCU**
-
-You also have the option to integrate conversion tracking with the Zipify OCU app by adding the tracking code to the "Thank You page" of the Zipify OCU app.
-
-![Zipify OCU](<../../../.gitbook/assets/image (2527).png>)
-
-{% hint style="info" %}
-[**Zipify OCU**](https://landing.zipify.com/pages/ocu20) provides you with one-click up-sell solutions for your store.&#x20;
-{% endhint %}
-
-{% content-ref url="../../../program-settings/integrations/zipify-ocu-integration.md" %}
-[zipify-ocu-integration.md](../../../program-settings/integrations/zipify-ocu-integration.md)
+{% content-ref url="../../../program-settings/integrations/third-party-checkout-integration.md" %}
+[third-party-checkout-integration.md](../../../program-settings/integrations/third-party-checkout-integration.md)
 {% endcontent-ref %}
 
 ### **Recharge Payments**
@@ -294,6 +234,20 @@ You have the option to connect Square Checkout for conversion tracking.
 [square-checkout-integration.md](../../../program-settings/integrations/square-checkout-integration.md)
 {% endcontent-ref %}
 
+### Google tag manager
+
+Establish conversion tracking with Google Tag Manager to automatically track conversions in Google Analytics.
+
+<figure><img src="../../../.gitbook/assets/image (307).png" alt=""><figcaption><p>Google tag manager</p></figcaption></figure>
+
+{% hint style="info" %}
+[**Google Tag Manager**](https://tagmanager.google.com/) lets you measure your advertising ROI.
+{% endhint %}
+
+{% content-ref url="../../../program-settings/integrations/google-tag-manager-integration.md" %}
+[google-tag-manager-integration.md](../../../program-settings/integrations/google-tag-manager-integration.md)
+{% endcontent-ref %}
+
 ### **PayWhirl**
 
 You can also connect to PayWhirl by integrating the tracking code in the PayWhirl "Thank You page."
@@ -306,6 +260,34 @@ You can also connect to PayWhirl by integrating the tracking code in the PayWhir
 
 {% content-ref url="../../../program-settings/integrations/paywhirl-integration.md" %}
 [paywhirl-integration.md](../../../program-settings/integrations/paywhirl-integration.md)
+{% endcontent-ref %}
+
+### MemberVault
+
+It allows you to track the conversions of your MemberVault product pages.
+
+<figure><img src="../../../.gitbook/assets/image (308).png" alt=""><figcaption><p>MemberVault</p></figcaption></figure>
+
+{% hint style="info" %}
+[**MemberVault**](https://membervault.co/) is a platform for content creators and online businesses to quickly create, sell, and deliver offers.
+{% endhint %}
+
+{% content-ref url="../../../program-settings/integrations/membervault-integration.md" %}
+[membervault-integration.md](../../../program-settings/integrations/membervault-integration.md)
+{% endcontent-ref %}
+
+### **Vimeo OTT**
+
+You can use this to connect GoAffPro with your Vimeo OTT Subscription.
+
+<figure><img src="../../../.gitbook/assets/image (923).png" alt=""><figcaption><p>Vimeo OTT</p></figcaption></figure>
+
+{% hint style="info" %}
+[**Vimeo OTT**](https://vimeo.com/ott) provides you with the option to launch a video subscription channel.
+{% endhint %}
+
+{% content-ref url="../../../program-settings/integrations/vimeo-ott-integration.md" %}
+[vimeo-ott-integration.md](../../../program-settings/integrations/vimeo-ott-integration.md)
 {% endcontent-ref %}
 
 ***

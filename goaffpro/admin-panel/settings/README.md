@@ -88,10 +88,10 @@ Here, you can enable options such as targets, customer-affiliate connections, me
 
 ### Integrations&#x20;
 
-You can integrate GoAffPro with third-party apps to enhance affiliate management, sync affiliate data with email marketing services, and register affiliates as customers in your store. Add Google ReCaptcha for security and integrate PayPal Payouts to send payments to affiliates directly within the app.
+You can integrate GoAffPro with third-party apps to enhance affiliate management, sync affiliate data with email marketing services, and register affiliates as customers in your store. Add Captcha to the signup page for security and integrate PayPal Payouts to send payments to affiliates directly within the app.
 
 * PayPal Payouts
-* Google ReCaptcha
+* Captcha
 * Account Sync
 * Order tags
 * Customer tags
@@ -106,16 +106,15 @@ You can integrate GoAffPro with third-party apps to enhance affiliate management
 * CampaignMonitor
 * Squarespace Conversion
 * Squarespace/Acuity Scheduling
-* Google tag manager
-* MemberVault
-* Vimeo OTT
-* Third party checkout
+* Hydrogen / Headless setup
 * Shopify Buy Button
-* Yampi Checkout
-* Zipify OCU
+* Third party checkout
 * ReCharge Payments
 * Square Checkout
+* Google tag manager
 * PayWhirl
+* MemberVault
+* Vimeo OTT
 
 {% content-ref url="integrations.md" %}
 [integrations.md](integrations.md)
@@ -145,20 +144,20 @@ Here, you can **customize the affiliate program** using advanced options. You ca
   * Multiple referral codes
   * Referral Link Style
   * Referral Link Identifiers
-* Referral Link Parameters
-* Blocked IP/Origins
-* Block Google Ads
-* Click to conversion window
-* Affiliate Conflict Resolution
-* Generate Shortened Links
+  * Referral Link Parameters
+  * Generate Shortened Links
 * Conversion Preference Order
 * Customer cookie consent
 * Cart based tracking
+* Blocked IP/Origins
+* Block Google Ads
+* Click to conversion window
+* Order processing delay
+* Affiliate Conflict Resolution
 * Cost of Goods deduction
 * Auto approve affiliates from
 * Multi Currency
 * Give individual codes
-* Multi-Currency
 * Sales reporting
 * Extra fields
 * Single Sign-On

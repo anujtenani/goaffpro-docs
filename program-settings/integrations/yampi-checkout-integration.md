@@ -1,3 +1,8 @@
+---
+hidden: true
+noIndex: true
+---
+
 # Yampi Checkout Integration
 
 **GoAffPro** provides you with the option to integrate Yampi checkout.

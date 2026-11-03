@@ -6,26 +6,46 @@ description: GoAffPro Admin Panel > Settings > Advanced
 
 The **Advanced** section can be used to set up and edit advanced options in your affiliate program.
 
-<figure><img src="../../../.gitbook/assets/image (180).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-10-21 174223 (1).png" alt=""><figcaption><p>Settings > Advanced</p></figcaption></figure>
 
 ### **Referral Link**
 
-The **Referral Link** section allows you to set the default referral link and the default network link. You can also enable the auto ref linking option, enable the multiple referral codes option, or set the referral code style for affiliates.
+The **Referral Link** section lets you configure the default referral link and the default network link. Additionally, you can enable options for auto ref linking and multiple referral codes. You can customize the referral link style, set referral link identifiers, specify referral parameters (UTM parameters), and generate shortened referral links.
 
-<figure><img src="../../../.gitbook/assets/image (3423).png" alt=""><figcaption><p>Referral link</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4011).png" alt=""><figcaption><p>Referral link</p></figcaption></figure>
 
 {% content-ref url="../../../program-settings/referral-link-configuration/" %}
 [referral-link-configuration](../../../program-settings/referral-link-configuration/)
 {% endcontent-ref %}
 
-### Referral Link Parameters
+### Conversion Preference Order
 
-The **Referral Link Parameters** option allows you to add parameters to the referral link of affiliates. You can add one parameter pair per line.
+The **Conversion Preference Order** option allows you to set the preference order of conversion tests for the sale attribution to affiliates.
 
-![Referral Link Parameters](<../../../.gitbook/assets/Annotation 2020-02-27 030031.png>)
+<figure><img src="../../../.gitbook/assets/image (1796).png" alt=""><figcaption><p>Conversion Preference Order</p></figcaption></figure>
 
-{% content-ref url="../../../program-settings/referral-link-configuration/set-referral-link-parameters.md" %}
-[set-referral-link-parameters.md](../../../program-settings/referral-link-configuration/set-referral-link-parameters.md)
+{% content-ref url="../../../program-settings/advanced-settings/set-conversion-preference-order/" %}
+[set-conversion-preference-order](../../../program-settings/advanced-settings/set-conversion-preference-order/)
+{% endcontent-ref %}
+
+### Customer cookie consent
+
+The **Customer cookie consent** option allows you to configure the loading of the tracking code in your store according to the customer's cookie preferences.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Customer cookie consent</p></figcaption></figure>
+
+{% content-ref url="../../../program-settings/advanced-settings/configure-cookie-consent.md" %}
+[configure-cookie-consent.md](../../../program-settings/advanced-settings/configure-cookie-consent.md)
+{% endcontent-ref %}
+
+### Cart based tracking
+
+The **Cart based tracking** option allows you to add tracking to the cart metadata for cross-window/browser tracking.
+
+![Cart based tracking](<../../../.gitbook/assets/image (2000).png>)
+
+{% content-ref url="../../../program-settings/advanced-settings/enable-cart-based-tracking.md" %}
+[enable-cart-based-tracking.md](../../../program-settings/advanced-settings/enable-cart-based-tracking.md)
 {% endcontent-ref %}
 
 ### **Blocked IP/Origins**
@@ -58,6 +78,12 @@ The **Click to conversion window** option allows you to set the time frame in wh
 [set-click-to-conversion-window.md](../../../program-settings/advanced-settings/set-click-to-conversion-window.md)
 {% endcontent-ref %}
 
+### Order Processing Delay
+
+The **Order processing delay** option allows you to postpone the processing time for new orders. This ensures that any changes made to the order, such as order tags or upsells, are applied before the order is processed.
+
+<figure><img src="../../../.gitbook/assets/image (4012).png" alt=""><figcaption><p>Order processing delay</p></figcaption></figure>
+
 ### Affiliate Conflict Resolution
 
 The **Affiliate Conflict Resolution** option lets you decide which affiliate will get the credit when a customer comes using two different affiliate links.&#x20;
@@ -66,50 +92,6 @@ The **Affiliate Conflict Resolution** option lets you decide which affiliate wil
 
 {% content-ref url="../../../program-settings/advanced-settings/affiliate-conflict-resolution.md" %}
 [affiliate-conflict-resolution.md](../../../program-settings/advanced-settings/affiliate-conflict-resolution.md)
-{% endcontent-ref %}
-
-### Generate Shortened Links
-
-Here, you can set up the referral links of affiliates to automatically get shortened with a URL shortener.&#x20;
-
-![Generate Shortened Links](<../../../.gitbook/assets/image (389).png>)
-
-{% content-ref url="../../../program-settings/referral-link-configuration/generate-shortened-links/generate-shortened-bitly-links/" %}
-[generate-shortened-bitly-links](../../../program-settings/referral-link-configuration/generate-shortened-links/generate-shortened-bitly-links/)
-{% endcontent-ref %}
-
-{% content-ref url="../../../program-settings/referral-link-configuration/generate-shortened-links/generate-shortened-links-with-shopify-shortener.md" %}
-[generate-shortened-links-with-shopify-shortener.md](../../../program-settings/referral-link-configuration/generate-shortened-links/generate-shortened-links-with-shopify-shortener.md)
-{% endcontent-ref %}
-
-### Conversion Preference Order
-
-The **Conversion Preference Order** option allows you to set the preference order of conversion tests for the sale attribution to affiliates.
-
-<figure><img src="../../../.gitbook/assets/image (1796).png" alt=""><figcaption><p>Conversion Preference Order</p></figcaption></figure>
-
-{% content-ref url="../../../program-settings/advanced-settings/set-conversion-preference-order/" %}
-[set-conversion-preference-order](../../../program-settings/advanced-settings/set-conversion-preference-order/)
-{% endcontent-ref %}
-
-### Customer cookie consent
-
-The **Customer cookie consent** option allows you to configure the loading of the tracking code in your store according to the customer's cookie preferences.&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Customer cookie consent</p></figcaption></figure>
-
-{% content-ref url="../../../program-settings/advanced-settings/configure-cookie-consent.md" %}
-[configure-cookie-consent.md](../../../program-settings/advanced-settings/configure-cookie-consent.md)
-{% endcontent-ref %}
-
-### Cart based tracking
-
-The **Cart based tracking** option allows you to add tracking to the cart metadata for cross-window/browser tracking.
-
-![Cart based tracking](<../../../.gitbook/assets/image (2000).png>)
-
-{% content-ref url="../../../program-settings/advanced-settings/enable-cart-based-tracking.md" %}
-[enable-cart-based-tracking.md](../../../program-settings/advanced-settings/enable-cart-based-tracking.md)
 {% endcontent-ref %}
 
 ### Cost of Goods deduction
@@ -156,7 +138,7 @@ The **Give individual codes** option allows you to generate individual discount 
 
 The **Sales reporting** option allows you to change the way sales are reported to affiliates, you can choose between order total or order subtotal (commissionable value).
 
-![Sales reporting](<../../../.gitbook/assets/Annotation 2020-02-27 030838.png>)
+<figure><img src="../../../.gitbook/assets/image (4013).png" alt=""><figcaption><p>Sales reporting</p></figcaption></figure>
 
 {% content-ref url="../../../program-settings/advanced-settings/setup-sales-reporting.md" %}
 [setup-sales-reporting.md](../../../program-settings/advanced-settings/setup-sales-reporting.md)
@@ -176,7 +158,7 @@ The **Extra fields** option allows you to add extra input fields to an affiliate
 
 The **Single Sign-on** feature allows your affiliates who are also customers to access their affiliate accounts from the Shopify accounts page.
 
-![Single Sign-on](<../../../.gitbook/assets/Annotation 2020-02-27 030757.png>)
+<figure><img src="../../../.gitbook/assets/image (4014).png" alt=""><figcaption><p>Single Sign-on</p></figcaption></figure>
 
 {% content-ref url="../../../program-settings/advanced-settings/setup-single-sign-on-integration.md" %}
 [setup-single-sign-on-integration.md](../../../program-settings/advanced-settings/setup-single-sign-on-integration.md)

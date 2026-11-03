@@ -1,3 +1,8 @@
+---
+hidden: true
+noIndex: true
+---
+
 # Zipify OCU Integration
 
 **GoAffPro** provides you with the option to integrate the Zipify OCU app.
