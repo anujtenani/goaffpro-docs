@@ -8,15 +8,15 @@ To set the performance optimization settings for referral tracking, go to the **
 
 Here, go to the Tracking Performance section.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3864).png" alt=""><figcaption><p>Tracking Performance</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4020).png" alt=""><figcaption><p>Tracking Performance</p></figcaption></figure>
 
 Now, you can choose the loading mode.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-04-22 18343142.png" alt=""><figcaption><p>Choose the loading mode</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-11-03 223120.png" alt=""><figcaption><p>Choose the loading mode</p></figcaption></figure>
 
 The loading mode will be set.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3866).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4021).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 

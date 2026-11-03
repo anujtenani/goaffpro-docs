@@ -12,7 +12,7 @@ The **Developer** section can be used to set up development features, such as we
 
 **Webhooks** allow you to set up and develop custom programming with the GoAffPro app.
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Webhooks</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4023).png" alt=""><figcaption><p>Webhooks</p></figcaption></figure>
 
 {% content-ref url="../../../program-settings/developer-settings/add-webhooks.md" %}
 [add-webhooks.md](../../../program-settings/developer-settings/add-webhooks.md)
@@ -52,7 +52,7 @@ The **Custom JavaScript** option enables you to load custom JavaScript alongside
 
 The **Tracking performance** section allows you to optimize the settings for referral tracking in your store.
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Tracking performance</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4022).png" alt=""><figcaption><p>Tracking Performance</p></figcaption></figure>
 
 {% content-ref url="../../../program-settings/developer-settings/setup-tracking-performance.md" %}
 [setup-tracking-performance.md](../../../program-settings/developer-settings/setup-tracking-performance.md)
