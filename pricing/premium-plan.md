@@ -96,7 +96,6 @@ You can upgrade your GoAffPro membership to the [premium plan](https://goaffpro.
 * Invoices
 * Earnings Report
 * Legal Documents
-* Webhooks
 
 **Third Party Integrations**
 
@@ -110,17 +109,21 @@ You can upgrade your GoAffPro membership to the [premium plan](https://goaffpro.
 * MailerLite&#x20;
 * ActiveCampaign&#x20;
 * CampaignMonitor&#x20;
+* Shopify Buy Button
 * Squarespace/Acuity Scheduling&#x20;
 * ReCharge Payments&#x20;
-* Bold Subscription
+
+**Developer Settings**
+
+* Webhooks
 
 **Advanced Settings**
 
 * Multiple Referral Codes&#x20;
 * Referral Link Parameters&#x20;
-* Blocked IP/Origins&#x20;
-* Affiliate Conflict Resolution&#x20;
 * Generate Shortened Links (Bitly/Shopify/Cuttly)&#x20;
+* Blocked IP/Origins&#x20;
+* Affiliate Conflict Resolution
 * Third Party Tracking
 * Affiliate Portal Alias
 

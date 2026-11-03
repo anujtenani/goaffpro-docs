@@ -4,6 +4,34 @@ description: New Features & Updates
 
 # Changelog
 
+### July 2026
+
+#### Shopify Buy Button Integration
+
+Enable tracking for the [Shopify buy button](changelog.md#shopify-buy-button-integration) that is embedded on external sites.
+
+You can enable this from the Settings > Integrations section. Once enabled, add the displayed tracking code to the pages with the embedded Shopify buy button.
+
+<figure><img src="../.gitbook/assets/image (4024).png" alt=""><figcaption><p>Shopify Buy Button</p></figcaption></figure>
+
+#### Secure Manager Access
+
+Set up [secure access](changelog.md#secure-manager-access) to the GoAffPro admin panel exclusively for users with manager accounts. This will restrict direct app access through the Shopify admin panel. Only users with manager accounts will have the ability to log in to the admin panel via goaffpro.com/login.
+
+You can enable it from the Settings > Extras > Manager only access section.
+
+<figure><img src="../.gitbook/assets/image (4027).png" alt=""><figcaption><p>Secure Manager Access</p></figcaption></figure>
+
+#### Referral & Coupon Option
+
+The "Tracking Modes" section has now been updated and renamed as the "Referral & Coupon Options" section. It lets you enable options for affiliates to customize their referral code, coupon code, personal coupon, and display additional instructions in their dashboard.
+
+You can set them in the Look and Feel > Affiliate Dashboard section.
+
+<figure><img src="../.gitbook/assets/image (4026).png" alt=""><figcaption><p>Referral &#x26; Coupon Options</p></figcaption></figure>
+
+***
+
 ### June 2026
 
 #### Marketing CRM for Affiliates

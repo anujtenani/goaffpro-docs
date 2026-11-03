@@ -100,7 +100,6 @@ This plan includes a comprehensive package of features and tools designed to ele
 * Invoices
 * Earnings Report
 * Legal Documents
-* Webhooks
 
 **Third Party Integrations**
 
@@ -114,17 +113,21 @@ This plan includes a comprehensive package of features and tools designed to ele
 * MailerLite&#x20;
 * ActiveCampaign&#x20;
 * CampaignMonitor&#x20;
+* Shopify Buy Button
 * Squarespace/Acuity Scheduling&#x20;
 * ReCharge Payments&#x20;
-* Bold Subscription
+
+**Developer Settings**
+
+* Webhooks
 
 **Advanced Settings**
 
 * Multiple Referral Codes&#x20;
 * Referral Link Parameters&#x20;
+* Generate Shortened Links (Bitly/Shopify/Cuttly)
 * Blocked IP/Origins&#x20;
 * Affiliate Conflict Resolution&#x20;
-* Generate Shortened Links (Bitly/Shopify/Cuttly)&#x20;
 * Third Party Tracking
 * Affiliate Portal Alias
 
