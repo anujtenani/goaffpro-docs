@@ -26,6 +26,6 @@ You can also configure volume calculations based on line items, commissionable l
 
 <figure><img src="../../.gitbook/assets/Screenshot 2026-11-03 213305213.png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://www.youtube.com/watch?v=BxHL56RYFBI&feature=youtu.be" %}
+{% embed url="https://youtu.be/QI7Y_9m6s6M" %}
 Setup Sales Reporting
 {% endembed %}
