@@ -605,6 +605,7 @@
   * [Block Commission from Domains](program-settings/advanced-settings/block-commission-from-domains.md)
   * [Block Commission from Google Ads](program-settings/advanced-settings/block-commission-from-google-ads.md)
   * [Set Click to Conversion Window](program-settings/advanced-settings/set-click-to-conversion-window.md)
+  * [Setup Order Processing Delay](program-settings/advanced-settings/setup-order-processing-delay.md)
   * [Affiliate Conflict Resolution](program-settings/advanced-settings/affiliate-conflict-resolution.md)
   * [Enable Cost of Goods Deduction](program-settings/advanced-settings/enable-cost-of-goods-deduction.md)
   * [Setup Auto Approve Affiliates Source](program-settings/advanced-settings/setup-auto-approve-affiliates-source.md)

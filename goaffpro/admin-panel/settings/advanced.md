@@ -84,6 +84,10 @@ The **Order processing delay** option allows you to postpone the processing time
 
 <figure><img src="../../../.gitbook/assets/image (4012).png" alt=""><figcaption><p>Order processing delay</p></figcaption></figure>
 
+{% content-ref url="../../../program-settings/advanced-settings/setup-order-processing-delay.md" %}
+[setup-order-processing-delay.md](../../../program-settings/advanced-settings/setup-order-processing-delay.md)
+{% endcontent-ref %}
+
 ### Affiliate Conflict Resolution
 
 The **Affiliate Conflict Resolution** option lets you decide which affiliate will get the credit when a customer comes using two different affiliate links.&#x20;

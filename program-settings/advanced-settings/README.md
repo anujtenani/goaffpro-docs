@@ -9,7 +9,7 @@ The **Advanced** settings section lets you configure and set up advanced feature
 * [Block IP/Origins](block-commission-from-domains.md)&#x20;
 * [Block Google Ads](block-commission-from-google-ads.md)
 * [Click to Conversion Window](set-click-to-conversion-window.md)
-* Order Processing Delay
+* [Setup Order Processing Delay](setup-order-processing-delay.md)
 * [Affiliate Conflict Resolution](affiliate-conflict-resolution.md)
 * [Enable Cost of Goods Deduction](enable-cost-of-goods-deduction.md)
 * [Setup Auto Approve Affiliate Source](setup-auto-approve-affiliates-source.md)
