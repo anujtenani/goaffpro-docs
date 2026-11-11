@@ -4,6 +4,26 @@ description: New Features & Updates
 
 # Changelog
 
+### August 2026
+
+#### Give Commission Only for New Customers
+
+The "Give commission only for new customers" option has been renamed to "Only record new customer purchases." It lets you set the program to only record new customer sales.
+
+You can enable this from the Settings > General > Sales section.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-11-11 184403421.png" alt=""><figcaption><p>Settings > General > Sales section</p></figcaption></figure>
+
+#### Manager Account Portal
+
+The manager account access portal has now been updated from app.goaffpro.com/manage to goaffpro.com/login&#x20;
+
+You can log in at the goaffpro.com/login page > Select the "I manage programs for brands" option and access the dashboard.
+
+<figure><img src="../.gitbook/assets/image (4031).png" alt=""><figcaption><p>Open goaffpro.com/login > Select "I manage programs for brands" > Access dashboard</p></figcaption></figure>
+
+***
+
 ### July 2026
 
 #### Shopify Buy Button Integration
