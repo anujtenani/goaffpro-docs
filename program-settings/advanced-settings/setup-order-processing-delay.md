@@ -25,3 +25,7 @@ You can enable the "Refetch the order data during processing" toggle to ensure t
 Finally, the order processing delay will set for your program.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (4030).png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://youtu.be/-1ZkN6FVTjE" %}
+Setup Order Processing Delay
+{% endembed %}
