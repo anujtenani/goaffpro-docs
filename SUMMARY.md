@@ -542,7 +542,7 @@
   * [Secure Manager Access](program-settings/create-affiliate-program-manager/secure-manager-access.md)
   * [Manager for Multiple Affiliate Programs](program-settings/create-affiliate-program-manager/manager-for-multiple-affiliate-programs.md)
 * [Integrations](program-settings/integrations/README.md)
-  * [Google ReCaptcha Integration](program-settings/integrations/recaptcha-verification-for-signup-page.md)
+  * [Captcha Integration](program-settings/integrations/captcha-verification-for-signup-page.md)
   * [Setup Account Sync](program-settings/integrations/setup-account-sync.md)
   * [Setup Order Tags](program-settings/integrations/setup-order-tags/README.md)
     * [Create Order Tags](program-settings/integrations/setup-order-tags/create-order-tags.md)

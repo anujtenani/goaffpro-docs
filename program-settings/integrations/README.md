@@ -7,7 +7,7 @@ description: Third Party Integrations
 The **Integrations** section allows you to integrate third party applications with GoAffPro. These integrations include:
 
 * [PayPal Payouts](../../affiliate-payments/setup-paypal-payouts/)
-* [Captcha](recaptcha-verification-for-signup-page.md)
+* [Captcha](captcha-verification-for-signup-page.md)
 * [Account Sync](setup-account-sync.md)
 * [Order Tags](setup-order-tags/create-order-tags.md)
 * [Customer Tags](add-customer-tags.md)

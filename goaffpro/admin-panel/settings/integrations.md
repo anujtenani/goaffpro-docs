@@ -28,8 +28,8 @@ Provides you with the option to add a Captcha to the signup page to protect your
 
 <figure><img src="../../../.gitbook/assets/image (4016).png" alt=""><figcaption><p>Captcha</p></figcaption></figure>
 
-{% content-ref url="../../../program-settings/integrations/recaptcha-verification-for-signup-page.md" %}
-[recaptcha-verification-for-signup-page.md](../../../program-settings/integrations/recaptcha-verification-for-signup-page.md)
+{% content-ref url="../../../program-settings/integrations/captcha-verification-for-signup-page.md" %}
+[captcha-verification-for-signup-page.md](../../../program-settings/integrations/captcha-verification-for-signup-page.md)
 {% endcontent-ref %}
 
 ### **Account Sync**
