@@ -30,6 +30,6 @@ After this, the reprocessed sale will appear in the Sales tab.
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://www.youtube.com/watch?v=RcPyJYjhh5Y" %}
+{% embed url="https://youtu.be/H6jv_ZKrVvw" %}
 Reprocessing Sales
 {% endembed %}
