@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # PayPal Payouts FAQ
 
 ## My PayPal Payouts Integration is not working:
