@@ -9,30 +9,21 @@ In the case that your PayPal Payouts integration is not working. Check the follo
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-01-15 1340356.png" alt=""><figcaption><p>Use Live Credentials</p></figcaption></figure>
 
-## The Send Money button is greyed out:
+### ERROR TROUBLESHOOTING
 
-In the case that the **Send Money** button is greyed (not clickable), make sure that you have entered "confirm" in the confirmation field.
+#### PayPal Payouts IP Requirement
 
-{% hint style="info" %}
-This only applies to merchants who are on the old payment module.&#x20;
-{% endhint %}
+If you are having difficulties making payments to affiliates using PayPal payouts? The PayPal team now requires a fixed IP address to process payouts.
 
-![Type "confirm" in the confirmation field](<../../.gitbook/assets/Screenshot 2020-10-05 220705.png>)
+You can submit a support ticket with PayPal for issues with the Payouts API and provide them with the following two IP addresses:
 
-## Common Errors
+* 2a01:4ff:f0:9b54::1&#x20;
+* 5.161.205.57
 
-#### Payment Errors
+#### AUTHORIZATION\_ERROR
 
-Make sure you have sufficient funds in your PayPal account.
+Your PayPal account does not appear to be authorized to use Payouts API. You'll need to ask PayPal customer support to activate PAYOUTS API on your account (only PayPal can do this from their end).
 
-#### "Your account is not authorized to use payouts" Error
+#### INSUFFICIENT\_FUNDS
 
-You will have to contact PayPal customer service to get the Payouts API activated on your account.
-
-<figure><img src="../../.gitbook/assets/image (3396).png" alt=""><figcaption><p>Payouts API error</p></figcaption></figure>
-
-#### Validation Error
-
-If you are getting a validation error, make sure that affiliates don't have their PayPal email address set up with paypal.me (PayPal Payouts does not support paypal.me email addresses).
-
-![](<../../.gitbook/assets/Annotation 2020-08-19 221118 (2).png>)
+Your PayPal account balance does not have sufficient funds for sending money to affiliates. You need to add money to your PayPal account balance for the payments to work.&#x20;
