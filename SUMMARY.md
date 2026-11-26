@@ -562,6 +562,7 @@
   * [CampaignMonitor Integration](program-settings/integrations/campaignmonitor-integration.md)
   * [Squarespace Conversion Integration](program-settings/integrations/squarespace-conversion-integration.md)
   * [Squarespace/Acuity Scheduling Integration](program-settings/integrations/squarespace-acuity-scheduling-integration.md)
+  * [Shopify Hydrogen/Headless Setup](program-settings/integrations/shopify-hydrogen-headless-setup.md)
   * [Shopify Buy Button Integration](program-settings/integrations/shopify-buy-button-integration.md)
   * [Third Party Checkout Integration](program-settings/integrations/third-party-checkout-integration.md)
   * [ReCharge Payments Integration](program-settings/integrations/recharge-payments-integration.md)
